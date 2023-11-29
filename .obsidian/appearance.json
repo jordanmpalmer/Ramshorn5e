@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "clean-embeds",
+    "hide-embedded-header"
+  ],
+  "cssTheme": "ITS Theme",
+  "theme": "moonstone"
+}

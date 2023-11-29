@@ -1,0 +1,1 @@
+This text contains portions of "Dungeon World" by Sage LaTorra and Adam Koebel, licensed under a Creative Commons Attribution 3.0 Unported license.

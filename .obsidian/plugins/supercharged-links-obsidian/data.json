@@ -1,0 +1,113 @@
+{
+  "targetAttributes": [
+    "icon",
+    "tags"
+  ],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "attribute",
+      "name": "tags",
+      "value": "pc",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "f4b6-83d4",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "tags",
+      "value": "npc",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "d2c2-80e8",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "tags",
+      "value": "location",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "808d-a00c",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "tags",
+      "value": "session_note",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "58cb-0c9e",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "icon",
+      "value": "spell",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "a3b7-82b7",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "icon",
+      "value": "monster",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "75fe-0737",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "tags",
+      "value": "group",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "8c30-5027",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "tags",
+      "value": "god",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "7717-a3e0",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}

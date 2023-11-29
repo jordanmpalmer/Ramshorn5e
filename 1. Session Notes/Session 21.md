@@ -1,0 +1,16 @@
+---
+tags: session_note
+alias: 
+---
+
+We sleep through the night, with [[Cedrick|Cedrick]] hearing the sounds of footsteps overhead on the desert above. Waking up, we leave the barricaded room– after clearing the fireplace rubble and [[Dane|Dane]] noting the oasis outside has vanished and the flaming skulls are still in wait– to see the undead have all vacated the area. After a time, we decide the best course of action is to leave and head north while we can. [[Dane|Dane]] shrinks the choir crystal to get it to the surface, and we depart.
+
+Heading outside, we notice what appears to be the aftermath of a skirmish between undead and a group of people– as well as a large reptilian creature– with dead on both sides. We are immediately engaged by the skulls, and make it out alive. Afterwards, we bring the two survivors of the scuffle back to conciousness: a grey-haired human named [[Suhnar Munne]] and his drake [[Breovo]].
+
+We have a brief conversation about what happened and who they are, and set off together towards his “camp” to meet “[[Rezar Besk|The Psion]]”-- someone who might have more insight in terms of where we are, where we’re from, and our situation. Upon arriving, we enter their outpost– with two archers on dragonback flying far above us, looking over the building– and meet [[Rezar Besk|The Psion]], [[Rezar Besk]]. We are informed about the choir rock being a prison of souls that uses them as fuel for profane magics, and upon turning it over to them to save, [[Sol|Sol]], [[Zion|Zion]], and [[Cedrick|Cedrick]] are paid in diamonds, with [[Dane|Dane]] refusing because it’s “the right thing to do”.
+
+Shortly thereafter, [[Dane|Dane]]– and one companion of his choosing, being [[Sol|Sol]] of course– is invited to the back rooms to meet two dragon wyrmlings, who have yet to earn their names. [[Dane|Dane]] instantly gravitates towards and claims the green one as his, and Sol aligns more-so with the black dragon wyrmling due to their shared “noteworthy jawlines”.
+
+Meanwhile, [[Cedrick|Cedrick]] and [[Zion|Zion]] wander about the area until [[Dane|Dane]], [[Sol|Sol]], and the [[Rezar Besk|The Psion]] rejoin them. We are told about the history between them– [[The Reclaimers]]– and their mission to recover the remains of their ancient dragon from the clutches of their enemy– [[The Empire]] – who supposedly use it for profane rituals of sorts. [[Dane|Dane]] and [[Sol|Sol]] immediately empathize with them– totally unrelated to them getting dragons– and are excited to introduce them to [[Ramshorn]] and [[The Elder]], while [[Zion|Zion]] and [[Cedrick|Cedrick]] are wary and reluctant in no small part due to [[The Elder]] threatening the safety of Ramshorn should any harm befall the dragons during their visit. [[Dane|Dane]] attempts to take full responsibility for whatever may happen, but his life alone is not deemed worthy enough collateral for a single dragon. This irks [[Cedrick|Cedrick]] and [[Zion|Zion]] even further, while [[Dane|Dane]] attempts to calm them down.
+
+[[Rezar Besk|The Psion]] eventually takes his leave for the evening, with the plan to set out in the morning, and the group starts to find their respective plots for the night to prepare for the journey to come.

@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "5af55f24448d8bd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e66b3ff0a2216f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66518ef28e947931",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "License.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54ec0e2aa47d474e",
+    "type": "split",
+    "children": [
+      {
+        "id": "81ea0fb1897baf91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "320e69152c07cce2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c6fba8ba9055958",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef9ae4b936459d63",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc0b648bcd83d179",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6492fedd315dbc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e373ad57bde2a31",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "License.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f64e93c3e9f7736b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "License.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "599132c1dd2d8067",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3e0a4dde9df21774",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "License.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "66518ef28e947931",
+  "lastOpenFiles": []
+}
