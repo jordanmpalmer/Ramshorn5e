@@ -8,6 +8,7 @@ class: Warrior
 alignment: Chaotic Neutral
 location: Minastria
 party-alignment: friend
+pc-bond: no
 tags: NPC
 ---
 

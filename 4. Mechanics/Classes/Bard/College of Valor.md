@@ -14,7 +14,7 @@ When you join the College of Valor at 3rd level, you gain proficiency with mediu
 
 #### Combat Inspiration
 
-Also at 3rd level, you learn to inspire others in battle. A creature that has a Bardic Inspiration die from you can roll that die and add the number rolled to a weapon damage roll it just made. Alternatively, when an attack roll is made against the creature, it can use its reaction to roll the Bardic Inspiration die and add the number rolled to its [AC](Abilities.md#Armor%20Class Class>) against that attack, after seeing the roll but before knowing whether it hits or misses.
+Also at 3rd level, you learn to inspire others in battle. A creature that has a Bardic Inspiration die from you can roll that die and add the number rolled to a weapon damage roll it just made. Alternatively, when an attack roll is made against the creature, it can use its reaction to roll the Bardic Inspiration die and add the number rolled to its [AC](<Abilities#Armor Class>) against that attack, after seeing the roll but before knowing whether it hits or misses.
 
 #### Extra Attack
 

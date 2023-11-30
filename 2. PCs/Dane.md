@@ -1,8 +1,8 @@
 ---
+aliases: Dane Ogden
 type: Character
 Race: Human
 Class: Exemplar Fighter
-alias: Dane Ogden
 tags: PC
 ---
 

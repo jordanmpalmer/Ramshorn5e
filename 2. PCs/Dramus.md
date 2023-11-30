@@ -1,8 +1,8 @@
 ---
+aliases: Dramus Ardor
 type: Character
 Race: Half-Drow
 Class: Aristocratic Sorcerer
-alias: Dramus Ardor
 tags: PC
 ---
 

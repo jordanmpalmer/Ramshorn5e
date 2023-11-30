@@ -4,123 +4,102 @@ source: PHB
 tags: sub-class
 alias:
 ---
-The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle's mysterious rites.
+### Circle of the Land
+
+The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle’s wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle’s mysterious rites.
 
 #### Bonus Cantrip
 
-When you choose this circle at 2nd level, you learn one additional druid cantrip of your choice.
+When you choose this circle at 2nd level, you learn one additional druid cantrip of your choice. This cantrip doesn’t count against the number of druid cantrips you know.
 
 #### Natural Recovery
 
-Starting at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher. You can't use this feature again until you finish a long rest.
+Starting at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher. You can’t use this feature again until you finish a long rest.
 
 For example, when you are a 4th-level druid, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level slot or two 1st-level slots.
 
 #### Circle Spells
 
-Your mystical connection to the land infuses you with the ability to cast certain spells. At 3rd, 5th, 7th, and 9th level you gain access to circle spells connected to the land where you became a druid. Choose that land-arctic, coast, desert, forest, grassland, mountain, or swamp-and consult the associated list of spells.
+Your mystical connection to the land infuses you with the ability to cast certain spells. At 3rd, 5th, 7th, and 9th level you gain access to circle spells connected to the land where you became a druid. Choose that land — arctic, coast, desert, forest, grassland, mountain, swamp, or Underdark — and consult the associated list of spells.
 
-Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
+Once you gain access to a circle spell, you always have it prepared, and it doesn’t count against the number of spells you can prepare each day. If you gain access to a spell that doesn’t appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
-**Table- Arctic Circle Spells**
+##### Arctic
+|Druid Level|Spells|
+|---|---|
+|3rd|[hold person](<Hold Person>), [spike growth](<Spike Growth)|
+|5th|[sleet storm](<Sleet Storm>), [slow](Slow)|
+|7th|[freedom of movement](<Freedom of Movement>), [ice storm](<Ice Storm>)|
+|9th|[commune with nature](<Commune with Nature>), [cone of cold](<Cone of Cold>)|
 
-| Druid Level | Circle Spells                     |
-|-------------|-----------------------------------|
-| 3rd         | hold person, spike growth         |
-| 5th         | sleet storm, slow                 |
-| 7th         | freedom of movement, ice storm    |
-| 9th         | commune with nature, cone of cold |
-|             |                                   |
+##### Coast
+|Druid Level|Spells|
+|---|---|
+|3rd|[mirror image](<Mirror Image>), [misty step](<Misty Step>)|
+|5th|[water breathing](<Water Breathing>), [water walk](<Water Walk>)|
+|7th|[control water](<Control Water>), [freedom of movement](<Freedom of Movement>)|
+|9th|[conjure elemental](<Conjure Elemental>), [scrying](Scrying)|
 
-**Table- Coast Circle Spells**
+##### Desert
+|Druid Level|Spells|
+|---|---|
+|3rd|[blur](Blur), [silence](Silence)|
+|5th|[create food and water](<Create Food and Water>), [protection from energy](<Protection from Energy>)|
+|7th|[blight](Blight), [hallucinatory terrain](<Hallucinatory Terrain>)|
+|9th|[insect plague](<Insect Plague>), [wall of stone](<Wall of Stone>)|
 
-| Druid Level | Circle Spells                      |
-|-------------|------------------------------------|
-| 3rd         | mirror image, misty step           |
-| 5th         | water breathing, water walk        |
-| 7th         | control water, freedom of movement |
-| 9th         | conjure elemental, scrying         |
-|             |                                    |
+##### Forest
+|Druid Level|Spells|
+|---|---|
+|3rd|[barkskin](Barkskin), [spider climb](<Spider Climb>)|
+|5th|[call lightning](<Call Lightning>), [plant growth](<Plant Growth>)|
+|7th|[divination](Divination), [freedom of movement](<Freedom of Movement>)|
+|9th|[commune with nature](<Commune With Nature>), [tree stride](<Tree Stride>)|
 
-**Table- Desert Circle Spells**
+##### Grassland
+|Druid Level|Spells|
+|---|---|
+|3rd|[invisibility](Invisibility), [pass without trace](<Pass without Trace>)|
+|5th|[daylight](Daylight), [haste](Haste)|
+|7th|[divination](Divination), [freedom of movement](<Freedom of Movement>)|
+|9th|[dream](Dream), [insect plague](<Insect Plague>)|
 
-| Druid Level | Circle Spells                                 |
-|-------------|-----------------------------------------------|
-| 3rd         | blur, silence                                 |
-| 5th         | create food and water, protection from energy |
-| 7th         | blight, hallucinatory terrain                 |
-| 9th         | insect plague, wall of stone                  |
-|             |                                               |
+##### Mountain
+|Druid Level|Spells|
+|---|---|
+|3rd|[spider climb](<Spider Climb>), [spike growth](<Spike Growth>)|
+|5th|[lightning bolt](<Lightning Bolt>), [meld into stone](<Meld into stone>)|
+|7th|[stone shape](<Stone Shape>), [stoneskin](<Stoneskin>)|
+|9th|[passwall](<Passwall>), [wall of stone](<Wall of Stone>)|
 
-**Table- Forest Circle Spells**
+##### Swamp
+|Druid Level|Spells|
+|---|---|
+|3rd|[darkness](Darkness), [Melf’s acid arrow](<Acid Arrow>)|
+|5th|[water walk](<Water Walk>), [stinking cloud](<Stinking Cloud>)|
+|7th|[freedom of movement](<Freedom of Movement>), [locate creature](<Locate Creature>)|
+|9th|[insect plague](<Insect Plague>), [scrying](<Scrying>)|
 
-| Druid Level | Circle Spells                    |
-|-------------|----------------------------------|
-| 3rd         | barkskin, spider climb           |
-| 5th         | call lightning, plant growth     |
-| 7th         | divination, freedom of movement  |
-| 9th         | commune with nature, tree stride |
-|             |                                  |
+##### Underdark
+|Druid Level|Spells|
+|---|---|
+|3rd|[spider climb](<Spider Climb>), [web](Web)|
+|5th|[gaseous form](<Gaseous Form>), [stinking cloud](<Stinking Cloud>)|
+|7th|[greater invisibility](<Greater Invisibility>), [stone shape](<Stone Shape>)|
+|9th|[cloudkill](<Cloudkill>), [insect plague](<Insect Plague>)|
 
-**Table- Grassland Circle Spells**
+#### Land’s Stride
 
-| Druid Level | Circle Spells                    |
-|-------------|----------------------------------|
-| 3rd         | invisibility, pass without trace |
-| 5th         | daylight, haste                  |
-| 7th         | divination, freedom of movement  |
-| 9th         | dream, insect plague             |
-|             |                                  |
+Starting at 6th level, moving through nonmagical [difficult terrain](<Adventuring#Difficult Terrain>) costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
-**Table- Mountain Circle Spells**
+In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the [entangle](Entangle) spell.
 
-| Druid Level | Circle Spells                   |
-|-------------|---------------------------------|
-| 3rd         | spider climb, spike growth      |
-| 5th         | lightning bolt, meld into stone |
-| 7th         | stone shape, stoneskin          |
-| 9th         | passwall, wall of stone         |
-|             |                                 |
+#### Nature’s Ward
 
-**Table- Swamp Circle Spells**
+When you reach 10th level, you can’t be [charmed](Conditions#Charmed) or [frightened](Conditions#Frightened) by elementals or fey, and you are immune to poison and disease.
 
-| Druid Level | Circle Spells                        |
-|-------------|--------------------------------------|
-| 3rd         | acid arrow, darkness                 |
-| 5th         | water walk, stinking cloud           |
-| 7th         | freedom of movement, locate creature |
-| 9th         | insect plague, scrying               |
-|             |                                      |
-
-#### Land's Stride
-
-Starting at 6th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
-
-In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the *entangle* spell.
-
-#### Nature's Ward
-
-When you reach 10th level, you can't be charmed or frightened by elementals or fey, and you are immune to poison and disease.
-
-#### Nature's Sanctuary
+#### Nature’s Sanctuary
 
 When you reach 14th level, creatures of the natural world sense your connection to nature and become hesitant to attack you. When a beast or plant creature attacks you, that creature must make a Wisdom saving throw against your druid spell save DC. On a failed save, the creature must choose a different target, or the attack automatically misses. On a successful save, the creature is immune to this effect for 24 hours.
 
 The creature is aware of this effect before it makes its attack against you.
-
->**Sacred Plants and Wood**
->
->A druid holds certain plants to be sacred, particularly alder, ash, birch, elder, hazel, holly, juniper, mistletoe, oak, rowan, willow, and yew. Druids often use such plants as part of a spellcasting focus, incorporating lengths of oak or yew or sprigs of mistletoe.
->
->Similarly, a druid uses such woods to make other objects, such as weapons and shields. Yew is associated with death and rebirth, so weapon handles for scimitars or sickles might be fashioned from it. Ash is associated with life and oak with strength. These woods make excellent hafts or whole weapons, such as clubs or quarterstaffs, as well as shields. Alder is associated with air, and it might be used for thrown weapons, such as darts or javelins.
->
->Druids from regions that lack the plants described here have chosen other plants to take on similar uses. For instance, a druid of a desert region might value the yucca tree and cactus plants.
->
->**Druids and the Gods**
->
->Some druids venerate the forces of nature themselves, but most druids are devoted to one of the many nature deities worshiped in the multiverse (the lists of gods in appendix B include many such deities). The worship of these deities is often considered a more ancient tradition than the faiths of clerics and urbanized peoples.
-
-```dataview
-list from #sub-class 
-where source = "PHB" and class = "druid"
-```

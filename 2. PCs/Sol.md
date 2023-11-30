@@ -1,8 +1,8 @@
 ---
+aliases: Sol Siofra
 type: Character
 Race: Half-Elf
 Class: Druid
-alias: Sol Siofra
 tags: PC
 ---
 

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6c057f1e12102557",
+        "id": "66f5f756ce4e9190",
         "type": "tabs",
         "children": [
           {
-            "id": "17ec47d77a27d5fa",
+            "id": "7a3364a94dbecc06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Session Notes/1. Session Notes.md",
-                "mode": "source",
+                "file": "4. Mechanics/Equipment/Armor.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Session Notes/1. Session Notes.md",
+                "file": "4. Mechanics/Equipment/Armor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Session Notes/1. Session Notes.md"
+                "file": "4. Mechanics/Equipment/Armor.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Session Notes/1. Session Notes.md",
+                "file": "4. Mechanics/Equipment/Armor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,38 +145,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "17ec47d77a27d5fa",
+  "active": "7a3364a94dbecc06",
   "lastOpenFiles": [
-    "2. PCs/2. PCs.md",
-    "0. DM_Screen/0. DM_Screen.md",
-    "1. Session Notes/1. Session Notes.md",
-    "1. Session Notes/Current To Do List.md",
-    "1. Session Notes/Session 12.md",
-    "1. Session Notes/Original Sessions.md",
-    "1. Session Notes/Session 17.md",
-    "3. Background/Guilds and Groups/Guilds and Groups.md",
-    "9. Misc/SRD Extras/SRD Extras.md",
-    "4. Mechanics/4. Mechanics.md",
-    "3. Background/3. Background.md",
-    "4. Mechanics/Classes/Classes.md",
-    "3. Background/Places/Places.md",
-    "3. Background/NPCs/NPCs.md",
-    "3. Background/Deities/Deities.md",
-    "z_Templates/Template - Deity.md",
-    "z_Templates/Template - Guilds and Groups.md",
-    "z_Templates/Template - Settlements.md",
-    "z_Templates/Template - Point of Interest.md",
-    "z_Templates/Template - NPC.md",
-    "3. Background/NPCs/Sable.md",
-    "3. Background/NPCs/Breovo.md",
-    "4. Mechanics/Equipment/Transportation.md",
-    "3. Background/Deities/Sarenrae.md",
-    "3. Background/Deities/Sarenrae.md",
-    "3. Background/Guilds and Groups/Cult of the Choir.md",
+    "4. Mechanics/Equipment/Tools.md",
+    "4. Mechanics/Equipment/Adventuring Gear.md",
+    "4. Mechanics/Classes/Rogue/Infiltrator.md",
+    "4. Mechanics/Classes/Wizard/School of Abjuration.md",
+    "4. Mechanics/Classes/Druid/Druid.md",
+    "4. Mechanics/Classes/Druid/Circle of the Land.md",
+    "4. Mechanics/Classes/Druid/Circle of the Moon.md",
+    "4. Mechanics/Equipment/Item Shop/AdventuringGearRef.md",
+    "4. Mechanics/Equipment/Expenses.md",
+    "9. Misc/SRD Extras/Monsters (Alt)/# Monster Statistics.md",
+    "4. Mechanics/Classes/Fighter/Fighter.md",
+    "4. Mechanics/Classes/Fighter/Eldritch Knight.md",
+    "4. Mechanics/Classes/Fighter/Champion.md",
+    "4. Mechanics/Classes/Fighter/Battle Master.md",
+    "4. Mechanics/Bestiary/SRD/0. Monster Statistics.md",
+    "4. Mechanics/Equipment/Armor.md",
+    "4. Mechanics/Equipment/Item Shop/WeaponsRef.md",
+    "4. Mechanics/Equipment/Item Shop/ArmorRef.md",
+    "4. Mechanics/_Gameplay/Abilities.md",
+    "4. Mechanics/Equipment/Weapons.md",
+    "4. Mechanics/Classes/Warlock/Warlock.md",
+    "4. Mechanics/Classes/Warlock/The Archfey.md",
+    "4. Mechanics/Classes/Warlock/The Fiend.md",
+    "4. Mechanics/Classes/Warlock/The Great Old One.md",
+    "4. Mechanics/Equipment/Item Shop/ToolsRef.md",
+    "4. Mechanics/Equipment/Item Shop/FoodDrinkandLodgingRef.md",
+    "4. Mechanics/Equipment/Item Shop",
     "z_Templates",
     "4. Mechanics/Races/PHB",
     "4. Mechanics/_Characterizations/Backgrounds/PHB",
@@ -189,7 +190,6 @@
     "3. Background/NPCs/Zion",
     "3. Background/NPCs/Cedrick",
     "3. Background/NPCs/Sol",
-    "3. Background/NPCs/Dramus",
     "z_Assets/Barbarian.png",
     "z_Assets/Zion.png",
     "z_Assets/Bard.png",

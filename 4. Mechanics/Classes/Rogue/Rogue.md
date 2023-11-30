@@ -89,8 +89,8 @@ As a rogue, you have the following class features.
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (_a_) a [rapier](<Weapons#Table - Weapons>) or (_b_) a [shortsword](<Weapons#Table - Weapons>)
-- (_a_) a [shortbow](<Weapons#Table - Weapons>) and [quiver](Gear) of 20 [arrows](Gear) or (_b_) a [shortsword](<Weapons#Table - Weapons>)
-- (_a_) a [burglar’s pack](Gear), (_b_) a [dungeoneer’s pack](Gear), or (_c_) an [explorer’s pack](Gear)
+- (_a_) a [shortbow](<Weapons#Table - Weapons>) and [quiver](Adventuring%20Gear.md) of 20 [arrows](Adventuring%20Gear.md) or (_b_) a [shortsword](<Weapons#Table - Weapons>)
+- (_a_) a [burglar’s pack](Adventuring%20Gear.md), (_b_) a [dungeoneer’s pack](Adventuring%20Gear.md), or (_c_) an [explorer’s pack](Adventuring%20Gear.md)
 - [Leather armor](Armor#^leather), two [daggers](<Weapons#Table - Weapons>), and [thieves’ tools](<Tools#Thieves' Tools>) 
 
 ### Expertise

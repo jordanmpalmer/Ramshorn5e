@@ -1,8 +1,14 @@
 ---
-icon: npc
-type: Character
-alias: Obsidian
-sex: male
+aliases: Obsidian
+group: 
+sex: Male
+race: 
+age: 
+class:
+alignment:
+location: 
+party-alignment: friend
+pc-bond: yes
 tags: NPC
 ---
 

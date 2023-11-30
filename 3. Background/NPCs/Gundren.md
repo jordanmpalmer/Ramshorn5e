@@ -8,6 +8,7 @@ class:
 alignment:
 location: Ramshorn
 party-alignment: friend
+pc-bond: no
 tags: NPC
 ---
 

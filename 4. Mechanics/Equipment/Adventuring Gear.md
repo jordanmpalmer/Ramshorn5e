@@ -90,7 +90,7 @@ This section describes items that have special rules or require further explanat
 
 ***Priest's Pack (19 gp)***. Includes a backpack, a blanket, 10 candles, a tinderbox, an alms box, 2 blocks of incense, a censer, vestments, 2 days of rations, and a waterskin. ^priests-pack
 
-***Scholar's Pack (40 gp)***. Includes a backpack, a book of lore, a bottle of ink, an ink pen, 10 sheets of parchment, a little bag of sand, and a small knife. ^scholars-pack
+<Adventuring Gear***Scholar's Pack (40 gp)***. Includes a backpack, a book of lore, a bottle of ink, an ink pen, 10 sheets of parchment, a little bag of sand, and a small knife. ^scholars-pack
 
 **Table- Adventuring Gear**
 

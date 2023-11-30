@@ -1,8 +1,14 @@
 ---
-icon: npc
-type: Character
-alias: Eleanor
-sex: female
+aliases: Eleanor
+group: 
+sex: Female
+race: 
+age: 
+class:
+alignment:
+location: 
+party-alignment: friend
+pc-bond: yes
 tags: NPC
 ---
 

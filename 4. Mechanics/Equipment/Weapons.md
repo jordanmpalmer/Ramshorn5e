@@ -14,9 +14,9 @@ Proficiency with a weapon allows you to add your proficiency bonus to the attack
 
 Many weapons have special properties related to their use, as shown in the Weapons table.
 
-***Ammunition***. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. ^amunition
-
-If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see "Improvised Weapons" later in the section). A sling must be loaded to deal any damage when used in this way. ^amunition
+>***Ammunition***. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
+>
+>If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see "Improvised Weapons" later in the section). A sling must be loaded to deal any damage when used in this way. ^ammunition
 
 ***Finesse***. When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls. ^finesse
 
@@ -63,7 +63,7 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 **Table- Weapons**
 
 | Name                       | Cost  | Damage          | Weight  | Properties                                             |
-|----------------------------|-------|-----------------|---------|--------------------------------------------------------|
+| -------------------------- | ----- | --------------- | ------- | ------------------------------------------------------ |
 | **Simple Melee Weapons**   |       |                 |         |                                                        |
 | Club                       | 1 sp  | 1d4 bludgeoning | 2 lb.   | Light                                                  |
 | Dagger                     | 2 gp  | 1d4 piercing    | 1 lb.   | Finesse, light, thrown (range 20/60)                   |
@@ -106,3 +106,4 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 | Longbow                    | 50 gp | 1d8 piercing    | 2 lb.   | Ammunition (range 150/600), heavy, two-handed          |
 | Net                        | 1 gp  | -               | 3 lb.   | Special, thrown (range 5/15)                           |
 |                            |       |                 |         |                                                        |
+^weapons-table

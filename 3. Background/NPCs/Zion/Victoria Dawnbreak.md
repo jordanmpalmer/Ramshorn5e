@@ -1,8 +1,14 @@
 ---
-icon: npc
-type: Character
-alias: Victoria
+aliases: Victoria
+group: 
 sex: female
+race: 
+age: 
+class:
+alignment:
+location: 
+party-alignment: friend
+pc-bond: yes
 tags: NPC
 ---
 

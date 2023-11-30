@@ -8,6 +8,7 @@ class:
 alignment: 
 location: 
 party-alignment: 
+pc-bond: no
 tags: NPC
 ---
 

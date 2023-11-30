@@ -1,8 +1,14 @@
 ---
-icon: npc
-type: Character
-alias: Lars
+aliases: Lars
+group: 
 sex: male
+race: 
+age: 
+class:
+alignment:
+location: 
+party-alignment: friend
+pc-bond: yes
 tags: NPC
 ---
 

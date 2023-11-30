@@ -1,8 +1,8 @@
 ---
+aliases: Zion Dawnbreak
 type: Character
 Race: 
 Class: Bard
-alias: Zion Dawnbreak
 tags: PC
 ---
 

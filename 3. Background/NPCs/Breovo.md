@@ -8,6 +8,7 @@ class:
 alignment:
 location: Minastria
 party-alignment: friend
+pc-bond: no
 tags: NPC
 ---
 

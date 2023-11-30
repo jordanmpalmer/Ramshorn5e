@@ -1,8 +1,8 @@
 ---
+aliases: Cedrick Ballard
 type: Character
 Race: High Elf
 Class: Assassin Rogue
-alias: Cedrick Ballard
 tags: PC
 ---
 ![[JP DND2.jpg]]

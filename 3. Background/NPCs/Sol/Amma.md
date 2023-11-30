@@ -1,7 +1,14 @@
 ---
-icon: npc
-type: Character
+aliases: Amma
+group: 
 sex: female
+race: 
+age: 
+class:
+alignment:
+location: 
+party-alignment: friend
+pc-bond: yes
 tags: NPC
 ---
 
