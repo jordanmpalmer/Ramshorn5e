@@ -27,72 +27,72 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 ##### Arctic
 |Druid Level|Spells|
 |---|---|
-|3rd|[hold person](<Hold Person>), [spike growth](<Spike Growth)|
-|5th|[sleet storm](<Sleet Storm>), [slow](Slow)|
-|7th|[freedom of movement](<Freedom of Movement>), [ice storm](<Ice Storm>)|
-|9th|[commune with nature](<Commune with Nature>), [cone of cold](<Cone of Cold>)|
+|3rd|[hold person](Hold%20Person.md Person>), [spike growth](<Spike Growth)|
+|5th|[sleet storm](Sleet%20Storm.md Storm>), [slow](Slow.md)|
+|7th|[freedom of movement](Freedom%20of%20Movement.md of Movement>), [ice storm](Ice%20Storm.md Storm>)|
+|9th|[commune with nature](Commune%20with%20Nature.md with Nature>), [cone of cold](Cone%20of%20Cold.md of Cold>)|
 
 ##### Coast
 |Druid Level|Spells|
 |---|---|
-|3rd|[mirror image](<Mirror Image>), [misty step](<Misty Step>)|
-|5th|[water breathing](<Water Breathing>), [water walk](<Water Walk>)|
-|7th|[control water](<Control Water>), [freedom of movement](<Freedom of Movement>)|
-|9th|[conjure elemental](<Conjure Elemental>), [scrying](Scrying)|
+|3rd|[mirror image](Mirror%20Image.md Image>), [misty step](Misty%20Step.md Step>)|
+|5th|[water breathing](Water%20Breathing.md Breathing>), [water walk](Water%20Walk.md Walk>)|
+|7th|[control water](Control%20Water.md Water>), [freedom of movement](Freedom%20of%20Movement.md of Movement>)|
+|9th|[conjure elemental](Conjure%20Elemental.md Elemental>), [scrying](Scrying.md)|
 
 ##### Desert
 |Druid Level|Spells|
 |---|---|
-|3rd|[blur](Blur), [silence](Silence)|
-|5th|[create food and water](<Create Food and Water>), [protection from energy](<Protection from Energy>)|
-|7th|[blight](Blight), [hallucinatory terrain](<Hallucinatory Terrain>)|
-|9th|[insect plague](<Insect Plague>), [wall of stone](<Wall of Stone>)|
+|3rd|[blur](Blur.md), [silence](Silence.md)|
+|5th|[create food and water](Create%20Food%20and%20Water.md Food and Water>), [protection from energy](Protection%20from%20Energy.md from Energy>)|
+|7th|[blight](Blight.md), [hallucinatory terrain](Hallucinatory%20Terrain.md Terrain>)|
+|9th|[insect plague](Insect%20Plague.md Plague>), [wall of stone](Wall%20of%20Stone.md of Stone>)|
 
 ##### Forest
 |Druid Level|Spells|
 |---|---|
-|3rd|[barkskin](Barkskin), [spider climb](<Spider Climb>)|
-|5th|[call lightning](<Call Lightning>), [plant growth](<Plant Growth>)|
-|7th|[divination](Divination), [freedom of movement](<Freedom of Movement>)|
-|9th|[commune with nature](<Commune With Nature>), [tree stride](<Tree Stride>)|
+|3rd|[barkskin](Barkskin.md), [spider climb](Spider%20Climb.md Climb>)|
+|5th|[call lightning](Call%20Lightning.md Lightning>), [plant growth](Plant%20Growth.md Growth>)|
+|7th|[divination](Divination.md), [freedom of movement](Freedom%20of%20Movement.md of Movement>)|
+|9th|[commune with nature](Commune%20with%20Nature.md With Nature>), [tree stride](Tree%20Stride.md Stride>)|
 
 ##### Grassland
 |Druid Level|Spells|
 |---|---|
-|3rd|[invisibility](Invisibility), [pass without trace](<Pass without Trace>)|
-|5th|[daylight](Daylight), [haste](Haste)|
-|7th|[divination](Divination), [freedom of movement](<Freedom of Movement>)|
-|9th|[dream](Dream), [insect plague](<Insect Plague>)|
+|3rd|[invisibility](Invisibility.md), [pass without trace](Pass%20without%20Trace.md without Trace>)|
+|5th|[daylight](Daylight.md), [haste](Haste.md)|
+|7th|[divination](Divination.md), [freedom of movement](Freedom%20of%20Movement.md of Movement>)|
+|9th|[dream](Dream.md), [insect plague](Insect%20Plague.md Plague>)|
 
 ##### Mountain
 |Druid Level|Spells|
 |---|---|
-|3rd|[spider climb](<Spider Climb>), [spike growth](<Spike Growth>)|
-|5th|[lightning bolt](<Lightning Bolt>), [meld into stone](<Meld into stone>)|
-|7th|[stone shape](<Stone Shape>), [stoneskin](<Stoneskin>)|
-|9th|[passwall](<Passwall>), [wall of stone](<Wall of Stone>)|
+|3rd|[spider climb](Spider%20Climb.md Climb>), [spike growth](Spike%20Growth.md Growth>)|
+|5th|[lightning bolt](Lightning%20Bolt.md Bolt>), [meld into stone](Meld%20into%20Stone.md into stone>)|
+|7th|[stone shape](Stone%20Shape.md Shape>), [stoneskin](Stoneskin.md)|
+|9th|[passwall](Passwall.md), [wall of stone](Wall%20of%20Stone.md of Stone>)|
 
 ##### Swamp
 |Druid Level|Spells|
 |---|---|
-|3rd|[darkness](Darkness), [Melf’s acid arrow](<Acid Arrow>)|
-|5th|[water walk](<Water Walk>), [stinking cloud](<Stinking Cloud>)|
-|7th|[freedom of movement](<Freedom of Movement>), [locate creature](<Locate Creature>)|
-|9th|[insect plague](<Insect Plague>), [scrying](<Scrying>)|
+|3rd|[darkness](Darkness.md), [Melf’s acid arrow](Acid%20Arrow.md Arrow>)|
+|5th|[water walk](Water%20Walk.md Walk>), [stinking cloud](Stinking%20Cloud.md Cloud>)|
+|7th|[freedom of movement](Freedom%20of%20Movement.md of Movement>), [locate creature](Locate%20Creature.md Creature>)|
+|9th|[insect plague](Insect%20Plague.md Plague>), [scrying](Scrying.md)|
 
 ##### Underdark
 |Druid Level|Spells|
 |---|---|
-|3rd|[spider climb](<Spider Climb>), [web](Web)|
-|5th|[gaseous form](<Gaseous Form>), [stinking cloud](<Stinking Cloud>)|
-|7th|[greater invisibility](<Greater Invisibility>), [stone shape](<Stone Shape>)|
-|9th|[cloudkill](<Cloudkill>), [insect plague](<Insect Plague>)|
+|3rd|[spider climb](Spider%20Climb.md Climb>), [web](Web.md)|
+|5th|[gaseous form](Gaseous%20Form.md Form>), [stinking cloud](Stinking%20Cloud.md Cloud>)|
+|7th|[greater invisibility](Greater%20Invisibility.md Invisibility>), [stone shape](Stone%20Shape.md Shape>)|
+|9th|[cloudkill](Cloudkill.md), [insect plague](Insect%20Plague.md Plague>)|
 
 #### Land’s Stride
 
 Starting at 6th level, moving through nonmagical [difficult terrain](<Adventuring#Difficult Terrain>) costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
-In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the [entangle](Entangle) spell.
+In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the [entangle](Entangle.md) spell.
 
 #### Nature’s Ward
 

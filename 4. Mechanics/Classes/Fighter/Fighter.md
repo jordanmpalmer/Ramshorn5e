@@ -104,7 +104,7 @@ You gain a +2 bonus to attack rolls you make with [ranged](Weapons#^range) wea
 
 #### Defense
 
-While you are wearing armor, you gain a +1 bonus to [AC](<0. Monster Statistics#Armor Class>).
+While you are wearing armor, you gain a +1 bonus to [AC](0.%20Monster%20Statistics.md#Armor%20Class Monster Statistics#Armor Class>).
 
 #### Dueling
 

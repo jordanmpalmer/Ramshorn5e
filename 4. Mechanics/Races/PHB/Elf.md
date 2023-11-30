@@ -84,9 +84,9 @@ _**Speed.**_ Your base walking speed is 30 feet.
 
 _**Darkvision.**_ Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
-**_Keen Senses._** You have proficiency in the [Perception](Abilities.md#Perception) skill.
+**_Keen Senses._** You have proficiency in the [Perception](Abilities#^Perception) skill.
 
-_**Fey Ancestry.**_ You have [advantage](Abilities.md#Advantage%20and%20Disadvantage and Disadvantage>) on [saving throws](Abilities.md#Saving%20Throws Throws>) against being [charmed](Conditions.md#Charmed), and magic can’t put you to sleep.
+_**Fey Ancestry.**_ You have [advantage](<Abilities#Advantage and Disadvantage>) on [saving throws](<Abilities#Saving Throws>) against being [charmed](Conditions#Charmed), and magic can’t put you to sleep.
 
 _**Trance.**_ Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
 
@@ -120,7 +120,7 @@ _**Elf Weapon Training.**_ You have proficiency with the longsword, shortsword,
 
 _**Fleet of Foot.**_ Your base walking speed increases to 35 feet.
 
-_**Mask of the Wild.**_ You can attempt to [hide](Combat.md#Hide) even when you are only [lightly obscured](Adventuring.md#Vision%20and%20Light and Light>) by foliage, heavy rain, falling snow, mist, and other natural phenomena.
+_**Mask of the Wild.**_ You can attempt to [hide](Combat#Hide) even when you are only [lightly obscured](<Adventuring#Vision and Light>) by foliage, heavy rain, falling snow, mist, and other natural phenomena.
 
 ### Dark Elf (Drow)
 
@@ -132,9 +132,9 @@ The cult of the god Lolth, Queen of Spiders, has corrupted some of the oldest dr
 
 _**Ability Score Increase.**_ Your Charisma score increases by 1.
 
-_**Superior Darkvision.**_ Your [darkvision](<0. Monster Statistics#Darkvision>) has a radius of 120 feet.
+_**Superior Darkvision.**_ Your [darkvision](0.%20Monster%20Statistics.md#Darkvision Monster Statistics#Darkvision>) has a radius of 120 feet.
 
-_**Sunlight Sensitivity.**_ You have [disadvantage](Abilities.md#Advantage%20and%20Disadvantage and Disadvantage>) on attack rolls and on Wisdom ([Perception](Abilities.md#Perception)) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+_**Sunlight Sensitivity.**_ You have [disadvantage](<Abilities#Advantage and Disadvantage>) on attack rolls and on Wisdom ([Perception](Abilities#^Perception)) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
 
 _**Drow Magic.**_ You know the [[Dancing Lights]] cantrip. When you reach 3rd level, you can cast the [[Faerie Fire]] spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[Darkness]] spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 

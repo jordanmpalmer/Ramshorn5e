@@ -39,7 +39,7 @@ How does your patron communicate with you? If you have a familiar, it might occa
 
 ### Quick Build
 
-You can make a warlock quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the [charlatan](Charlatan) background. Third, choose the [eldritch blast](Eldritch Blast) and [chill touch](<Chill Touch>) cantrips, along with the 1st-level spells [charm person](<Charm Person>) and [witch bolt](https://www.dndbeyond.com/spells/witch-bolt).
+You can make a warlock quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the [charlatan](Charlatan) background. Third, choose the [eldritch blast](Eldritch Blast) and [chill touch](Chill%20Touch.md Touch>) cantrips, along with the 1st-level spells [charm person](Charm%20Person.md Person>) and [witch bolt](https://www.dndbeyond.com/spells/witch-bolt).
 
 #### The Warlock
 |Level|Proficiency  <br>Bonus|Features|Cantrips  <br>Known|Spells  <br>Known|Spell  <br>Slots|Slot  <br>Level|Invocations  <br>Known|
@@ -105,7 +105,7 @@ At 1st level, you have struck a bargain with an otherworldly being of your choic
 
 ### Pact Magic
 
-Your arcane research and the magic bestowed on you by your patron have given you facility with spells. See [Spellcasting](_Spellcasting) for the general rules of spellcasting and [Spell List](<_Spell Lists#Warlock Spells>) for the warlock spell list.
+Your arcane research and the magic bestowed on you by your patron have given you facility with spells. See [Spellcasting](_Spellcasting.md) for the general rules of spellcasting and [Spell List](_Spell%20Lists.md#Warlock%20Spells Lists#Warlock Spells>) for the warlock spell list.
 
 #### Cantrips
 

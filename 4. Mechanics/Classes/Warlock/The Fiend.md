@@ -6,7 +6,7 @@ alias:
 ---
 ### The Fiend
 
-You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords such as Demogorgon, Orcus, Fraz’Urb-luu, and Baphomet; archdevils such as Asmodeus, Dispater, Mephistopheles, and Belial; [pit fiends](<Pit Fiend (Devil)>) and [balors](<Balor (Demon)>) that are especially mighty; and [ultroloths](https://www.dndbeyond.com/monsters/17126-ultroloth) and other lords of the yugoloths.
+You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords such as Demogorgon, Orcus, Fraz’Urb-luu, and Baphomet; archdevils such as Asmodeus, Dispater, Mephistopheles, and Belial; [pit fiends](Pit%20Fiend%20(Devil).md Fiend (Devil)>) and [balors](Balor%20(Demon).md (Demon)>) that are especially mighty; and [ultroloths](https://www.dndbeyond.com/monsters/17126-ultroloth) and other lords of the yugoloths.
 
 
 
@@ -17,11 +17,11 @@ The Fiend lets you choose from an expanded list of spells when you learn a warlo
 ##### Fiend Expanded Spells
 |Spell Level|Spells|
 |---|---|
-|1st|[burning hands](<Burning Hands>), [command](Command)|
-|2nd|[blindness/deafness](Blindness-Deafness), [scorching ray](<Scorching Ray>)|
-|3rd|[fireball](Fireball), [stinking cloud](Stinking Cloud)|
-|4th|[fire shield](<Fire Shield>), [wall of fire](<Wall of Fire>)|
-|5th|[flame strike](<Flame Strike>), [hallow](<Hallow>)|
+|1st|[burning hands](Burning%20Hands.md Hands>), [command](Command.md)|
+|2nd|[blindness/deafness](Blindness-Deafness.md), [scorching ray](Scorching%20Ray.md Ray>)|
+|3rd|[fireball](Fireball.md), [stinking cloud](Stinking Cloud)|
+|4th|[fire shield](Fire%20Shield.md Shield>), [wall of fire](Wall%20of%20Fire.md of Fire>)|
+|5th|[flame strike](Flame%20Strike.md Strike>), [hallow](Hallow.md)|
 
 #### Dark One’s Blessing
 

@@ -40,7 +40,7 @@ _**Cantrips.**_ You learn two cantrips of your choice from the wizard spell lis
 
 _**Spell Slots.**_ The Eldritch Knight Spellcasting table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
 
-For example, if you know the 1st-level spell [shield](Shield) and have a 1st-level and a 2nd-level spell slot available, you can cast [shield](Shield) using either slot.
+For example, if you know the 1st-level spell [shield](Shield.md) and have a 1st-level and a 2nd-level spell slot available, you can cast [shield](Shield.md) using either slot.
 
 _**Spells Known of 1st-Level and Higher.**_ You know three 1st-level wizard spells of your choice, two of which you must choose from the abjuration and evocation spells on the wizard spell list.
 

@@ -27,7 +27,7 @@ Druid spells are oriented toward nature and animals — the power of tooth and c
 
 For druids, nature exists in a precarious balance. The four elements that make up a world — air, earth, fire, and water — must remain in equilibrium. If one element were to gain power over the others, the world could be destroyed, drawn into one of the elemental planes and broken apart into its component elements. Thus, druids oppose cults of Elemental Evil and others who promote one element to the exclusion of others.
 
-Druids are also concerned with the delicate ecological balance that sustains plant and animal life, and the need for people to live in harmony with nature, not in opposition to it. Druids accept that which is cruel in nature, and they hate that which is unnatural, including aberrations (such as [beholders](https://www.dndbeyond.com/monsters/17099-beholder) and [mind flayers](https://www.dndbeyond.com/monsters/17104-mind-flayer)) and undead (such as [zombies](<4. Mechanics/Bestiary/SRD/Zombie>) and [vampires](<4. Mechanics/Bestiary/SRD/Vampire>)). Druids sometimes lead raids against such creatures, especially when the monsters encroach on the druids’ territory.
+Druids are also concerned with the delicate ecological balance that sustains plant and animal life, and the need for people to live in harmony with nature, not in opposition to it. Druids accept that which is cruel in nature, and they hate that which is unnatural, including aberrations (such as [beholders](https://www.dndbeyond.com/monsters/17099-beholder) and [mind flayers](https://www.dndbeyond.com/monsters/17104-mind-flayer)) and undead (such as [zombies](4.%20Mechanics/Monsters/SRD/Zombie.md Mechanics/Bestiary/SRD/Zombie>) and [vampires](4.%20Mechanics/Monsters/SRD/Vampire.md Mechanics/Bestiary/SRD/Vampire>)). Druids sometimes lead raids against such creatures, especially when the monsters encroach on the druids’ territory.
 
 Druids are often found guarding sacred sites or watching over regions of unspoiled nature. But when a significant danger arises, threatening nature’s balance or the lands they protect, druids take on a more active role in combating the threat, as adventurers.
 
@@ -105,7 +105,7 @@ You know Druidic, the secret language of druids. You can speak the language and 
 
 ### Spellcasting
 
-Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will. See [chapter 10](_Spellcasting) for the general rules of spellcasting and [chapter 11](<_Spell Lists#Druid Spells>) for the druid spell list.
+Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will. See [chapter 10](_Spellcasting.md) for the general rules of spellcasting and [chapter 11](_Spell%20Lists.md#Druid%20Spells Lists#Druid Spells>) for the druid spell list.
 
 #### Cantrips
 
@@ -117,7 +117,7 @@ The Druid table shows how many spell slots you have to cast your druid spells of
 
 You prepare the list of druid spells that are available for you to cast, choosing from the druid spell list. When you do so, choose a number of druid spells equal to your Wisdom modifier + your druid level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 3rd-level druid, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [cure wounds](<Cure Wounds>), you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.
+For example, if you are a 3rd-level druid, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [cure wounds](Cure%20Wounds.md Wounds>), you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.
 
 You can also change your list of prepared spells when you finish a long rest. Preparing a new list of druid spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
@@ -154,9 +154,9 @@ Your druid level determines the beasts you can transform into, as shown in the B
 #### Beast Shapes
 |Level|Max. CR|Limitations|Example|
 |---|---|---|---|
-|2nd|1/4|No flying or swimming speed|[Wolf](<Wolf (Creature)>)|
-|4th|1/2|No flying speed|[Crocodile](<Crocodile (Creature)>)|
-|8th|1|—|[Giant eagle](<Giant Eagle (Creature)>)|
+|2nd|1/4|No flying or swimming speed|[Wolf](Wolf%20(Creature).md (Creature)>)|
+|4th|1/2|No flying speed|[Crocodile](Crocodile%20(Creature).md (Creature)>)|
+|8th|1|—|[Giant eagle](Giant%20Eagle%20(Creature).md Eagle (Creature)>)|
 
 You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall [unconscious](Conditions#Unconscious), drop to 0 hit points, or die.
 
@@ -164,8 +164,8 @@ While you are transformed, the following rules apply:
 
 - Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours. If the creature has any legendary or lair actions, you can’t use them.
 - When you transform, you assume the beast’s hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn’t reduce your normal form to 0 hit points, you aren’t knocked [unconscious](Conditions#Unconscious).
-- You can’t cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as [call lightning](<Call Lightning>), that you’ve already cast.
-- You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can’t use any of your special senses, such as [darkvision](<0. Monster Statistics#Darkvision>), unless your new form also has that sense.
+- You can’t cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as [call lightning](Call%20Lightning.md Lightning>), that you’ve already cast.
+- You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can’t use any of your special senses, such as [darkvision](0.%20Monster%20Statistics.md#Darkvision Monster Statistics#Darkvision>), unless your new form also has that sense.
 - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature’s shape and size. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
 
 ### Druid Circle

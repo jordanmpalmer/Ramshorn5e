@@ -587,7 +587,7 @@ Spell names are wikilinked for use in a a PKM application, like [Obsidian](https
 
 #### 3rd Level
 
-- [[4. Mechanics/Spells/PHB/Blink]]
+- [[4. Mechanics/Spells/SRD/Blink]]
 - [[Clairvoyance]]
 - [[Counterspell]]
 - [[Daylight]]
@@ -856,7 +856,7 @@ Spell names are wikilinked for use in a a PKM application, like [Obsidian](https
 
 - [[Animate Dead]]
 - [[Bestow Curse]]
-- [[4. Mechanics/Spells/PHB/Blink]]
+- [[4. Mechanics/Spells/SRD/Blink]]
 - [[Clairvoyance]]
 - [[Counterspell]]
 - [[Dispel Magic]]

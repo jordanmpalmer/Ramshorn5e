@@ -60,7 +60,7 @@ _**Disarming Attack.**_ When you hit a creature with a weapon attack, you can e
 
 _**Distracting Strike.**_ When you hit a creature with a weapon attack, you can expend one superiority die to distract the creature, giving your allies an opening. You add the superiority die to the attack’s damage roll. The next attack roll against the target by an attacker other than you has [advantage](<Abilities#Advantage and Disadvantage>) if the attack is made before the start of your next turn.
 
-_**Evasive Footwork.**_ When you move, you can expend one superiority die, rolling the die and adding the number rolled to your [AC](<0. Monster Statistics#Armor Class>) until you stop moving.
+_**Evasive Footwork.**_ When you move, you can expend one superiority die, rolling the die and adding the number rolled to your [AC](0.%20Monster%20Statistics.md#Armor%20Class Monster Statistics#Armor Class>) until you stop moving.
 
 _**Feinting Attack.**_ You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have [advantage](<Abilities#Advantage and Disadvantage>) on your next attack roll against that creature this turn. If that attack hits, add the superiority die to the attack’s damage roll.
 

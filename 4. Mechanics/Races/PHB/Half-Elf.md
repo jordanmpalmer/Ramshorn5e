@@ -53,7 +53,7 @@ _**Speed.**_ Your base walking speed is 30 feet.
 
 _**Darkvision.**_ Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
-_**Fey Ancestry.**_ You have [advantage](Abilities.md#Advantage%20and%20Disadvantage and Disadvantage>) on saving throws against being [charmed](Conditions.md#Charmed), and magic can’t put you to sleep.
+_**Fey Ancestry.**_ You have [[Abilities#Advantage and Disadvantage>|advantage]] on saving throws against being [charmed](Conditions#Charmed), and magic can’t put you to sleep.
 
 _**Skill Versatility.**_ You gain proficiency in two skills of your choice.
 
