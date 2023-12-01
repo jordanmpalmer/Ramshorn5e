@@ -1,15 +1,23 @@
 ---
 aliases: Dramus Ardor
-type: Character
+type: PC
+Age:
 Race: Half-Drow
-Class: Aristocratic Sorcerer
+Sub-Race: Drow
+Class: Sorcerer
+Sub-Class: Aristocratic 
+Level: 6
+Player: Frank
+status: inactive
 tags: PC
 ---
 
-![Image](https://media.discordapp.net/attachments/1097951248210206741/1099837458717356133/DragoNootch_a_young_male_half-drow_cyberpunk_fantasy_style_nobl_875c111e-a31e-4cf5-8081-6cbdd856fd98.png?ex=657647f4&is=6563d2f4&hm=f4aae5cde99b04f1fde1af87b2a6c2a08cdbb3eb88e9ee68a928c699794543d2&=&format=webp&width=700&height=700)
+![[Dramus.webp|hm-sm]]
 
-Race: [[Half-Elf|Half-]][[Elf#Dark Elf (Drow)|Drow]]
-Class: Aristocratic [[Sorcerer]]
+**Name:** `=this.aliases`
+**Race:** [[Half-Elf|Half-]][[Elf#Dark Elf (Drow)|Drow]]
+**Class:** [[Aristocratic]] [[Sorcerer]]
+**Player:** `=this.Player`
 
 ## Character Goal
 

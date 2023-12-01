@@ -1,3 +1,14 @@
+---
+casting_time: 
+range: ft
+area: ft
+components: V, S, M
+duration: 
+concentration: 
+attack-save: 
+damage-type: 
+type: spell
+---
 ### Vampiric Touch
 
 *3rd-level necromancy*

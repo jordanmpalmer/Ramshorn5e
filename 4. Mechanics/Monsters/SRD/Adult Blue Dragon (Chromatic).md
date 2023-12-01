@@ -1,3 +1,18 @@
+---
+AC:
+HP:
+speed:
+swim:
+saving_throws:
+damage_immunities:
+senses:
+skills:
+languages: 
+CR: 
+type: monster
+tags:
+---
+
 # Adult Blue Dragon (Chromatic)
 
 *Huge dragon, lawful evil*

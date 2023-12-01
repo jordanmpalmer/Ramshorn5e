@@ -17,7 +17,7 @@
   "supercharged-links@@808d-a00c-before": "🏔️",
   "supercharged-links@@58cb-0c9e-color": "#3A3A3A",
   "supercharged-links@@58cb-0c9e-before": "📝",
-  "supercharged-links@@a3b7-82b7-before": "🏹",
+  "supercharged-links@@a3b7-82b7-before": "🔮",
   "supercharged-links@@a3b7-82b7-color": "#3A3A3A",
   "supercharged-links@@75fe-0737-color": "#E11E1E",
   "supercharged-links@@75fe-0737-before": "👹",
@@ -36,5 +36,8 @@
   "supercharged-links@@7717-a3e0-before": "🌟",
   "supercharged-links@@7717-a3e0-weight": "bold",
   "supercharged-links@@7717-a3e0-decoration": "underline",
-  "supercharged-links@@a3b7-82b7-weight": "bold"
+  "supercharged-links@@a3b7-82b7-weight": "bold",
+  "supercharged-links@@f52f-ab27-weight": "bold",
+  "supercharged-links@@f52f-ab27-before": "🏹",
+  "supercharged-links@@75fe-0737-weight": "bold"
 }

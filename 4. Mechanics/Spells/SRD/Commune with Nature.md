@@ -1,3 +1,14 @@
+---
+casting_time: 
+range: ft
+area: ft
+components: V, S, M
+duration: 
+concentration: 
+attack-save: 
+damage-type: 
+type: spell
+---
 ### Commune with Nature
 
 *5th-level divination (ritual)*

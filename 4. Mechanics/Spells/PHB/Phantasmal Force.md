@@ -7,8 +7,9 @@ duration: 1 minute
 concentration: yes
 attack-save: intelligence
 damage-type: psychic
-tags: magic_item
+type: spell
 ---
+
 *2nd-level illusion*
 
 **Casting Time:** 1 Action 

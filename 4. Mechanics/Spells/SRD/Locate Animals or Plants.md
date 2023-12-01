@@ -1,3 +1,14 @@
+---
+casting_time: 
+range: ft
+area: ft
+components: V, S, M
+duration: 
+concentration: 
+attack-save: 
+damage-type: 
+type: spell
+---
 ### Locate Animals or Plants
 
 *2nd-level divination (ritual)*

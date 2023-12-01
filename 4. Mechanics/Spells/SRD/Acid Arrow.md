@@ -1,9 +1,13 @@
 ---
-icon: spell
 casting_time: 1 action
+range: ft
+area: ft
 components: V, S, M
-duration: instantaneous
-tags: magic_item
+duration: instantaneous 
+concentration: 
+attack-save: 
+damage-type: 
+type: spell
 ---
 
 *2nd-level evocation*

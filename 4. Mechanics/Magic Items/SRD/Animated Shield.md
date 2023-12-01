@@ -1,3 +1,8 @@
+---
+rarity: 
+subtype: potion, weapon, etc.
+type: magic item
+---
 ### Animated Shield
 
 *Armor (shield), very rare (requires attunement)*

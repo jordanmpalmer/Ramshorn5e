@@ -1,3 +1,8 @@
+---
+rarity: 
+subtype: potion, weapon, etc.
+type: magic item
+---
 ### Amulet of Health
 
 *Wondrous item, rare (requires attunement)*

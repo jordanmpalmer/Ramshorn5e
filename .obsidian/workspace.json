@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "91610e00642141ad",
+        "id": "a62376b9d3284231",
         "type": "tabs",
         "children": [
           {
-            "id": "fe0953c8752cee3d",
+            "id": "32188b1b3bc61e10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Mechanics/Races/PHB/Dragonborn.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0c5a2369670ff75b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Mechanics/Monsters/SRD/Aboleth.md",
-                "mode": "preview",
+                "file": "9. Misc/PHB Outline.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Mechanics/Monsters/SRD/Aboleth.md",
+                "file": "9. Misc/PHB Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Mechanics/Monsters/SRD/Aboleth.md"
+                "file": "9. Misc/PHB Outline.md"
               }
             }
           },
@@ -120,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Mechanics/Monsters/SRD/Aboleth.md",
+                "file": "9. Misc/PHB Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,39 +144,50 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0c5a2369670ff75b",
+  "active": "751b2258e7eacb3c",
   "lastOpenFiles": [
+    "4. Mechanics/Untitled",
+    "9. Misc/Other Relevant Links.md",
+    "9. Misc/New tab.md",
+    "4. Mechanics/_Characterizations/Feats.md",
+    "4. Mechanics/_Characterizations/Multiclassing.md",
+    "9. Misc/PHB Outline.md",
+    "4. Mechanics/_Gamemastering/Conditions.md",
+    "4. Mechanics/Spells/Spellcasting.md",
+    "4. Mechanics/Spells/Spell Lists.md",
     "4. Mechanics/Spells/PHB/Phantasmal Force.md",
-    "4. Mechanics/_Gameplay/Abilities.md",
-    "4. Mechanics/Classes/Paladin/Paladin.md",
-    "4. Mechanics/Spells/SRD/_Spell Lists.md",
-    "4. Mechanics/Spells/SRD/_Spellcasting.md",
-    "4. Mechanics/Races/PHB/Human.md",
-    "4. Mechanics/Races/PHB/Halfling.md",
-    "4. Mechanics/Races/PHB/Half-Orc.md",
-    "4. Mechanics/Races/PHB/Half-Elf.md",
-    "4. Mechanics/Races/PHB/Gnome.md",
-    "4. Mechanics/Races/PHB/Elf.md",
-    "4. Mechanics/Races/PHB/Dwarf.md",
-    "4. Mechanics/Races/PHB/Dragonborn.md",
-    "4. Mechanics/Monsters/Monsters.md",
-    "4. Mechanics/Magic Items/PHB",
-    "4. Mechanics/Magic Items/Magic Items.md",
-    "4. Mechanics/Magic Items/SRD/1. Artifacts.md",
-    "4. Mechanics/Magic Items/SRD/2. Sentient Magic.md",
-    "4. Mechanics/Races/Races.md",
-    "4. Mechanics/Equipment/Item Shop/ToolsRef.md",
     "4. Mechanics/_Gameplay/Combat.md",
-    "4. Mechanics/Races/_Racial Traits.md",
-    "4. Mechanics/Races/PHB/Tiefling.md",
-    "Abili.md",
-    "4. Mechanics/Equipment/Item Shop/TradeGoodsRef.md",
-    "4. Mechanics/Equipment/Tools.md",
+    "4. Mechanics/_Gameplay/Adventuring.md",
+    "z_Assets/PHB_Outline.png",
+    "z_Templates/Template - Magic Item.md",
+    "z_Templates/Template - Guilds and Groups.md",
+    "z_Templates/Template - Deity.md",
+    "3. Background/NPCs/Suhnar Munne.md",
+    "3. Background/NPCs/The Elder.md",
+    "3. Background/NPCs/Sable.md",
+    "3. Background/NPCs/Rezar Besk.md",
+    "3. Background/NPCs/Gundren.md",
+    "3. Background/NPCs/Breovo.md",
+    "3. Background/Places/Regatia.md",
+    "3. Background/Places/Ramshorn.md",
+    "3. Background/Places/Mirage Oasis.md",
+    "3. Background/Places/Minastria.md",
+    "3. Background/Deities/Sarenrae.md",
+    "z_Assets/Dramus.webp",
+    "z_Assets/Minastria.png",
+    "z_Assets/Suhnar_Muune.png",
+    "z_Assets/Rezar_Besk.png",
+    "z_Assets/Gundren.png",
+    "z_Assets/Breovo.png",
+    "z_Assets/Regatia.png",
+    "z_Assets/Rogue.png",
+    "z_Assets/Zion.png",
+    "4. Mechanics/Magic Items/PHB",
     "4. Mechanics/Monsters/PHB",
-    "z_Templates/Template - Phantasmal Force.md",
     "4. Mechanics/Spells/PHB",
     "4. Mechanics/Equipment/Item Shop",
     "z_Templates",
@@ -199,13 +197,6 @@
     "4. Mechanics/_Characterizations/Backgrounds",
     "4. Mechanics/Classes/Rogue/Untitled.canvas",
     "4. Mechanics/Classes/Rogue/Warriors Codex",
-    "z_Assets/JP DND2.jpg",
-    "z_Assets/Regatia.png",
-    "z_Assets/Dane.png",
-    "z_Assets/Barbarian.png",
-    "z_Assets/Zion.png",
-    "z_Assets/Bard.png",
-    "z_Assets/Rogue.png",
     "Untitled.canvas"
   ]
 }

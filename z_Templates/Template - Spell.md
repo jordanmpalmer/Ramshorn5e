@@ -7,7 +7,7 @@ duration:
 concentration: 
 attack-save: 
 damage-type: 
-tags: magic_item
+type: spell
 ---
 *Xx-level type*
 

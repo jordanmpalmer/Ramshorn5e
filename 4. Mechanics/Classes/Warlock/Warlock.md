@@ -105,7 +105,7 @@ At 1st level, you have struck a bargain with an otherworldly being of your choic
 
 ### Pact Magic
 
-Your arcane research and the magic bestowed on you by your patron have given you facility with spells. See [Spellcasting](_Spellcasting.md) for the general rules of spellcasting and [Spell List](_Spell%20Lists.md#Warlock%20Spells Lists#Warlock Spells>) for the warlock spell list.
+Your arcane research and the magic bestowed on you by your patron have given you facility with spells. See [Spellcasting](Spellcasting.md) for the general rules of spellcasting and [Spell List](_Spell%20Lists.md#Warlock%20Spells Lists#Warlock Spells>) for the warlock spell list.
 
 #### Cantrips
 

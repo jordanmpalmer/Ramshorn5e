@@ -1,16 +1,24 @@
 ---
 aliases: Dane Ogden
-type: Character
+type: PC
+Age:
 Race: Human
-Class: Exemplar Fighter
+Sub-Race: 
+Class: Fighter
+Sub-Class: Exemplar
+Level: 6
+Player: Matt
+status: active
 tags: PC
 ---
 
 
-![[Dane.png]]
+![[Dane.png|hm-sm]]
 
-Race: [[Human]]
-Class: Exemplar [[Fighter]] 
+**Name:** `=this.aliases`
+**Race:** [[Human]]
+**Class:** [[Exemplar]] [[Fighter]] 
+**Player:** `=this.Player`
 
 ## Character Goal
 

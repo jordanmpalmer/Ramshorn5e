@@ -1,3 +1,8 @@
+---
+rarity: 
+subtype: potion, weapon, etc.
+type: magic item
+---
 ### Adamantine Armor
 
 *Armor (medium or heavy, but not hide), uncommon*

@@ -137,7 +137,7 @@ When a creature you can see attacks a target other than you that is within 5 fee
 
 ### Spellcasting
 
-By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does. See [[_Spellcasting|chapter 10]] for the general rules of spellcasting and [[_Spell Lists#Paladin Spells|chapter 11]] for the paladin spell list.
+By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does. See [[Spellcasting|chapter 10]] for the general rules of spellcasting and [[Spell Lists#Paladin Spells|chapter 11]] for the paladin spell list.
 
 #### Preparing and Casting Spells
 

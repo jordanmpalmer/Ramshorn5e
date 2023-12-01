@@ -1,3 +1,18 @@
+---
+AC: 14
+HP: 114
+speed: 30 ft
+fly: 60 ft
+swim:
+saving_throws:
+damage_immunities:
+senses: darkvision 60ft, passive perception 18
+skills: perception +8
+languages: Draconic
+CR: 6
+type: monster
+tags:
+---
 ## Chimera
 
 *Large monstrosity, chaotic evil*

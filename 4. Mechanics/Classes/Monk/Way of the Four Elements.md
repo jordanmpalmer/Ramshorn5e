@@ -18,7 +18,7 @@ You know the Elemental Attunement discipline and one other elemental discipline 
 
 Whenever you learn a new elemental discipline, you can also replace one elemental discipline that you already know with a different discipline.
 
-_**Casting Elemental Spells.**_ Some elemental disciplines allow you to cast spells. See [chapter 10](_Spellcasting.md) for the general rules of spellcasting. To cast one of these spells, you use its casting time and other rules, but you don’t need to provide material components for it.
+_**Casting Elemental Spells.**_ Some elemental disciplines allow you to cast spells. See [chapter 10](Spellcasting.md) for the general rules of spellcasting. To cast one of these spells, you use its casting time and other rules, but you don’t need to provide material components for it.
 
 Once you reach 5th level in this class, you can spend additional ki points to increase the level of an elemental discipline spell that you cast, provided that the spell has an enhanced effect at a higher level, as [burning hands](Burning%20Hands.md Hands>) does. The spell’s level increases by 1 for each additional ki point you spend. For example, if you are a 5th-level monk and use Sweeping Cinder Strike to cast [burning hands](Burning%20Hands.md Hands>), you can spend 3 ki points to cast it as a 2nd-level spell (the discipline’s base cost of 2 ki points plus 1).
 

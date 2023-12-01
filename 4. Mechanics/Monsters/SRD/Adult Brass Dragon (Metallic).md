@@ -1,3 +1,17 @@
+---
+AC:
+HP:
+speed:
+swim:
+saving_throws:
+damage_immunities:
+senses:
+skills:
+languages: 
+CR: 
+type: monster
+tags:
+---
 # Adult Brass Dragon (Metallic)
 
 *Huge dragon, chaotic good*

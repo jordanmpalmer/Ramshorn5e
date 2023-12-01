@@ -1,3 +1,8 @@
+---
+rarity: 
+subtype: potion, weapon, etc.
+type: magic item
+---
 ### Amulet of Proof Against Detection and Location
 
 *Wondrous item, uncommon (requires attunement)*

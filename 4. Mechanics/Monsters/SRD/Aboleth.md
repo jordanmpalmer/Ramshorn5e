@@ -8,8 +8,7 @@ saving_throws: con +6, int +8, wis +6
 skills: history +12, perception +10
 language: deep speech, telepathy 120ft
 CR: 10
-
-tags: monster
+type: monster
 ---
 [![Aboleth](https://www.dndbeyond.com/avatars/thumbnails/30761/774/1000/1000/638061093283829548.png)](https://www.dndbeyond.com/avatars/thumbnails/30761/774/1000/1000/638061093283829548.png)
 

@@ -1,13 +1,22 @@
 ---
 aliases: Sol Siofra
-type: Character
+type: PC
+Age: 18
 Race: Half-Elf
+Sub-Race: 
 Class: Druid
+Sub-Class:
+Level: 6
+Player: Cinna
+status: active
 tags: PC
 ---
 
-Race: [[Half-Elf]]
-Class: [[Druid]]
+**Name:** `=this.aliases`
+**Race:** [[Half-Elf]]
+**Class:** [[Druid]]
+**Player:** `=this.Player`
+
 ## Character Goal
 
 To master and control her unwieldy fire magic, and to find out the truth of her heritage – she doesn’t have much to go on.

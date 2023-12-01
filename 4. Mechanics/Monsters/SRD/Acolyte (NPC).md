@@ -1,3 +1,14 @@
+---
+AC:
+HP:
+speed:
+swim:
+saving_throws:
+skills:
+language: 
+CR: 
+type: monster
+---
 ### Acolyte
 
 *Medium humanoid (any race), any alignment*

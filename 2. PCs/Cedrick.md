@@ -1,16 +1,22 @@
 ---
 aliases: Cedrick Ballard
-type: Character
-Race: High Elf
+type: PC
+Age: 121
+Race: Elf
+Sub-Race: High Elf
 Class: Assassin Rogue
+Sub-Class: Infiltrator
+Level: 6
+Player: Jordan
+status: active
 tags: PC
 ---
-![[JP DND2.jpg]]
+![[JP DND2.jpg|hm-sm]]
 
-`=this.alias`
-“Bladesinger”
-Race - [[Elf#High Elf|High Elf]]
-Class - [[Infiltrator]] [[Rogue]]
+**Name:** `=this.aliases` “Bladesinger”
+**Race:** [[Elf#High Elf|High Elf]]
+**Class:** [[Infiltrator]] [[Rogue]]
+**Player:** `=this.Player`
 
 ## General personality
 

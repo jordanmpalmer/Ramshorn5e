@@ -105,7 +105,7 @@ You know Druidic, the secret language of druids. You can speak the language and 
 
 ### Spellcasting
 
-Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will. See [chapter 10](_Spellcasting.md) for the general rules of spellcasting and [chapter 11](_Spell%20Lists.md#Druid%20Spells Lists#Druid Spells>) for the druid spell list.
+Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will. See [chapter 10](Spellcasting.md) for the general rules of spellcasting and [chapter 11](_Spell%20Lists.md#Druid%20Spells Lists#Druid Spells>) for the druid spell list.
 
 #### Cantrips
 

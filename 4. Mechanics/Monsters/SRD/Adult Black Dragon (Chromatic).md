@@ -1,3 +1,17 @@
+---
+AC:
+HP:
+speed:
+swim:
+saving_throws:
+damage_immunities:
+senses:
+skills:
+languages: 
+CR: 
+type: monster
+tags: amphibious, legendary-resistance
+---
 # Adult Black Dragon (Chromatic)
 
 *Huge dragon, chaotic evil*

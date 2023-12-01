@@ -12,7 +12,7 @@ In some barbarians’ tribes, a totem animal is considered to be kin to a partic
 
 #### Spirit Seeker
 
-Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts. At 3rd level when you adopt this path, you gain the ability to cast the [beast sense](<Beast Sense>) and [speak with animals](Speak%20with%20Animals.md with Animals>) spells, but only as rituals, as described in chapter 10, “[Spellcasting](_Spellcasting.md).”
+Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts. At 3rd level when you adopt this path, you gain the ability to cast the [beast sense](<Beast Sense>) and [speak with animals](Speak%20with%20Animals.md with Animals>) spells, but only as rituals, as described in chapter 10, “[Spellcasting](Spellcasting.md).”
 
 #### Totem Spirit
 

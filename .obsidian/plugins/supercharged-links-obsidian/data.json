@@ -1,7 +1,8 @@
 {
   "targetAttributes": [
     "icon",
-    "tags"
+    "tags",
+    "type"
   ],
   "targetTags": true,
   "getFromInlineField": true,
@@ -63,7 +64,7 @@
     },
     {
       "type": "attribute",
-      "name": "icon",
+      "name": "type",
       "value": "spell",
       "matchCaseSensitive": false,
       "match": "exact",
@@ -75,7 +76,7 @@
     },
     {
       "type": "attribute",
-      "name": "icon",
+      "name": "type",
       "value": "monster",
       "matchCaseSensitive": false,
       "match": "exact",
@@ -104,6 +105,18 @@
       "matchCaseSensitive": false,
       "match": "exact",
       "uid": "7717-a3e0",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "type",
+      "value": "magic item",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "f52f-ab27",
       "selectText": true,
       "selectAppend": true,
       "selectPrepend": true,

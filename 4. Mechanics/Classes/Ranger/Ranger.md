@@ -146,7 +146,7 @@ When you engage in [two-weapon fighting](<Combat#Two-Weapon Fighting>), you can
 
 ### Spellcasting
 
-By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See [chapter 10](_Spellcasting.md) for the general rules of spellcasting and [chapter 11](_Spell%20Lists.md Lists>) for the ranger spell list.
+By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See [chapter 10](Spellcasting.md) for the general rules of spellcasting and [chapter 11](_Spell%20Lists.md Lists>) for the ranger spell list.
 
 #### Spell Slots
 

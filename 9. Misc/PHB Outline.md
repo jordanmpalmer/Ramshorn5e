@@ -1,0 +1,69 @@
+- [ ]  Introduction
+	- [ ] Worlds of Adventure
+	- [ ] Using This Book
+	- [ ] How To Play
+	- [ ] Adventures
+- [ ] Ch. 1 Step-By-Step Characters
+	- [ ] Beyond 1st Level
+- [ ] Ch. 2: Races
+	- [ ] Choosing a Race
+	- [ ] Dwarf|Elf|etc.
+- [ ] Ch. 3: Classes 
+	- [ ] Classes Summary 
+	- [ ] Barbarian|Bard|Cleric|etc.
+- [ ] Ch. 4: Personality and Background
+	- [ ] Character Details
+	- [ ] Inspiration
+	- [ ] Backgrounds
+- [ ] Ch. 5: Equipment
+	- [ ] Starting Equipment
+	- [ ] Wealth
+	- [ ] Armor and Shields
+	- [ ] Weapons
+	- [ ] Adventuring Gear
+	- [ ] Tools
+	- [ ] Mounts and Vehicles
+	- [ ] Trade Goods 
+	- [ ] Expenses
+	- [ ] Trinkets
+- [x] Ch. 6: Customization Options
+	- [x] Multiclassing [[Multiclassing]]
+	- [x] Feats [[Feats]]
+- [ ] Ch. 7: Using Ability Scores
+	- [ ] Ability Scores and Modifiers
+	- [ ] Advantage and Disadvantage
+	- [ ] Proficiency Bonus
+	- [ ] Ability Checks
+	- [ ] Using Each Ability 
+	- [ ] Saving Throws 
+- [x] Ch. 8: Adventuring [[Adventuring]]
+	- [x] Time
+	- [x] Movement
+	- [x] The Environment
+	- [x] Social Interaction
+	- [x] Resting
+	- [x] Between Adventures
+- [x] Ch. 9: Combat [[Combat]]
+	- [x] The Order of Combat
+	- [x] Movement and Position
+	- [x] Actions in Combat
+	- [x] Making an Attack
+	- [x] Cover
+	- [x] Damage and Healing
+	- [x] Mounted Combat
+	- [x] Underwater Combat 
+- [x] Ch. 10: Spellcasting [[Spellcasting]]
+	- [x] What is a spell? 
+	- [x] Casting a spell 
+- [x] Ch. 11: Spells [[Spell Lists]]
+	- [x] Spell Lists
+	- [x] Bard|Cleric|etc.
+	- [x] Spell Descriptions
+- [x] Appendix A: Conditions [[Conditions]]
+- [ ] Appendix B: Gods of the Multiverse
+- [ ] Appendix C: The Planes of Existence 
+	- [ ] The Material Plane 
+	- [ ] Beyond the Material
+- [ ] Appendix D: Creature Statistics 
+- [ ] Appendix E: Inspirational Reading
+- [ ] Credits

@@ -12,4 +12,6 @@ pc-bond: no
 tags: NPC
 ---
 
+![[Breovo.png]]
+
 Dragon of [[Suhnar Munne|Suhnar]]

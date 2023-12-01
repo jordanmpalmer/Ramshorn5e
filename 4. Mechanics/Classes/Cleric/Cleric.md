@@ -104,7 +104,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ### Spellcasting
 
-As a conduit for divine power, you can cast cleric spells. See [chapter 10](_Spellcasting.md) for the general rules of spellcasting and [chapter 11](_Spell%20Lists.md Lists>) for the cleric spell list.
+As a conduit for divine power, you can cast cleric spells. See [chapter 10](Spellcasting.md) for the general rules of spellcasting and [chapter 11](_Spell%20Lists.md Lists>) for the cleric spell list.
 
 #### Cantrips
 

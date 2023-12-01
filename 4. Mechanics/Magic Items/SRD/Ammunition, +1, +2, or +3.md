@@ -1,3 +1,8 @@
+---
+rarity: 
+subtype: potion, weapon, etc.
+type: magic item
+---
 ### Ammunition, +1, +2, or +3
 
 *Weapon (any ammunition), uncommon (+1), rare (+2), or very rare (+3)*

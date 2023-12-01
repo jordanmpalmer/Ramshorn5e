@@ -1,15 +1,23 @@
 ---
 aliases: Zion Dawnbreak
-type: Character
-Race: 
+type: PC
+Age:
+Sub-Race: 
 Class: Bard
+Sub-Class:
+Level: 6
+Player: Kuya
+status: active
 tags: PC
 ---
 
-![[Zion.png]]
+![[Zion.png|hm-sm]]
 
-Race: 
-Class: [[Bard]]
+**Name:** `=this.aliases`
+**Race:** 
+**Class:** [[Bard]]
+**Player:** `=this.Player`
+
 ## Character Goal
 
 Zion has been a follower all his life, going with the flow of other’s desires and motivation. Now he wants to become someone that can be depended on and can lift up others. He’s always used his voice for others and wants to find his own voice to help others.
