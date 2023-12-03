@@ -1,15 +1,18 @@
 ---
-aliases: Theo, Amelia
+aliases:
+  - Theo
+  - Amelia
 group: 
-sex:
+sex: 
 race: 
 age: 
-class:
-alignment:
+class: 
+alignment: 
 location: 
-party-alignment: friend
-pc-bond: yes
-tags: NPC
+party-alignment: 
+pc-bond: 
+tags:
+  - PC_NPC
 ---
 
 Zion’s parents 

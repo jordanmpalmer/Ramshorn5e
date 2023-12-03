@@ -1,14 +1,16 @@
 ---
-aliases: Zion Dawnbreak
+aliases:
+  - Zion Dawnbreak
 type: PC
-Age:
+Age: 
 Sub-Race: 
-Class: Bard
-Sub-Class:
+Class: "[[Bard]]"
+Sub-Class: 
 Level: 6
 Player: Kuya
 status: active
-tags: PC
+tags:
+  - PC
 ---
 
 ![[Zion.png|hm-sm]]

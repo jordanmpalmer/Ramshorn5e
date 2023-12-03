@@ -1,14 +1,15 @@
 ---
-aliases: template
-group: Name of Guild or Group they belong to
-sex: Male or Female or...
-race: Human, Dwarf, Elf, etc
+aliases: 
+group: 
+sex: 
+race: 
 age: 
-class: Warrior, Wizard, Rogue, etc
-alignment: Chaotic Neutral, Lawful Neutral, etc
+class: 
+alignment: 
 location: 
-party-alignment: friend or foe?
-tags: NPC
+party-alignment: 
+tags: 
+icon: NPC
 ---
 
 

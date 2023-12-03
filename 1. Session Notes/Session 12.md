@@ -1,6 +1,10 @@
 ---
-tags: session_note
-alias: Session 12
+tags:
+  - session_note
+aliases:
+  - Session 12
+session-date: 2023-09-04T00:00:00.000+01:00
+icon: session-note
 ---
 
 

@@ -1,15 +1,17 @@
 ---
-aliases: Dramus Ardor
+aliases:
+  - Dramus Ardor
 type: PC
-Age:
-Race: Half-Drow
-Sub-Race: Drow
-Class: Sorcerer
-Sub-Class: Aristocratic 
+Age: 
+Race: "[[Half-Elf]]"
+Sub-Race: 
+Class: "[[Sorcerer]]"
+Sub-Class: 
 Level: 6
 Player: Frank
 status: inactive
-tags: PC
+tags:
+  - PC
 ---
 
 ![[Dramus.webp|hm-sm]]

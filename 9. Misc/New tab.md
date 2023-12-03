@@ -1,24 +1,20 @@
-| Minastria     | Ramshorn     | Character Sheet | DM Screen |
+---
+banner: "![[DnDBannerClasses.png]]"
+---
+
+|![[Minastria.png\|hsmall]] | Ramshorn     | Character Sheet | DM Screen |
 | ------------- | ------------ | --------------- | --------- |
 | [[Minastria]] | [[Ramshorn]] |                 |           |
 
+######
 ```dataview
 table Player, Race, Class, Level, tags
 from "2. PCs"
-where tags="PC"
 where status="active"
+where type="PC"
 ```
 
-
-```dataview  
-TABLE WITHOUT ID link(file.name) AS "NPC", sex, race, age, group, location, party-alignment  
-FROM "3.Background"
-WHERE (tags = "NPC") 
-SORT file.mtime DESC
-LIMIT 10
-```
-
-
+######
 ```dataview  
 TABLE WITHOUT ID  
 link(file.path, file.folder + " / " + file.name) AS "Note",  
@@ -34,8 +30,6 @@ AND !contains(file.path, "BRAT")
 SORT file.mtime DESC  
 LIMIT 10  
 ```
-
-
 
 
 

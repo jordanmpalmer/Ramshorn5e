@@ -28,7 +28,7 @@
     },
     {
       "type": "attribute",
-      "name": "tags",
+      "name": "icon",
       "value": "npc",
       "matchCaseSensitive": false,
       "match": "exact",
@@ -40,7 +40,7 @@
     },
     {
       "type": "attribute",
-      "name": "tags",
+      "name": "icon",
       "value": "location",
       "matchCaseSensitive": false,
       "match": "exact",
@@ -52,8 +52,8 @@
     },
     {
       "type": "attribute",
-      "name": "tags",
-      "value": "session_note",
+      "name": "icon",
+      "value": "session-note",
       "matchCaseSensitive": false,
       "match": "exact",
       "uid": "58cb-0c9e",
@@ -117,6 +117,18 @@
       "matchCaseSensitive": false,
       "match": "exact",
       "uid": "f52f-ab27",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "type",
+      "value": "dragon",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "65ec-2e8f",
       "selectText": true,
       "selectAppend": true,
       "selectPrepend": true,

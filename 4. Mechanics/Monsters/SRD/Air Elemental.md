@@ -1,4 +1,20 @@
+---
+AC:
+HP:
+speed:
+swim:
+saving_throws:
+damage_immunities:
+senses:
+skills:
+languages: 
+CR: 
+type: monster
+tags: 
+---
 ### Air Elemental
+
+![[Pasted image 20231203114223.png]]
 
 *Large elemental, neutral*
 

@@ -1,0 +1,1 @@
+![[Combat#Critical Hits]]

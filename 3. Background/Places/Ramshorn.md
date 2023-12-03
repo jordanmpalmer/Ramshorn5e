@@ -1,27 +1,10 @@
 ---
 type: city
-tags: location
+tags:
+  - location
+icon: location
 ---
-
-[[Ramshorn#The Draw to Adventure|The Draw to Adventure]]
-[[Ramshorn#The Caverns of Chaos|The Caverns of Chaos]]
-[[Ramshorn#The Tomb of the Lich King|The Tomb of the Lich King]]
-[[Ramshorn#The Lost Mountain-Home|The Lost Mountain-Home]]
-[[Ramshorn#Mining|Mining]]
-[[Ramshorn#Crafting|Crafting]]
-[[Ramshorn#Agriculture|Agriculture]]
-[[Ramshorn#Magic|Magic]]
-[[Ramshorn#Timber|Timber]]
-[[Ramshorn#Threats to the Village|Threats to the Village]]
-[[Ramshorn#Goblin Raids|Goblin Raids]]
-[[Ramshorn#Bandits|Bandits]]
-[[Ramshorn#Monsters|Monsters]]
-[[Ramshorn#Natural Disasters|Natural Disasters]]
-[[Ramshorn#Common Magical/Magi-tech Items|Common Magical/Magi-tech Items]]
-[[Ramshorn#The Skyward Saloon|The Skyward Saloon]]
-[[Ramshorn#Mythical Menagerie|Mythical Menagerie]]
-[[Ramshorn#The Herbologist's Garden|The Herbologist's Garden]]
-[[Ramshorn#The Steamheart Foundry|The Steamheart Foundry]]
+# Ramshorn
 
 Ramshorn is a charming and picturesque mountain village nestled in the heart of Regatia where magic and technology coexist in harmony. The village is situated just barely in the rugged peaks of the Barrier Mountains, surrounded by towering cliffs and snow-capped peaks that rise up towards the heavens.  Despite its remote location, Ramshorn is a bustling hub of activity, attracting adventurers, traders, and travelers from all corners of the realm. The village is renowned for its small community of skilled craftsmen, who produce (albeit on a small scale) some of the finest magical artifacts and technological gadgets in the land.  The streets of Ramshorn are narrow and winding, lined with quaint stone cottages and wooden shacks that huddle together for warmth against the chill mountain air. The villagers are a hardy and friendly lot, quick to offer a warm welcome to any newcomers who venture into their midst.  At the center of the village a crashed airship, now reclaimed and repurposed into a local tavern, who have served travelers and local alike for generations. The tavern is a marvel of both magic and technology, boasting enchanted walls that keep the rooms temperature controlled as well as a network of clockwork servants and mechanical defenders that keep the villagers safe from harm.  Surrounding the village are vast forests, deep ravines, and treacherous mountain passes, all of which are home to a bewildering array of magical creatures and dangerous monsters. Yet despite these dangers, the villagers of Ramshorn are renowned for their bravery and skill in battle, and the village has never fallen to an enemy attack.  Overall, Ramshorn is a place of wonder and adventure, where magic and technology combine to create a truly unique and unforgettable experience. Whether you are a seasoned adventurer or a curious traveler, this mountain village is a must-visit destination for anyone who loves fantasy and adventure.
 

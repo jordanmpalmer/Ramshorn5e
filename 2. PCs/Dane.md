@@ -1,15 +1,17 @@
 ---
-aliases: Dane Ogden
+aliases:
+  - Dane Ogden
 type: PC
-Age:
-Race: Human
+Age: 
+Race: "[[Human]]"
 Sub-Race: 
-Class: Fighter
-Sub-Class: Exemplar
+Class: "[[Fighter]]"
+Sub-Class: 
 Level: 6
 Player: Matt
 status: active
-tags: PC
+tags:
+  - PC
 ---
 
 

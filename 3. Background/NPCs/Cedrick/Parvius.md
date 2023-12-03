@@ -1,13 +1,15 @@
 ---
-aliases: Parvius
+aliases:
+  - Parvius
 group: The Magebreaker Initiative
 sex: Male
 race: 
 age: 
-class:
-alignment:
-location: 
-party-alignment: friend
-pc-bond: yes
-tags: NPC
+class: 
+alignment: 
+location: "[[Regatia]]"
+party-alignment: Unknown
+pc-bond: 
+tags:
+  - PC_NPC
 ---

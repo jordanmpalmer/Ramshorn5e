@@ -1,0 +1,2 @@
+![[Abilities#^medicine\|Medicine]]
+

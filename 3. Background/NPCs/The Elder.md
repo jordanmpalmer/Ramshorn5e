@@ -2,14 +2,16 @@
 aliases: 
 group: 
 sex: Male
-race: Human
+race: 
 age: 
 class: 
 alignment: 
-location: Ramshorn
-party-alignment: friend
-pc-bond: no
-tags: NPC
+location: "[[Ramshorn]]"
+party-alignment: Friend
+pc-bond: 
+tags:
+  - NPC
+icon: npc
 ---
 
 Leader of [[Ramshorn]]

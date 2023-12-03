@@ -15,10 +15,21 @@ A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 **Table- Standard Exchange Rates**
 
 | Coin          | CP    | SP   | EP   | GP    | PP      |
-|---------------|-------|------|------|-------|---------|
+| ------------- | ----- | ---- | ---- | ----- | ------- |
 | Copper (cp)   | 1     | 1/10 | 1/50 | 1/100 | 1/1,000 |
 | Silver (sp)   | 10    | 1    | 1/5  | 1/10  | 1/100   |
 | Electrum (ep) | 50    | 5    | 1    | 1/2   | 1/20    |
 | Gold (gp)     | 100   | 10   | 2    | 1     | 1/10    |
 | Platinum (pp) | 1,000 | 100  | 20   | 10    | 1       |
-|               |       |      |      |       |         |
+
+# Selling Treasure
+
+Opportunities abound to find treasure, equipment, weapons, armor, and more in the dungeons you explore. Normally, you can sell your treasures and trinkets when you return to a town or other settlement, provided that you can find buyers and merchants interested in your loot.
+
+***Arms, Armor, and Other Equipment***. As a general rule, undamaged weapons, armor, and other equipment fetch half their cost when sold in a market. Weapons and armor used by monsters are rarely in good enough condition to sell. ^arms-armor-and-other-equipment
+
+***Magic Items***. Selling magic items is problematic. Finding someone to buy a potion or a scroll isn't too hard, but other items are out of the realm of most but the wealthiest nobles. Likewise, aside from a few common magic items, you won't normally come across magic items or spells to purchase. The value of magic is far beyond simple gold and should always be treated as such. ^magic-items
+
+***Gems, Jewelry, and Art Objects***. These items retain their full value in the marketplace, and you can either trade them in for coin or use them as currency for other transactions. For exceptionally valuable treasures, the GM might require you to find a buyer in a large town or larger community first. ^gems-jewelry-and-art-objects
+
+***Trade Goods***. On the borderlands, many people conduct transactions through barter. Like gems and art objects, trade goods-bars of iron, bags of salt, livestock, and so on-retain their full value in the market and can be used as currency. ^trade-goods

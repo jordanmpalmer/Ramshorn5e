@@ -1,0 +1,572 @@
+{
+  "mapMarkers": [
+    {
+      "id": "experiment-map",
+      "lastAccessed": 1701633818459,
+      "markers": [
+        {
+          "id": "ID_ab29cb89eada",
+          "type": "Town",
+          "loc": [
+            -0.006962629844285075,
+            0.006868278296839986
+          ],
+          "layer": "%5B%5BZelkor_s_Ferry.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a68889bdacb",
+          "type": "Castle",
+          "loc": [
+            -0.0021288310107125726,
+            0.004516118034370071
+          ],
+          "layer": "%5B%5BZelkor_s_Ferry.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f91a9a5b09f8",
+          "type": "City",
+          "loc": [
+            -0.009422688179228223,
+            0.0064582687098039444
+          ],
+          "layer": "%5B%5BZelkor_s_Ferry.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a92adaf8bb1a",
+          "type": "Point of Interest",
+          "loc": [
+            -0.0058620774312841935,
+            0.009134120751512837
+          ],
+          "layer": "%5B%5BZelkor_s_Ferry.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_692818b84a19",
+          "type": "Forrest",
+          "loc": [
+            -0.01155569933360674,
+            0.0075159572062703135
+          ],
+          "layer": "%5B%5BZelkor_s_Ferry.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58d8497a0ae9",
+          "type": "Encounter",
+          "loc": [
+            -0.0031022233894221433,
+            0.006325757015276365
+          ],
+          "layer": "%5B%5BZelkor_s_Ferry.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_caaa6a586889",
+          "type": "Dungeon",
+          "loc": [
+            -0.001403733959409887,
+            0.010217608220060553
+          ],
+          "layer": "%5B%5BZelkor_s_Ferry.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6539269260838754,
+            0.11978529786964369
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89aa08eaaa8a",
+          "type": "Region",
+          "loc": [
+            -0.003390252497049646,
+            0.01257637289198541
+          ],
+          "layer": "%5B%5BZelkor_s_Ferry.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "9. Misc/Experiment Note.md"
+      ]
+    },
+    {
+      "id": "Faerun_Map",
+      "locked": false,
+      "lastAccessed": 1701634557483,
+      "markers": [
+        {
+          "id": "ID_79782bfb38fb",
+          "type": "City",
+          "loc": [
+            1629.4362478160879,
+            1218.3691671287559
+          ],
+          "layer": "%5B%5BFaerun%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a69fbc9b9c9",
+          "type": "Town",
+          "loc": [
+            1497.0220973756375,
+            1269.6314188086337
+          ],
+          "layer": "%5B%5BFaerun%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4aa83b0a8aca",
+          "type": "Town",
+          "loc": [
+            1412.1682115657247,
+            1306.401241415521
+          ],
+          "layer": "%5B%5BFaerun%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a6bc9291a08",
+          "type": "Forrest",
+          "loc": [
+            1420.0240625870206,
+            1637.9820316320893
+          ],
+          "layer": "%5B%5BFaerun%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7acb3948985a",
+          "type": "Forrest",
+          "loc": [
+            1150.219214750743,
+            1614.1660308078526
+          ],
+          "layer": "%5B%5BFaerun%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8a9291a482b",
+          "type": "Town",
+          "loc": [
+            925.7516235680371,
+            1512.1378523804647
+          ],
+          "layer": "%5B%5BFaerun%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_383b1b9b3acb",
+          "type": "Dungeon",
+          "loc": [
+            1106.5200261782952,
+            1397.368931489347
+          ],
+          "layer": "%5B%5BFaerun%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.1937429504461799,
+            -0.23709933758466323
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_29e939f998ca",
+          "type": "Region",
+          "loc": [
+            1009.0009254529359,
+            1572.9027457584693
+          ],
+          "layer": "%5B%5BFaerun%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.21808043091622623,
+            -0.21620345351856762
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_884b9aab392a",
+          "type": "Point of Interest",
+          "loc": [
+            950.3102659008232,
+            1696.7247518589895
+          ],
+          "layer": "%5B%5BFaerun%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_790919eb8898",
+          "type": "City",
+          "loc": [
+            641.4450855777632,
+            1470.8132677135436
+          ],
+          "layer": "%5B%5BFaerun%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a0b2bc8ebab",
+          "type": "Castle",
+          "loc": [
+            645.9449385272708,
+            1443.073561456063
+          ],
+          "layer": "%5B%5BFaerun%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.20007982373658909,
+            -0.13840971100174568
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_798a7b99ba8b",
+          "type": "Encounter",
+          "loc": [
+            637.7003588849618,
+            1596.2441593519202
+          ],
+          "layer": "%5B%5BFaerun%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "9. Misc/Experiment Note.md"
+      ]
+    },
+    {
+      "id": "Minastria_Map",
+      "locked": false,
+      "lastAccessed": 1701634557484,
+      "markers": [
+        {
+          "id": "ID_aa7a3a3adb3b",
+          "type": "Town",
+          "loc": [
+            766.2253816317137,
+            1021.843921404498
+          ],
+          "link": "Ramshorn",
+          "layer": "%5B%5BMinastria.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a298a8bebba",
+          "type": "Point of Interest",
+          "loc": [
+            999.8489885977783,
+            1150.6702899441518
+          ],
+          "link": "Mirage Oasis",
+          "layer": "%5B%5BMinastria.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7547743644985162,
+            -0.926605504587156
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "3. Background/Places/Maps/Minastria Regional Map.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Dungeon",
+      "iconName": "dungeon",
+      "color": "#2e2e2e",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Town",
+      "iconName": "home",
+      "color": "#e00000",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Region",
+      "iconName": "map",
+      "color": "#ff0000",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Point of Interest",
+      "iconName": "asterisk",
+      "color": "#007bff",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "City",
+      "iconName": "star",
+      "color": "#ff9500",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Forrest",
+      "iconName": "tree",
+      "color": "#16bd00",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Castle",
+      "iconName": "dot-circle",
+      "color": "#ff0000",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Encounter",
+      "iconName": "exclamation-circle",
+      "color": "#8c00ff",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "6.0.1",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 1
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

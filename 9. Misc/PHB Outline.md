@@ -3,39 +3,39 @@
 	- [ ] Using This Book
 	- [ ] How To Play
 	- [ ] Adventures
-- [ ] Ch. 1 Step-By-Step Characters
-	- [ ] Beyond 1st Level
-- [ ] Ch. 2: Races
-	- [ ] Choosing a Race
-	- [ ] Dwarf|Elf|etc.
-- [ ] Ch. 3: Classes 
-	- [ ] Classes Summary 
-	- [ ] Barbarian|Bard|Cleric|etc.
-- [ ] Ch. 4: Personality and Background
-	- [ ] Character Details
-	- [ ] Inspiration
-	- [ ] Backgrounds
-- [ ] Ch. 5: Equipment
-	- [ ] Starting Equipment
-	- [ ] Wealth
-	- [ ] Armor and Shields
-	- [ ] Weapons
-	- [ ] Adventuring Gear
-	- [ ] Tools
-	- [ ] Mounts and Vehicles
-	- [ ] Trade Goods 
-	- [ ] Expenses
-	- [ ] Trinkets
+- [x] Ch. 1 Step-By-Step Characters [[_Character Creation]]
+	- [x] Beyond 1st Level [[Beyond 1st Level (XP)]]
+- [x] Ch. 2: Races [[Races]] 
+	- [x] Choosing a Race
+	- [x] Dwarf|Elf|etc.
+- [x] Ch. 3: Classes [[Classes]] 
+	- [x] Classes Summary 
+	- [x] Barbarian|Bard|Cleric|etc.
+- [x] Ch. 4: Personality and Background [[Personality and Background]]
+	- [x] Character Details
+	- [x] Inspiration 
+	- [x] Backgrounds [[Backgrounds]]
+- [x] Ch. 5: Equipment
+	- [x] Starting Equipment [[Equipment#Starting Equipment]]
+	- [x] Wealth [[Equipment#Wealth]]
+	- [x] Armor and Shields [[Armor]]
+	- [x] Weapons [[Weapons]]
+	- [x] Adventuring Gear [[Adventuring Gear]]
+	- [x] Tools [[Tools]]
+	- [x] Mounts and Vehicles [[Mounts and Vehicles]]
+	- [x] Trade Goods [[Trade Goods]]
+	- [x] Expenses [[Expenses]]
+	- [x] Trinkets [[Equipment#Trinkets]]
 - [x] Ch. 6: Customization Options
 	- [x] Multiclassing [[Multiclassing]]
 	- [x] Feats [[Feats]]
-- [ ] Ch. 7: Using Ability Scores
-	- [ ] Ability Scores and Modifiers
-	- [ ] Advantage and Disadvantage
-	- [ ] Proficiency Bonus
-	- [ ] Ability Checks
-	- [ ] Using Each Ability 
-	- [ ] Saving Throws 
+- [x] Ch. 7: Using Ability Scores [[Abilities]] 
+	- [x] Ability Scores and Modifiers
+	- [x] Advantage and Disadvantage
+	- [x] Proficiency Bonus
+	- [x] Ability Checks
+	- [x] Using Each Ability 
+	- [x] Saving Throws 
 - [x] Ch. 8: Adventuring [[Adventuring]]
 	- [x] Time
 	- [x] Movement
@@ -60,10 +60,10 @@
 	- [x] Bard|Cleric|etc.
 	- [x] Spell Descriptions
 - [x] Appendix A: Conditions [[Conditions]]
-- [ ] Appendix B: Gods of the Multiverse
-- [ ] Appendix C: The Planes of Existence 
-	- [ ] The Material Plane 
-	- [ ] Beyond the Material
+- [x] Appendix B: Gods of the Multiverse [[AppxB - Gods of the Multiverse]]
+- [x] Appendix C: The Planes of Existence [[AppxC - The Planes of Existence]]
+	- [x] The Material Plane 
+	- [x] Beyond the Material
 - [ ] Appendix D: Creature Statistics 
-- [ ] Appendix E: Inspirational Reading
-- [ ] Credits
+- [x] Appendix E: Inspirational Reading [[AppxE - Inspirational Reading]]
+- [x] Credits

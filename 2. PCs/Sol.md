@@ -1,15 +1,17 @@
 ---
-aliases: Sol Siofra
+aliases:
+  - Sol Siofra
 type: PC
 Age: 18
-Race: Half-Elf
+Race: "[[Half-Elf]]"
 Sub-Race: 
-Class: Druid
-Sub-Class:
+Class: "[[Druid]]"
+Sub-Class: 
 Level: 6
 Player: Cinna
 status: active
-tags: PC
+tags:
+  - PC
 ---
 
 **Name:** `=this.aliases`

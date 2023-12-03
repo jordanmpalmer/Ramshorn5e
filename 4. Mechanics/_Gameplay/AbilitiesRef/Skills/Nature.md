@@ -1,0 +1,2 @@
+![[Abilities#^nature\|Nature]]
+

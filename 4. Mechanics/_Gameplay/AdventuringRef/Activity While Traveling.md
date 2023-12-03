@@ -1,0 +1,2 @@
+![[Adventuring#Activity While Traveling]]
+

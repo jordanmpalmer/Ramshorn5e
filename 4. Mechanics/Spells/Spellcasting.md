@@ -110,7 +110,7 @@ If a spell states that a material component is consumed by the spell, the caster
 
 A spellcaster must have a hand free to access a spell’s material components — or to hold a spellcasting focus — but it can be the same hand that he or she uses to perform somatic components.
 
->THE SCHOOLS OF MAGIC
+# THE SCHOOLS OF MAGIC
 >
 >Academies of magic group spells into eight categories called schools of magic. Scholars, particularly wizards, apply these categories to all spells, believing that all magic functions in essentially the same way, whether it derives from rigorous study or is bestowed by a deity.
 >

@@ -1,6 +1,9 @@
 ---
-tags: session_note
-alias: 
+tags:
+  - session_note
+aliases: 
+session-date: 2023-11-20T00:00:00.000+00:00
+icon: session-note
 ---
 
 We throw open the doors to the lab, and are met by a cultist, the alchemist, and a brain in a jar. The two are standing around a corpse on an operating table with her skull opened up. The cultist tells us we should not be there and not to interrupt the woman’s “ascension to the choir”. We ignore them after seeing the corpse, and they are quickly dispatched by [[Cedrick]] and [[Sol]]. The brain comes to life, seizing mental control of [[Cedrick]], and calls out to [[Dane]] in recognition. She is an abducted citizen of [[Ramshorn]] , and quickly reveals that she has been somewhat brainwashed into believing in this “choir”. The party decides on a mercy killing– due in part to how dangerous its psionic abilities seem– and we do so. 

@@ -1,14 +1,17 @@
 ---
-alias: Suhnar
-group: The Reclaimers
+aliases:
+  - Suhnar
+group: "[[The Reclaimers]]"
 sex: Male
-race:
+race: 
 age: 
 class: 
 alignment: 
-location: Minastria
-party-alignment: neutral
-pc-bond: no
-tags: NPC
+location: "[[Regatia]]"
+party-alignment: Neutral
+pc-bond: 
+tags:
+  - NPC
+icon: npc
 ---
 ![[Suhnar_Muune.png|hm-sm]]

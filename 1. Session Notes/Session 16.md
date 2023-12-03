@@ -1,6 +1,9 @@
 ---
-tags: session_note
-alias: 
+tags:
+  - session_note
+aliases: 
+session-date: 2023-10-16T00:00:00.000+01:00
+icon: session-note
 ---
 
 Cedrick and Sol lament over Cedrick’s overconfidence and losing the wager, and Dramus is suddenly pulled through a flaming portal by a certain individual. Cedrick alerts the rest of the group, and the situation passes with only a few remarks.

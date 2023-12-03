@@ -1,6 +1,9 @@
 ---
-tags: session_note
-alias: 
+tags:
+  - session_note
+aliases: 
+session-date: 2023-09-25T00:00:00.000+01:00
+icon: session-note
 ---
 
 We wake up from the recent crash, hundreds of feet into the chasm before. We are bloodied, and the bus destroyed beyond salvage or repair– so we retrieve our valuables from the bus and elect to head north in hopes of finding a way up to the fortress.

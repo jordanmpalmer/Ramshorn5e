@@ -2,14 +2,16 @@
 aliases: 
 group: 
 sex: Male
-race: Human
+race: 
 age: 
-class:
-alignment:
-location: Ramshorn
-party-alignment: friend
-pc-bond: no
-tags: NPC
+class: 
+alignment: 
+location: "[[Ramshorn]]"
+party-alignment: Neutral
+pc-bond: 
+tags:
+  - NPC
+icon: npc
 ---
 ![[Gundren.png|hm-sm]]
 

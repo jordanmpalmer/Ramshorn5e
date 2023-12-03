@@ -1,0 +1,1 @@
+![[Abilities#Variant Skills with Different Abilities]]

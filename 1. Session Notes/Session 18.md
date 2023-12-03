@@ -1,6 +1,9 @@
 ---
-tags: session_note
-alias: 
+tags:
+  - session_note
+aliases: 
+session-date: 2023-10-30T00:00:00.000+00:00
+icon: session-note
 ---
 
 During their conversation, Cedrick learns that the old goblin Slemolk believes them to all be dead– wandering in hell. Slemolk has been roaming around the underground longer than he can remember, and is suffering from crippling loneliness.

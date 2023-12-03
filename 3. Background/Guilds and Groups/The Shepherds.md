@@ -1,5 +1,7 @@
 ---
-alias:
-location: Ramshorn
-tags: group
+aliases: 
+location: 
+tags:
+  - group
+locations: "[[Ramshorn]]"
 ---

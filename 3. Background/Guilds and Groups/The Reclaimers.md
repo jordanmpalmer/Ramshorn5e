@@ -1,7 +1,9 @@
 ---
-alias:
-location: Reclaimers Outpost
-tags: group
+aliases: 
+location: 
+tags:
+  - group
+locations: "[[Minastria]]"
 ---
 
 Group of dragon riding people

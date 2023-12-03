@@ -1,0 +1,1 @@
+![[Combat#Knocking a Creature Out]]

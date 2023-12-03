@@ -14,5 +14,13 @@
       ],
       "key": "N"
     }
+  ],
+  "obsidian-regex-pipeline:ruleset: Convert External Links": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "X"
+    }
   ]
 }

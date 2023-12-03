@@ -1,15 +1,17 @@
 ---
 aliases: 
 group: 
-sex: Male
+sex: 
 race: 
 age: 
 class: 
 alignment: 
-location: 
-party-alignment: 
-pc-bond: no
-tags: NPC
+location: "[[Regatia]]"
+party-alignment: Neutral
+pc-bond: 
+tags:
+  - NPC
+icon: npc
 ---
 
 Unknown

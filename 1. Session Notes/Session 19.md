@@ -1,6 +1,9 @@
 ---
-tags: session_note
-alias: 
+tags:
+  - session_note
+aliases: 
+session-date: 2023-11-13T00:00:00.000+00:00
+icon: session-note
 ---
 
 Over the past month, [[Ramshorn]] has started to acclimate itself to the new location. The [[Chimera]] eggs hatched at the menagerie, the foundry has somewhat stabilized the local magitech, and the townsfolk have somewhat united in helping each other survive without the aid of [[Regatia]].

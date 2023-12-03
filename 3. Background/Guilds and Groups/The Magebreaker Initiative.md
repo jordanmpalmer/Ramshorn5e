@@ -1,7 +1,9 @@
 ---
-alias:
-location: Regatia
-tags: group
+aliases: 
+location: 
+tags:
+  - group
+locations: "[[Regatia]]"
 ---
 **The Magebreaker Initiative is a highly specialized faction that employs advanced magi-tech to police and neutralize dangerous magic users. They are often called upon by the nobles of Regatia to hunt down rogue spellcasters or those who use their powers for nefarious purposes.**
 

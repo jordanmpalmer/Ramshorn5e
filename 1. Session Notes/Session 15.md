@@ -1,6 +1,9 @@
 ---
-tags: session_note
-alias: 
+tags:
+  - session_note
+aliases: 
+session-date: 2023-10-09T00:00:00.000+01:00
+icon: session-note
 ---
 
 We approach a lone duergar with an average beard drinking away his pain, named Throndar, who believes us to be drunken hallucinations. Cedrick explains our situation to him in undercommon, and Dane insults him in common– which he apparently also understands.

@@ -1,15 +1,17 @@
 ---
-aliases: Braun
+aliases:
+  - Braun
 group: 
-sex: male
+sex: Male
 race: 
 age: 
-class:
-alignment:
+class: 
+alignment: 
 location: 
-party-alignment: friend
-pc-bond: yes
-tags: NPC
+party-alignment: 
+pc-bond: 
+tags:
+  - PC_NPC
 ---
 
 Victoria’s dad. Was disapproving of their marriage and doesn’t particularly like Zion. He owns a bakeshop.

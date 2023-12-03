@@ -1,6 +1,9 @@
 ---
-tags: session_note
-alias: 
+tags:
+  - session_note
+aliases: 
+session-date: 2023-11-27T00:00:00.000+00:00
+icon: session-note
 ---
 
 We sleep through the night, with [[Cedrick|Cedrick]] hearing the sounds of footsteps overhead on the desert above. Waking up, we leave the barricaded room– after clearing the fireplace rubble and [[Dane|Dane]] noting the oasis outside has vanished and the flaming skulls are still in wait– to see the undead have all vacated the area. After a time, we decide the best course of action is to leave and head north while we can. [[Dane|Dane]] shrinks the choir crystal to get it to the surface, and we depart.

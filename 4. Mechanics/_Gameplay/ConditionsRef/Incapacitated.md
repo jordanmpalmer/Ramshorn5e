@@ -1,0 +1,2 @@
+![[Conditions#Incapacitated]]
+

@@ -1,15 +1,17 @@
 ---
 aliases: 
-group: The Reclaimers
-sex: Male
+group: "[[The Reclaimers]]"
+sex: ""
 race: Dragon
 age: 
-class:
-alignment:
-location: Minastria
-party-alignment: friend
-pc-bond: no
-tags: NPC
+class: 
+alignment: 
+location: "[[Minastria]]"
+party-alignment: Friend
+pc-bond: 
+tags:
+  - NPC
+icon: npc
 ---
 
 ![[Breovo.png]]

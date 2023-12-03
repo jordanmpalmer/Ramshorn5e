@@ -1,7 +1,9 @@
 ---
-alias:
-location: Mirage Oasis
-tags: group
+aliases: 
+location: 
+tags:
+  - group
+locations: "[[Mirage Oasis]]"
 ---
 
 

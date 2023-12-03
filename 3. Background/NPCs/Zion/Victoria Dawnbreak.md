@@ -1,15 +1,17 @@
 ---
-aliases: Victoria
+aliases:
+  - Victoria
 group: 
-sex: female
+sex: Female
 race: 
 age: 
-class:
-alignment:
+class: 
+alignment: 
 location: 
-party-alignment: friend
-pc-bond: yes
-tags: NPC
+party-alignment: 
+pc-bond: 
+tags:
+  - PC_NPC
 ---
 
 Wife or ex-wife? Zion isn’t to sure at this point. She joined the rebellion and more or less left him behind.  

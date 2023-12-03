@@ -2,7 +2,8 @@
   "accentColor": "",
   "enabledCssSnippets": [
     "clean-embeds",
-    "hide-embedded-header"
+    "hide-embedded-header",
+    "supercharged-links-gen"
   ],
   "cssTheme": "ITS Theme",
   "theme": "moonstone",

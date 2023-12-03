@@ -1,0 +1,1 @@
+![[Combat#Instant Death]]

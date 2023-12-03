@@ -1,6 +1,9 @@
 ---
-tags: session_note
-alias: 
+tags:
+  - session_note
+aliases: 
+session-date: 2023-10-23T00:00:00.000+01:00
+icon: session-note
 ---
 
 Cedrick scouts ahead a bit and reports back about a tunnel further ahead, and an overlook about 20 feet up a sheer stone wall. After then sending Sol to scout the overlook, she discovers the sleeping Chimera and we devise a plan to send the party around the north tunnel that connects to the opposite end of the Chimera’s room and have Dane climb the overlook to prevent the beast from escaping. This plan immediately goes badly as both Sol and Zion trip over nearby rocks, waking the beast, and starting combat.

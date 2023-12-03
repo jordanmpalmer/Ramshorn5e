@@ -1,6 +1,9 @@
 ---
-tags: session_note
-alias: 
+tags:
+  - session_note
+aliases: 
+session-date: 2023-09-18T00:00:00.000+01:00
+icon: session-note
 ---
 
 The fight continued with the fire elementals, and we find that Dramus’s fire has a special ability to damage fire immune creatures and that the elementals are allergic to fey bath water.   

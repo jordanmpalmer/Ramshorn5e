@@ -1,15 +1,17 @@
 ---
-aliases: Astrid
+aliases:
+  - Astrid
 group: 
-sex: female
+sex: 
 race: 
 age: 
-class:
-alignment:
+class: 
+alignment: 
 location: 
-party-alignment: friend
-pc-bond: yes
-tags: NPC
+party-alignment: 
+pc-bond: 
+tags:
+  - PC_NPC
 ---
 
 A fellow Druid who runs the Bright-Tree Orphanarium. After Sol left the tribe, she headed to Toka to get some advice on controlling her magic and finding leads to discover more about her past.

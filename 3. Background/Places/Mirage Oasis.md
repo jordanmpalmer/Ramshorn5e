@@ -1,7 +1,11 @@
 ---
-alias: the oasis, oasis
+aliases:
+  - the oasis
+  - oasis
 type: region
-tags: location
+tags:
+  - location
+icon: location
 ---
 
 A region just north of [[Ramshorn]] on the planet of [[Minastria]].

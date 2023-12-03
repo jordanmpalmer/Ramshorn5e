@@ -1,9 +1,12 @@
 ---
-aliases: template
+aliases:
+  - template
 planet: Minastria
-region: where on the planet? 
-settlement:
-type:  
-party-alignment: friend or foe? 
-tags: location
+region: where on the planet?
+settlement: 
+type: 
+party-alignment: friend or foe?
+tags:
+  - location
+icon: location
 ---

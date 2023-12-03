@@ -1,17 +1,20 @@
 ---
-aliases: Cedrick Ballard
+aliases:
+  - Cedrick Ballard
 type: PC
 Age: 121
-Race: Elf
-Sub-Race: High Elf
-Class: Assassin Rogue
-Sub-Class: Infiltrator
+Race: "[[Elf]]"
+Sub-Race: 
+Class: "[[Rogue]]"
+Sub-Class: 
 Level: 6
 Player: Jordan
 status: active
-tags: PC
+tags:
+  - PC
 ---
-![[JP DND2.jpg|hm-sm]]
+![[JP DND2.jpg|400]]
+[[JP DND2.jpg|Show to Players]]
 
 **Name:** `=this.aliases` “Bladesinger”
 **Race:** [[Elf#High Elf|High Elf]]
@@ -44,7 +47,7 @@ To build deep inter-character relationships and continue to grow as a player, es
 
 ## Backstory
 
-Cedrick has only ever known the life of an [[assassin]]. He never met his parents and his earliest memories are of study and training from his life in the assassins guild. The assassins guild was an ideal put forward in [[The Magebreaker Initiative]] during the a time of a great deal of uncertainty where some highly skilled magic wielders grew in power to threaten [[Ramshorn]] as we know it today. 
+Cedrick has only ever known the life of an [[Assassin]]. He never met his parents and his earliest memories are of study and training from his life in the assassins guild. The assassins guild was an ideal put forward in [[The Magebreaker Initiative]] during the a time of a great deal of uncertainty where some highly skilled magic wielders grew in power to threaten [[Ramshorn]] as we know it today. 
 Since that time [[The Magebreaker Initiative]] decided it was important to expand their **resources** and even dip into the magic arts themselves for the greater good to ensure all major threats can be neutralized in the future and to avoid threat to the degree that they experienced. 
 This is when the assassins guild was created. This guild was formed to create well trained killing machines from a young age that they could influence and train to their liking. Cedrick was one of the first of his kind. His early life was constant training and study. He learned the skills of tracking and staying invisible through hunting wild animals while studied social skills and sleight of hand to blend in and persuade people. 
 As they grew up they were eventually given more freedom as they started on their first missions under [[The Magebreaker Initiative]]. Cedrick first drew blood of another man at the age of (12 in human years, calculate elf years). 
@@ -55,3 +58,7 @@ Ever since that day Cedrick has been missing a part of himself burying himself f
 ## Physical Attributes
 
 Cedrick is about average for an elf standing at 5’5” while being quite slender at 120lbs. He has a fair skin complexion with dark brown hair and blue eyes. He looks youthful and rocks a very dark grey cloak with black undergarments with deep blue accents. He has sheathed daggers on the thigh of each leg.
+
+```custom-frames
+frame: CedrickFrame
+```
