@@ -7,7 +7,7 @@ lock: true
 ### If true, view of map will recenter as you zoom out. 
 recenter: true
 ### If true, disables mouse scroll for zomming in and out of a map. Button controls still work. 
-noScrollZoom: true
+noScrollZoom: false
 image: [[Minastria.png]]
 ### Map Pixel Height x 1 / (Pixels between Bar Scale / 100)
 ### Map Pixel Width x 1 / (Pixels between Bar Scale / 100) 

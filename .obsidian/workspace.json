@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "13a22c55d5e75f70",
+        "id": "bc81cd8855bc6f60",
         "type": "tabs",
         "children": [
           {
-            "id": "07fc239aa5f355a2",
+            "id": "437f68485b720240",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9. Misc/To Do List.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a5fa2c0cf2040c8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Import Test.md",
+                "file": "z_Templates/Template - Insert Linked Rollable Table.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "e6b4ba24119f9909",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Import Test/Ring of Protection.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Import Test/Ring of Protection.md",
+                "file": "z_Templates/Template - Insert Linked Rollable Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Import Test/Ring of Protection.md"
+                "file": "z_Templates/Template - Insert Linked Rollable Table.md"
               }
             }
           },
@@ -132,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Import Test/Ring of Protection.md",
+                "file": "z_Templates/Template - Insert Linked Rollable Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -210,38 +185,41 @@
       "obsidian-regex-pipeline:Regex Rulesets": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-import-json:JSON/CSV Importer": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e6b4ba24119f9909",
+  "active": "437f68485b720240",
   "lastOpenFiles": [
-    "Import Test/Ring of Invisibility.md",
-    "Import Test/Ring of Evasion.md",
-    "Import Test/Ring of Animal Influence.md",
-    "Import Test/Quaal's Feather Token Swan Boat.md",
-    "Import Test/Prayer Bead - Wind Walking.md",
-    "Import Test/Pipes of the Sewers.md",
-    "Import Test/(+1) Armor.md",
-    "Handlebar Template Items.md",
-    "Import Test/Helm of Brilliance.md",
-    "Import Test/Luck Blade (Per Charge).md",
-    "Import Test/Instrument of the Bards - Ollamh Harp.md",
-    "Import Test/Instrument of the Bards - Anstruth Harp.md",
-    "Import Test/Instrument of the Bards - Canaith Mandolin.md",
-    "Import Test/Instrument of the Bards - Doss Lute.md",
-    "Import Test/Instrument of the Bards - Mac-Fuirmidh Cittern.md",
-    "Import Test/Instrument of the Bards - Fochulan Bandlore.md",
-    "Import Test/Instrument of the Bards - Cli Lyre.md",
-    "Import Test/Prayer Bead - Summons.md",
-    "Import Test/Prayer Bead - Greater Restoration.md",
-    "Import Test/Prayer Bead - Curing.md",
-    "Import Test/Prayer Bead - Smiting.md",
-    "Import Test/Prayer Bead - Bless.md",
-    "Import Test/Cloak of Displacement.md",
-    "Import Test/Scarab of Protection.md",
-    "Import Test/Ring of Regeneration.md",
-    "Import Test/Ring of Feather Falling.md",
-    "Import Test",
+    "z_Templates/Template - Handlebar Template Items.md",
+    "README.md",
+    "9. Misc/Other Relevant Links.md",
+    "9. Misc/To Do List.md",
+    "2. PCs/2. PCs.md",
+    "5. Generator Tools/Town Imports and Exports Generator.md",
+    "5. Generator Tools",
+    "z_Templates/Template - Insert Rollable Table.md",
+    "z_Templates/Template - Insert Linked Rollable Table.md",
+    "z_Templates/Template - Guilds and Groups.md",
+    "z_Templates/Template - Embed Website (iframe).md",
+    "z_Templates/Template - Encounter Map.md",
+    "z_Templates/Template - Regional Map.md",
+    "z_Templates/Template - Timeline Render.md",
+    "z_Templates/Template - WikiBox.md",
+    "9. Misc/Roll-Dice.md",
+    "9. Misc/Original Sessions.md",
+    "9. Misc/PHB Outline.md",
+    "3. Background/Places/Untitled.md",
+    "9. Misc/SRD Outline.md",
+    "9. Misc/New Tab.md",
+    "1. Session Notes/The Timeline To End All Timelines.md",
+    "9. Misc/Encounter and Maps Test.md",
+    "z_Templates/Template - Timeline Front Matter.md",
+    "z_Templates/Template - Timeline Event.md",
+    "z_Templates/Template - Statblock.md",
+    "z_Templates/Template - Spell.md",
+    "z_Assets/Ramshorn.png",
+    "z_Assets/Faerun Map.png",
+    "9. Misc/Import Test",
     "Banner Fix.css",
     "z_Assets/DnDBannerClasses.png",
     "z_Assets/DnD_Banner.webp",
@@ -249,18 +227,15 @@
     "z_Templates/Test",
     "3. Background/Places/Maps",
     "z_Assets/Minastria.png",
-    "z_Assets/Faerun Map.png",
     "z_Assets/Pasted image 20231203114223.png",
     "z_Assets/Pasted image 20231203114241.png",
     "z_Assets/Faerun Map High Res.png",
     "z_Assets/Zelkor's Ground Level.png",
     "z_Assets/Zelkor's Ground Level.webp",
-    "z_Assets/Zelkor_s_Ferry.jpg",
     "z_Assets/plugin-data/minastria-calendar.json",
     "z_Assets/plugin-data/simple-calendar-export2 copy.json",
     "z_Assets/plugin-data/exandrian-calendar.json",
     "z_Assets/plugin-data/simple-calendar-export2.json",
-    "z_Assets/plugin-data/bestiary-sublist-data.json",
     "4. Mechanics/Classes/Rogue/Untitled.canvas",
     "Untitled.canvas"
   ]

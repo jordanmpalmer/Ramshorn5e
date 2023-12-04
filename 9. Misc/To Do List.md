@@ -1,9 +1,6 @@
----
-banner: "![[DnD_Banner.webp]]"
----
 Learning List
 - [x] Fantasy Calendar
-- [ ] Initiative Tracker
+- [x] Initiative Tracker
 - [x] Dice Roller
 - [x] Statblocks
 - [x] Statblock Templates 
@@ -14,10 +11,15 @@ Learning List
 - [x] Encounter Maps
 - [x] Regional Maps
 - [ ] Dataview Lookup Table
-- [ ] CSV JSON Importer
-- [ ] Automatic Timelines
-- [ ] CLI
+- [x] CSV JSON Importer
+- [x] Automatic Timelines
+- [x] Wikiboxes on right
 - [x] Banners
+- [ ] [Inline Scripts](https://www.youtube.com/watch?v=EVNCzoyjwYk)
+- [ ] [Handlebar Templates CSV](https://www.youtube.com/watch?v=h3JH5RiYhpo)
+- [ ] [Handlebar Templates JSON](https://www.youtube.com/watch?v=k2LbOEDHDAA)
+- [ ] [CLI](https://www.youtube.com/watch?v=JV-v-NFON8s&list=PLV5XWfKkFpk7MJTKv5YdSSpT9b-vLslWu&index=79)
+- [ ] [Fonts](https://www.youtube.com/watch?v=DPEzJ3BPcmY)
 
 Current Task List
 - [ ] is there a way to introduce linking a note and bringing over the text
@@ -31,3 +33,18 @@ Current Task List
 - [ ] Finish new tab page
 - [ ] refine database folders!
 
+Things I need to show our group 
+- Calendar
+- Initiative tracker
+- Dice Roller / Randomizer table 
+- Statblocks 
+- DnDBeyond Frames 
+- Website iFrames
+- Encounter and Regional Maps
+- Timelines
+- Wikiboxes / Properties
+- New Tab
+- Session notes/templates 
+- Database Folders 
+- Unlinked mentions/linking
+- Generator Tools

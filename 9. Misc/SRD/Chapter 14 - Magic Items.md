@@ -16,7 +16,7 @@ Without becoming attuned to an item that requires attunement, a creature gains o
 
 Attuning to an item requires a creature to spend a short rest focused on only that item while being in physical contact with it (this can't be the same short rest used to learn the item's properties). This focus can take the form of weapon practice (for a weapon), meditation (for a wondrous item), or some other appropriate activity. If the short rest is interrupted, the attunement attempt fails. Otherwise, at the end of the short rest, the creature gains an intuitive understanding of how to activate any magical properties of the item, including any necessary command words.
 
-An item can be attuned to only one creature at a time, and a creature can be attuned to no more than three magic items at a time. Any attempt to attune to a fourth item fails; the creature must end its attunement to an item first. Additionally, a creature can't attune to more than one copy of an item. For example, a creature can't attune to more than one [[ring of protection]] at a time.
+An item can be attuned to only one creature at a time, and a creature can be attuned to no more than three magic items at a time. Any attempt to attune to a fourth item fails; the creature must end its attunement to an item first. Additionally, a creature can't attune to more than one copy of an item. For example, a creature can't attune to more than one [[9. Misc/Import Test/Ring of Protection]] at a time.
 
 A creature's attunement to an item ends if the creature no longer satisfies the prerequisites for attunement, if the item has been more than 100 feet away for at least 24 hours, if the creature dies, or if another creature attunes to the item. A creature can also voluntarily end attunement by spending another short rest focused on the item, unless the item is cursed.
 
@@ -301,7 +301,7 @@ If you remove a bean from the bag, plant it in dirt or sand, and then water it, 
 
 Wondrous item, very rare
 
-This bag superficially resembles a [[bag of holding]] but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice.
+This bag superficially resembles a [[9. Misc/Import Test/Bag of Holding]] but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice.
 
 The extradimensional creature attached to the bag can sense whatever is placed inside the bag. Animal or vegetable matter placed wholly in the bag is devoured and lost forever. When part of a living creature is placed in the bag, as happens when someone reaches inside it, there is a 50 percent chance that the creature is pulled inside the bag. A creature inside the bag can use its action to try to escape with a successful DC 15 Strength check. Another creature can use its action to reach into the bag to pull a creature out, doing so with a successful DC 20 Strength check (provided it isn’t pulled inside the bag first). Any creature that starts its turn inside the bag is devoured, its body destroyed.
 
@@ -317,7 +317,7 @@ This bag has an interior space considerably larger than its outside dimensions, 
 
 If the bag is overloaded, pierced, or torn, it ruptures and is destroyed, and its contents are scattered in the Astral Plane. If the bag is turned inside out, its contents spill forth, unharmed, but the bag must be put right before it can be used again. Breathing creatures inside the bag can survive up to a number of minutes equal to 10 divided by the number of creatures (minimum 1 minute), after which time they begin to suffocate.
 
-Placing a bag of holding inside an extradimensional space created by a [[handy haversack]], [[portable hole]], or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can’t be reopened.
+Placing a bag of holding inside an extradimensional space created by a [[handy haversack]], [[9. Misc/Import Test/Portable Hole]], or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can’t be reopened.
 
 ### [](https://www.dndbeyond.com/sources/basic-rules/magic-items#BagofTricks)[Bag of Tricks](https://www.dndbeyond.com/magic-items/4582-bag-of-tricks)
 
@@ -403,7 +403,7 @@ Wondrous item, rarity varies (requires attunement)
 
 While wearing this belt, your Strength score changes to a score granted by the belt. The item has no effect on you if your Strength without the belt is equal to or greater than the belt’s score.
 
-Six varieties of this belt exist, corresponding with and having rarity according to the six kinds of true giants. The [[belt of stone giant strength]] and the [[belt of frost giant strength]] look different, but they have the same effect.
+Six varieties of this belt exist, corresponding with and having rarity according to the six kinds of true giants. The [[Belt of Stone Giant Strength]] and the [[Belt of Frost Giant Strength]] look different, but they have the same effect.
 
 |Type|Strength|Rarity|
 |---|---|---|
@@ -956,7 +956,7 @@ An elemental composed mostly of water that is exposed to a pinch of the dust mus
 
 Wondrous item, uncommon
 
-Found in a small container, this powder resembles very fine sand. It appears to be [[dust of disappearance]], and an [[identify]] spell reveals it to be such. There is enough of it for one use.
+Found in a small container, this powder resembles very fine sand. It appears to be [[9. Misc/Import Test/Dust of Disappearance]], and an [[identify]] spell reveals it to be such. There is enough of it for one use.
 
 When you use an action to throw a handful of the dust into the air, you and each creature that needs to breathe within 30 feet of you must succeed on a DC 15 Constitution saving throw or become unable to breathe, while sneezing uncontrollably. A creature affected in this way is [[incapacitated]] and suffocating. As long as it is conscious, a creature can repeat the saving throw at the end of each of its turns, ending the effect on it on a success. The [[lesser restoration]] spell can also end the effect on a creature.
 
@@ -1231,7 +1231,7 @@ Weapon (maul), legendary
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
-Giant’s Bane (Requires Attunement). You must be wearing a [[belt of giant strength]] (any variety) and [[gauntlets of ogre power]] to attune to this weapon. The attunement ends if you take off either of those items. While you are attuned to this weapon and holding it, your Strength score increases by 4 and can exceed 20, but not 30. When you roll a 20 on an attack roll made with this weapon against a giant, the giant must succeed on a DC 17 Constitution saving throw or die.
+Giant’s Bane (Requires Attunement). You must be wearing a [[belt of giant strength]] (any variety) and [[9. Misc/Import Test/Gauntlets of Ogre Power]] to attune to this weapon. The attunement ends if you take off either of those items. While you are attuned to this weapon and holding it, your Strength score increases by 4 and can exceed 20, but not 30. When you roll a 20 on an attack roll made with this weapon against a giant, the giant must succeed on a DC 17 Constitution saving throw or die.
 
 The hammer also has 5 charges. While attuned to it, you can expend 1 charge and make a ranged weapon attack with the hammer, hurling it as if it had the thrown property with a normal range of 20 feet and a long range of 60 feet. If the attack hits, the hammer unleashes a thunderclap audible out to 300 feet. The target and every creature within 30 feet of it must succeed on a DC 17 Constitution saving throw or be [[stunned]] until the end of your next turn. The hammer regains 1d4 + 1 expended charges daily at dawn.
 
@@ -1245,7 +1245,7 @@ Placing an object in the haversack follows the normal rules for interacting with
 
 The haversack has a few limitations. If it is overloaded, or if a sharp object pierces it or tears it, the haversack ruptures and is destroyed. If the haversack is destroyed, its contents are lost forever, although an artifact always turns up again somewhere. If the haversack is turned inside out, its contents spill forth, unharmed, and the haversack must be put right before it can be used again. If a breathing creature is placed within the haversack, the creature can survive for up to 10 minutes, after which time it begins to suffocate.
 
-Placing the haversack inside an extradimensional space created by a [[bag of holding]], [[portable hole]], or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can’t be reopened.
+Placing the haversack inside an extradimensional space created by a [[9. Misc/Import Test/Bag of Holding]], [[9. Misc/Import Test/Portable Hole]], or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can’t be reopened.
 
 ### [](https://www.dndbeyond.com/sources/basic-rules/magic-items#HatofDisguise)[Hat of Disguise](https://www.dndbeyond.com/magic-items/4651-hat-of-disguise)
 
@@ -1351,7 +1351,7 @@ Wondrous item, rare
 
 You can use an action to place this 1-inch metal cube on the ground and speak its command word. The cube rapidly grows into a fortress that remains until you use an action to speak the command word that dismisses it, which works only if the fortress is empty.
 
-The fortress is a square tower, 20 feet on a side and 30 feet high, with arrow slits on all sides and a battlement atop it. Its interior is divided into two floors, with a ladder running along one wall to connect them. The ladder ends at a trapdoor leading to the roof. When activated, the tower has a small door on the side facing you. The door opens only at your command, which you can speak as a bonus action. It is immune to the [[knock]] spell and similar magic, such as that of a [[chime of opening]].
+The fortress is a square tower, 20 feet on a side and 30 feet high, with arrow slits on all sides and a battlement atop it. Its interior is divided into two floors, with a ladder running along one wall to connect them. The ladder ends at a trapdoor leading to the roof. When activated, the tower has a small door on the side facing you. The door opens only at your command, which you can speak as a bonus action. It is immune to the [[knock]] spell and similar magic, such as that of a [[9. Misc/Import Test/Chime of Opening]].
 
 Each creature in the area where the fortress appears must make a DC 15 Dexterity saving throw, taking 10d10 bludgeoning damage on a failed save, or half as much damage on a successful one. In either case, the creature is pushed to an unoccupied space outside but next to the fortress. Objects in the area that aren’t being worn or carried take this damage and are pushed automatically.
 
@@ -1444,7 +1444,7 @@ An [[identify]] spell reveals that a creature is inside the flask, but the onl
 |75–76|[[Efreeti]]|00|[[Xorn]]|
 
 ### [](https://www.dndbeyond.com/sources/basic-rules/magic-items#BrMagicitemJavelinOfLightningMagicitem)  
-[[Javelin of Lightning]]
+[[9. Misc/Import Test/Javelin of Lightning]]
 
 Weapon (javelin), uncommon
 
@@ -1716,7 +1716,7 @@ You can use an action to close a portable hole by taking hold of the edges of 
 
 If the hole is folded up, a creature within the hole’s extradimensional space can use an action to make a DC 10 Strength check. On a successful check, the creature forces its way out and appears within 5 feet of the portable hole or the creature carrying it. A breathing creature within a closed portable hole can survive for up to 10 minutes, after which time it begins to suffocate.
 
-Placing a portable hole inside an extradimensional space created by a [[bag of holding]], [[handy haversack]], or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can’t be reopened.
+Placing a portable hole inside an extradimensional space created by a [[9. Misc/Import Test/Bag of Holding]], [[handy haversack]], or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can’t be reopened.
 
 ### [](https://www.dndbeyond.com/sources/basic-rules/magic-items#PotionofAnimalFriendship)[Potion of Animal Friendship](https://www.dndbeyond.com/magic-items/4700-potion-of-animal-friendship)
 
@@ -2176,7 +2176,7 @@ This rod has a flanged head, and it functions as a magic mace that grants a +3 b
 
 Six Buttons. You can press one of the rod’s six buttons as a bonus action. A button’s effect lasts until you push a different button or until you push the same button again, which causes the rod to revert to its normal form.
 
-If you press button 1, the rod becomes a _[[flame tongue]]_, as a fiery blade sprouts from the end opposite the rod’s flanged head (you choose the type of sword).
+If you press button 1, the rod becomes a _[[9. Misc/Import Test/Flame Tongue]]_, as a fiery blade sprouts from the end opposite the rod’s flanged head (you choose the type of sword).
 
 If you press button 2, the rod’s flanged head folds down and two crescent-shaped blades spring out, transforming the rod into a magic battleaxe that grants a +3 bonus to attack and damage rolls made with it.
 
@@ -2269,7 +2269,7 @@ Wondrous item, legendary
 
 This viscous, milky-white substance can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with [[oil of slipperiness]]. When found, a container contains 1d6 + 1 ounces.
 
-One ounce of the glue can cover a 1-foot square surface. The glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of [[universal solvent]] or [[oil of etherealness]], or with a [[wish]] spell.
+One ounce of the glue can cover a 1-foot square surface. The glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of [[9. Misc/Import Test/Universal Solvent]] or [[oil of etherealness]], or with a [[wish]] spell.
 
 ### [](https://www.dndbeyond.com/sources/basic-rules/magic-items#SpellScroll)[Spell Scroll](https://www.dndbeyond.com/magic-items/5418-spell-scroll)
 
@@ -2320,7 +2320,7 @@ The sphere is stationary until someone controls it. If you are within 60 feet of
 
 If you attempt to control a sphere that is under another creature’s control, you make an Intelligence ([[Arcana]]) check contested by the other creature’s Intelligence ([[Arcana]]) check. The winner of the contest gains control of the sphere and can levitate it as normal.
 
-If the sphere comes into contact with a planar portal, such as that created by the [[gate]] spell, or an extradimensional space, such as that within a [[portable hole]], the DM determines randomly what happens, using the following table.
+If the sphere comes into contact with a planar portal, such as that created by the [[gate]] spell, or an extradimensional space, such as that within a [[9. Misc/Import Test/Portable Hole]], the DM determines randomly what happens, using the following table.
 
 |d100|Result|
 |---|---|
@@ -2578,7 +2578,7 @@ This trident is a magic weapon. It has 3 charges. While you carry it, you can us
 
 Wondrous item, legendary
 
-This tube holds milky liquid with a strong alcohol smell. You can use an action to pour the contents of the tube onto a surface within reach. The liquid instantly dissolves up to 1 square foot of adhesive it touches, including [[sovereign glue]].
+This tube holds milky liquid with a strong alcohol smell. You can use an action to pour the contents of the tube onto a surface within reach. The liquid instantly dissolves up to 1 square foot of adhesive it touches, including [[9. Misc/Import Test/Sovereign Glue]].
 
 ### [](https://www.dndbeyond.com/sources/basic-rules/magic-items#ViciousWeapon)[Vicious Weapon](https://www.dndbeyond.com/magic-items/5399-vicious-weapon)
 

@@ -29,7 +29,7 @@ A monster can be Tiny, Small, Medium, Large, Huge, or Gargantuan. The Size Categ
 
 ### Type
 
-A monster's type speaks to its fundamental nature. Certain spells, magic items, class features, and other effects in the game interact in special ways with creatures of a particular type. For example, an [[arrow of slaying]] **(dragon)** deals extra damage not only to dragons but also other creatures of the dragon type, such as dragon turtles and wyverns.
+A monster's type speaks to its fundamental nature. Certain spells, magic items, class features, and other effects in the game interact in special ways with creatures of a particular type. For example, an [[9. Misc/Import Test/Arrow of Slaying]] **(dragon)** deals extra damage not only to dragons but also other creatures of the dragon type, such as dragon turtles and wyverns.
 
 The game includes the following monster types, which have no rules of their own.
 

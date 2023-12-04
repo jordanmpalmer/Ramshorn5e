@@ -1,10 +1,52 @@
 ---
-type: city
-tags:
-  - location
+name: Ramshorn
+type: Town
+region: "[[The Dune Sea]]"
+planet: "[[Minastria]]"
+size: Large Town
+population: 300-400
+govt-type: Council
+leader: "[[The Elder]]"
+races: Humans 78%, Half-Elves 8%, Elves 6%, Gnomes 4%, Halflings 3%
+religions: Unknown
+imports: Animal Products, Ale, Textiles
+exports: Grains, Vegetables, Fruits, Magical Artifacts, Timber
+major-industry: Crafting, Agriculture, Mining, Traveler Support
+tags: location
 icon: location
 ---
 # Ramshorn
+
+> [!infobox]
+> # `=this.name`
+> ![[Ramshorn.png|cover hsmall]]
+> ###### Geography
+> | Type | Stat |
+> | ---- | ---- |
+> | Type | `=this.type` |
+> | Region | `=this.region` |
+> |  Planet | `=this.planet` |
+> |  Size    | `=this.size`   |
+> 
+> ##### Politics
+> | Type | Stat |
+> | ---- | ---- |
+> | Govt. Type | `=this.govt-type` |
+> | Leader | `=this.leader` |
+> 
+> ##### Society
+> | Type | Stat |
+> | ---- | ---- |
+> | Races | `=this.races` |
+> | Population | `=this.population` |
+> | Religions | `=this.religions` |
+> 
+> ##### Commerce
+> | Type | Stat |
+> | ---- | ---- |
+> | Imports | `=this.imports` |
+> | Exports | `=this.exports` |
+> | Major Industry | `=this.major-industry` |
 
 Ramshorn is a charming and picturesque mountain village nestled in the heart of Regatia where magic and technology coexist in harmony. The village is situated just barely in the rugged peaks of the Barrier Mountains, surrounded by towering cliffs and snow-capped peaks that rise up towards the heavens.  Despite its remote location, Ramshorn is a bustling hub of activity, attracting adventurers, traders, and travelers from all corners of the realm. The village is renowned for its small community of skilled craftsmen, who produce (albeit on a small scale) some of the finest magical artifacts and technological gadgets in the land.  The streets of Ramshorn are narrow and winding, lined with quaint stone cottages and wooden shacks that huddle together for warmth against the chill mountain air. The villagers are a hardy and friendly lot, quick to offer a warm welcome to any newcomers who venture into their midst.  At the center of the village a crashed airship, now reclaimed and repurposed into a local tavern, who have served travelers and local alike for generations. The tavern is a marvel of both magic and technology, boasting enchanted walls that keep the rooms temperature controlled as well as a network of clockwork servants and mechanical defenders that keep the villagers safe from harm.  Surrounding the village are vast forests, deep ravines, and treacherous mountain passes, all of which are home to a bewildering array of magical creatures and dangerous monsters. Yet despite these dangers, the villagers of Ramshorn are renowned for their bravery and skill in battle, and the village has never fallen to an enemy attack.  Overall, Ramshorn is a place of wonder and adventure, where magic and technology combine to create a truly unique and unforgettable experience. Whether you are a seasoned adventurer or a curious traveler, this mountain village is a must-visit destination for anyone who loves fantasy and adventure.
 

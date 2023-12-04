@@ -1,5 +1,7 @@
 ---
-banner: "![[DnDBannerClasses.png]]"
+banner: "![[DnD_Banner.webp]]"
+cssclass: darkgrey
+banner_x: 0.5
 ---
 
 |![[Minastria.png\|hsmall]] | Ramshorn     | Character Sheet | DM Screen |
