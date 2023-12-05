@@ -43,7 +43,7 @@ An object's hit points measure how much damage it can take before losing its str
 
 #### Huge and Gargantuan Objects
 
-Normal weapons are of little use against many Huge and Gargantuan objects, such as a colossal statue, towering column of stone, or massive boulder. That said, one torch can burn a Huge tapestry, and an [[earthquake]] spell can reduce a colossus to rubble. You can track a Huge or Gargantuan object's hit points if you like, or you can simply decide how long the object can withstand whatever weapon or force is acting against it. If you track hit points for the object, divide it into Large or smaller sections, and track each section's hit points separately. Destroying one of those sections could ruin the entire object. For example, a Gargantuan statue of a human might topple over when one of its Large legs is reduced to 0 hit points.
+Normal weapons are of little use against many Huge and Gargantuan objects, such as a colossal statue, towering column of stone, or massive boulder. That said, one torch can burn a Huge tapestry, and an [[Earthquake]] spell can reduce a colossus to rubble. You can track a Huge or Gargantuan object's hit points if you like, or you can simply decide how long the object can withstand whatever weapon or force is acting against it. If you track hit points for the object, divide it into Large or smaller sections, and track each section's hit points separately. Destroying one of those sections could ruin the entire object. For example, a Gargantuan statue of a human might topple over when one of its Large legs is reduced to 0 hit points.
 
 #### Objects and Damage Types
 
@@ -57,7 +57,7 @@ Big objects such as castle walls often have extra resilience represented by a da
 
 Traps can be found almost anywhere. One wrong step in an ancient tomb might trigger a series of scything blades, which cleave through armor and bone. The seemingly innocuous vines that hang over a cave entrance might grasp and choke anyone who pushes through them. A net hidden among the trees might drop on travelers who pass underneath. In a fantasy game, unwary adventurers can fall to their deaths, be burned alive, or fall under a fusillade of poisoned darts.
 
-A trap can be either mechanical or magical in nature. **Mechanical traps** include pits, arrow traps, falling blocks, water-filled rooms, whirling blades, and anything else that depends on a mechanism to operate. **Magic traps** are either magical device traps or spell traps. Magical device traps initiate spell effects when activated. Spell traps are spells such as [[glyph of warding]] and [[symbol]] that function as traps.
+A trap can be either mechanical or magical in nature. **Mechanical traps** include pits, arrow traps, falling blocks, water-filled rooms, whirling blades, and anything else that depends on a mechanism to operate. **Magic traps** are either magical device traps or spell traps. Magical device traps initiate spell effects when activated. Spell traps are spells such as [[Glyph of Warding]] and [[Symbol]] that function as traps.
 
 ### Traps in Play
 
@@ -65,7 +65,7 @@ When adventurers come across a trap, you need to know how the trap is triggered 
 
 #### Triggering a Trap
 
-Most traps are triggered when a creature goes somewhere or touches something that the trap's creator wanted to protect. Common triggers include stepping on a pressure plate or a false section of floor, pulling a trip wire, turning a doorknob, and using the wrong key in a lock. Magic traps are often set to go off when a creature enters an area or touches an object. Some magic traps (such as the [[glyph of warding]] spell) have more complicated trigger conditions, including a password that prevents the trap from activating.
+Most traps are triggered when a creature goes somewhere or touches something that the trap's creator wanted to protect. Common triggers include stepping on a pressure plate or a false section of floor, pulling a trip wire, turning a doorknob, and using the wrong key in a lock. Magic traps are often set to go off when a creature enters an area or touches an object. Some magic traps (such as the [[Glyph of Warding]] spell) have more complicated trigger conditions, including a password that prevents the trap from activating.
 
 #### Detecting and Disabling a Trap
 
@@ -73,7 +73,7 @@ Usually, some element of a trap is visible to careful inspection. Characters mig
 
 A trap's description specifies the checks and DCs needed to detect it, disable it, or both. A character actively looking for a trap can attempt a Wisdom ([[Perception]]) check against the trap's DC. You can also compare the DC to detect the trap with each character's passive Wisdom ([[Perception]]) score to determine whether anyone in the party notices the trap in passing. If the adventurers detect a trap before triggering it, they might be able to disarm it, either permanently or long enough to move past it. You might call for an Intelligence ([[Investigation]]) check for a character to deduce what needs to be done, followed by a Dexterity check using thieves' tools to perform the necessary sabotage.
 
-Any character can attempt an Intelligence ([[Arcana]]) check to detect or disarm a magic trap, in addition to any other checks noted in the trap's description. The DCs are the same regardless of the check used. In addition, [[dispel magic]] has a chance of disabling most magic traps. A magic trap's description provides the DC for the ability check made when you use [[dispel magic]].
+Any character can attempt an Intelligence ([[Arcana]]) check to detect or disarm a magic trap, in addition to any other checks noted in the trap's description. The DCs are the same regardless of the check used. In addition, [[Dispel Magic]] has a chance of disabling most magic traps. A magic trap's description provides the DC for the ability check made when you use [[Dispel Magic]].
 
 In most cases, a trap's description is clear enough that you can adjudicate whether a character's actions locate or foil the trap. As with many situations, you shouldn't allow die rolling to override clever play and good planning. Use your common sense, drawing on the trap's description to determine what happens. No trap's design can anticipate every possible action that the characters might attempt.
 
@@ -142,7 +142,7 @@ This trap uses a trip wire to release a net suspended from the ceiling.
 
 The trip wire is 3 inches off the ground and stretches between two columns or trees. The net is hidden by cobwebs or foliage. The DC to spot the trip wire and net is 10. A successful DC 15 Dexterity check using thieves' tools breaks the trip wire harmlessly. A character without thieves' tools can attempt this check with disadvantage using any edged weapon or edged tool. On a failed check, the trap triggers.
 
-When the trap is triggered, the net is released, covering a 10-foot-square area. Those in the area are trapped under the net and [[restrained]], and those that fail a DC 10 Strength saving throw are also knocked [[prone]]. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. The net has AC 10 and 20 hit points. Dealing 5 slashing damage to the net (AC 10) destroys a 5-foot-square section of it, freeing any creature trapped in that section.
+When the trap is triggered, the net is released, covering a 10-foot-square area. Those in the area are trapped under the net and [[Restrained]], and those that fail a DC 10 Strength saving throw are also knocked [[Prone]]. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. The net has AC 10 and 20 hit points. Dealing 5 slashing damage to the net (AC 10) destroys a 5-foot-square section of it, freeing any creature trapped in that section.
 
 ##### Fire-Breathing Statue
 
@@ -150,11 +150,11 @@ _Magic trap_
 
 This trap is activated when an intruder steps on a hidden pressure plate, releasing a magical gout of flame from a nearby statue. The statue can be of anything, including a dragon or a wizard casting a spell.
 
-The DC is 15 to spot the pressure plate, as well as faint scorch marks on the floor and walls. A spell or other effect that can sense the presence of magic, such as [[detect magic]], reveals an aura of evocation magic around the statue.
+The DC is 15 to spot the pressure plate, as well as faint scorch marks on the floor and walls. A spell or other effect that can sense the presence of magic, such as [[Detect Magic]], reveals an aura of evocation magic around the statue.
 
 The trap activates when more than 20 pounds of weight is placed on the pressure plate, causing the statue to release a 30-foot cone of fire. Each creature in the fire must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
 
-Wedging an iron spike or other object under the pressure plate prevents the trap from activating. A successful [[dispel magic]] (DC 13) cast on the statue destroys the trap.
+Wedging an iron spike or other object under the pressure plate prevents the trap from activating. A successful [[Dispel Magic]] (DC 13) cast on the statue destroys the trap.
 
 ##### Pits
 
@@ -172,7 +172,7 @@ A successful DC 15 Wisdom ([[Perception]]) check discerns an absence of foot tra
 
 When a creature steps on the cover, it swings open like a trapdoor, causing the intruder to spill into the pit below. The pit is usually 10 or 20 feet deep but can be deeper.
 
-Once the pit trap is detected, an iron spike or similar object can be wedged between the pit's cover and the surrounding floor in such a way as to prevent the cover from opening, thereby making it safe to cross. The cover can also be magically held shut using the [[arcane lock]] spell or similar magic.
+Once the pit trap is detected, an iron spike or similar object can be wedged between the pit's cover and the surrounding floor in such a way as to prevent the cover from opening, thereby making it safe to cross. The cover can also be magically held shut using the [[Arcane Lock]] spell or similar magic.
 
 **Locking Pit.** This pit trap is identical to a hidden pit trap, with one key exception: the trap door that covers the pit is spring-loaded. After a creature falls into the pit, the cover snaps shut to trap its victim inside.
 
@@ -195,7 +195,7 @@ The trap activates when more than 20 pounds of weight is placed on the pressure 
 _Mechanical trap_
 
 A poisoned needle is hidden within a treasure chest's lock, or in something else that a creature might open. Opening the chest without the proper key causes the needle to spring out, delivering a dose of poison.  
-When the trap is triggered, the needle extends 3 inches straight out from the lock. A creature within range takes 1 piercing damage and 11 (2d10) poison damage, and must succeed on a DC 15 Constitution saving throw or be [[poisoned]] for 1 hour.
+When the trap is triggered, the needle extends 3 inches straight out from the lock. A creature within range takes 1 piercing damage and 11 (2d10) poison damage, and must succeed on a DC 15 Constitution saving throw or be [[Poisoned]] for 1 hour.
 
 A successful DC 20 Intelligence ([[Investigation]]) check allows a character to deduce the trap's presence from alterations made to the lock to accommodate the needle. A successful DC 15 Dexterity check using thieves' tools disarms the trap, removing the needle from the lock. Unsuccessfully attempting to pick the lock triggers the trap.
 
@@ -207,7 +207,7 @@ When 20 or more pounds of pressure are placed on this trap's pressure plate, a h
 
 With a successful DC 15 Wisdom ([[Perception]]) check, a character can spot the trapdoor and pressure plate. A search of the floor accompanied by a successful DC 15 Intelligence ([[Investigation]]) check reveals variations in the mortar and stone that betray the pressure plate's presence. The same check made while inspecting the ceiling notes variations in the stonework that reveal the trapdoor. Wedging an iron spike or other object under the pressure plate prevents the trap from activating.
 
-Activation of the sphere requires all creatures present to roll initiative. The sphere rolls initiative with a +8 bonus. On its turn, it moves 60 feet in a straight line. The sphere can move through creatures' spaces, and creatures can move through its space, treating it as difficult terrain. Whenever the sphere enters a creature's space or a creature enters its space while it's rolling, that creature must succeed on a DC 15 Dexterity saving throw or take 55 (10d10) bludgeoning damage and be knocked [[prone]].
+Activation of the sphere requires all creatures present to roll initiative. The sphere rolls initiative with a +8 bonus. On its turn, it moves 60 feet in a straight line. The sphere can move through creatures' spaces, and creatures can move through its space, treating it as difficult terrain. Whenever the sphere enters a creature's space or a creature enters its space while it's rolling, that creature must succeed on a DC 15 Dexterity saving throw or take 55 (10d10) bludgeoning damage and be knocked [[Prone]].
 
 The sphere stops when it hits a wall or similar barrier. It can't go around corners, but smart dungeon builders incorporate gentle, curving turns into nearby passages that allow the sphere to keep moving.
 
@@ -219,9 +219,9 @@ _Magic trap_
 
 Magical, impenetrable darkness fills the gaping mouth of a stone face carved into a wall. The mouth is 2 feet in diameter and roughly circular. No sound issues from it, no light can illuminate the inside of it, and any matter that enters it is instantly obliterated.
 
-A successful DC 20 Intelligence ([[Arcana]]) check reveals that the mouth contains a [[sphere of annihilation]] that can't be controlled or moved. It is otherwise identical to a normal [[sphere of annihilation]].
+A successful DC 20 Intelligence ([[Arcana]]) check reveals that the mouth contains a [[Sphere of Annihilation]] that can't be controlled or moved. It is otherwise identical to a normal [[Sphere of Annihilation]].
 
-Some versions of the trap include an enchantment placed on the stone face, such that specified creatures feel an overwhelming urge to approach it and crawl inside its mouth. This effect is otherwise like the **sympathy** aspect of the [[antipathy/sympathy]] spell. A successful [[dispel magic]] (DC 18) removes this enchantment.
+Some versions of the trap include an enchantment placed on the stone face, such that specified creatures feel an overwhelming urge to approach it and crawl inside its mouth. This effect is otherwise like the **sympathy** aspect of the [[antipathy/sympathy]] spell. A successful [[Dispel Magic]] (DC 18) removes this enchantment.
 
 ## Poisons
 
@@ -262,39 +262,39 @@ Poisons come in the following four types.
 
 Each type of poison has its own debilitating effects.
 
-**Assassin's Blood (Ingested).** A creature subjected to this poison must make a DC 10 Constitution saving throw. On a failed save, it takes 6 (1d12) poison damage and is [[poisoned]] for 24 hours. On a successful save, the creature takes half damage and isn't [[poisoned]].
+**Assassin's Blood (Ingested).** A creature subjected to this poison must make a DC 10 Constitution saving throw. On a failed save, it takes 6 (1d12) poison damage and is [[Poisoned]] for 24 hours. On a successful save, the creature takes half damage and isn't [[Poisoned]].
 
 **Burnt Othur Fumes (Inhaled).** A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or take 10 (3d6) poison damage, and must repeat the saving throw at the start of each of its turns. On each successive failed save, the character takes 3 (1d6) poison damage. After three successful saves, the poison ends.
 
-**Crawler Mucus (Contact).** This poison must be harvested from a dead or [[incapacitated]] crawler. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be [[poisoned]] for 1 minute. The [[poisoned]] creature is [[paralyzed]]. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+**Crawler Mucus (Contact).** This poison must be harvested from a dead or [[Incapacitated]] crawler. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be [[Poisoned]] for 1 minute. The [[Poisoned]] creature is [[Paralyzed]]. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-**Drow Poison (Injury).** This poison is typically made only by the drow, and only in a place far removed from sunlight. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be [[poisoned]] for 1 hour. If the saving throw fails by 5 or more, the creature is also [[unconscious]] while [[poisoned]] in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.
+**Drow Poison (Injury).** This poison is typically made only by the drow, and only in a place far removed from sunlight. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be [[Poisoned]] for 1 hour. If the saving throw fails by 5 or more, the creature is also [[Unconscious]] while [[Poisoned]] in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.
 
-**Essence of Ether (Inhaled).** A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become [[poisoned]] for 8 hours. The [[poisoned]] creature is [[unconscious]]. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.
+**Essence of Ether (Inhaled).** A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become [[Poisoned]] for 8 hours. The [[Poisoned]] creature is [[Unconscious]]. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.
 
-**Malice (Inhaled).** A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become [[poisoned]] for 1 hour. The [[poisoned]] creature is [[blinded]].
+**Malice (Inhaled).** A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become [[Poisoned]] for 1 hour. The [[Poisoned]] creature is [[Blinded]].
 
 **Midnight Tears (Ingested).** A creature that ingests this poison suffers no effect until the stroke of midnight. If the poison has not been neutralized before then, the creature must succeed on a DC 17 Constitution saving throw, taking 31 (9d6) poison damage on a failed save, or half as much damage on a successful one.
 
-**Oil of Taggit (Contact).** A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or become [[poisoned]] for 24 hours. The [[poisoned]] creature is [[unconscious]]. The creature wakes up if it takes damage.
+**Oil of Taggit (Contact).** A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or become [[Poisoned]] for 24 hours. The [[Poisoned]] creature is [[Unconscious]]. The creature wakes up if it takes damage.
 
-**Pale Tincture (Ingested).** A creature subjected to this poison must succeed on a DC 16 Constitution saving throw or take 3 (1d6) poison damage and become [[poisoned]]. The [[poisoned]] creature must repeat the saving throw every 24 hours, taking 3 (1d6) poison damage on a failed save. Until this poison ends, the damage the poison deals can't be healed by any means. After seven successful saving throws, the effect ends and the creature can heal normally.
+**Pale Tincture (Ingested).** A creature subjected to this poison must succeed on a DC 16 Constitution saving throw or take 3 (1d6) poison damage and become [[Poisoned]]. The [[Poisoned]] creature must repeat the saving throw every 24 hours, taking 3 (1d6) poison damage on a failed save. Until this poison ends, the damage the poison deals can't be healed by any means. After seven successful saving throws, the effect ends and the creature can heal normally.
 
-**Purple Worm Poison (Injury).** This poison must be harvested from a dead or [[incapacitated]] [[purple worm]]. A creature subjected to this poison must make a DC 19 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+**Purple Worm Poison (Injury).** This poison must be harvested from a dead or [[Incapacitated]] [[Purple Worm]]. A creature subjected to this poison must make a DC 19 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
 
-**Serpent Venom (Injury).** This poison must be harvested from a dead or [[incapacitated]] [[Giant Poisonous Snake (Creature)]]. A creature subjected to this poison must succeed on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
+**Serpent Venom (Injury).** This poison must be harvested from a dead or [[Incapacitated]] [[Giant Poisonous Snake (Creature)]]. A creature subjected to this poison must succeed on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 
-**Torpor (Ingested).** A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become [[poisoned]] for 4d6 hours. The [[poisoned]] creature is [[incapacitated]].
+**Torpor (Ingested).** A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become [[Poisoned]] for 4d6 hours. The [[Poisoned]] creature is [[Incapacitated]].
 
-**Truth Serum (Ingested).** A creature subjected to this poison must succeed on a DC 11 Constitution saving throw or become [[poisoned]] for 1 hour. The [[poisoned]] creature can't knowingly speak a lie, as if under the effect of a [[zone of truth]] spell.
+**Truth Serum (Ingested).** A creature subjected to this poison must succeed on a DC 11 Constitution saving throw or become [[Poisoned]] for 1 hour. The [[Poisoned]] creature can't knowingly speak a lie, as if under the effect of a [[Zone of Truth]] spell.
 
-**Wyvern Poison (Injury).** This poison must be harvested from a dead or [[incapacitated]] [[wyvern]]. A creature subjected to this poison must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+**Wyvern Poison (Injury).** This poison must be harvested from a dead or [[Incapacitated]] [[Wyvern]]. A creature subjected to this poison must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
 
 ## Diseases
 
 A plague ravages the kingdom, setting the adventurers on a quest to find a cure. An adventurer emerges from an ancient tomb, unopened for centuries, and soon finds herself suffering from a wasting illness. A warlock offends some dark power and contracts a strange affliction that spreads whenever he casts spells.
 
-A simple outbreak might amount to little more than a small drain on party resources, curable by a casting of [[lesser restoration]]. A more complicated outbreak can form the basis of one or more adventures as characters search for a cure, stop the spread of the disease, and deal with the consequences.
+A simple outbreak might amount to little more than a small drain on party resources, curable by a casting of [[Lesser Restoration]]. A more complicated outbreak can form the basis of one or more adventures as characters search for a cure, stop the spread of the disease, and deal with the consequences.
 
 A disease that does more than infect a few party members is primarily a plot device. The rules help describe the effects of the disease and how it can be cured, but the specifics of how a disease works aren't bound by a common set of rules. Diseases can affect any creature, and a given illness might or might not pass from one race or kind of creature to another. A plague might affect only constructs or undead, or sweep through a halfling neighborhood but leave other races untouched. What matters is the story you want to tell.
 
@@ -306,9 +306,9 @@ The diseases here illustrate the variety of ways disease can work in the game. F
 
 This disease targets humanoids, although gnomes are strangely immune. While in the grips of this disease, victims frequently succumb to fits of mad laughter, giving the disease its common name and its morbid nickname: "the shrieks."
 
-Symptoms manifest 1d4 hours after infection and include fever and disorientation. The infected creature gains one level of [[exhaustion]] that can't be removed until the disease is cured.
+Symptoms manifest 1d4 hours after infection and include fever and disorientation. The infected creature gains one level of [[Exhaustion]] that can't be removed until the disease is cured.
 
-Any event that causes the infected creature great stress--including entering combat, taking damage, experiencing fear, or having a nightmare--forces the creature to make a DC 13 Constitution saving throw. On a failed save, the creature takes 5 (1d10) psychic damage and becomes [[incapacitated]] with mad laughter for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the mad laughter and the [[incapacitated]] condition on a success.
+Any event that causes the infected creature great stress--including entering combat, taking damage, experiencing fear, or having a nightmare--forces the creature to make a DC 13 Constitution saving throw. On a failed save, the creature takes 5 (1d10) psychic damage and becomes [[Incapacitated]] with mad laughter for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the mad laughter and the [[Incapacitated]] condition on a success.
 
 Any humanoid creature that starts its turn within 10 feet of an infected creature in the throes of mad laughter must succeed on a DC 10 Constitution saving throw or also become infected with the disease. Once a creature succeeds on this save, it is immune to the mad laughter of that particular infected creature for 24 hours.
 
@@ -316,19 +316,19 @@ At the end of each long rest, an infected creature can make a DC 13 Constitution
 
 #### Sewer Plague
 
-Sewer plague is a generic term for a broad category of illnesses that incubate in sewers, refuse heaps, and stagnant swamps, and which are sometimes transmitted by creatures that dwell in those areas, such as [[rat]]**s** and [[otyugh]]**s**.
+Sewer plague is a generic term for a broad category of illnesses that incubate in sewers, refuse heaps, and stagnant swamps, and which are sometimes transmitted by creatures that dwell in those areas, such as [[rat]]**s** and [[Otyugh]]**s**.
 
 When a humanoid creature is bitten by a creature that carries the disease, or when it comes into contact with filth or offal contaminated by the disease, the creature must succeed on a DC 11 Constitution saving throw or become infected.
 
-It takes 1d4 days for sewer plague's symptoms to manifest in an infected creature. Symptoms include fatigue and cramps. The infected creature suffers one level of [[exhaustion]], and it regains only half the normal number of hit points from spending Hit Dice and no hit points from finishing a long rest.
+It takes 1d4 days for sewer plague's symptoms to manifest in an infected creature. Symptoms include fatigue and cramps. The infected creature suffers one level of [[Exhaustion]], and it regains only half the normal number of hit points from spending Hit Dice and no hit points from finishing a long rest.
 
-At the end of each long rest, an infected creature must make a DC 11 Constitution saving throw. On a failed save, the character gains one level of [[exhaustion]]. On a successful save, the character's [[exhaustion]] level decreases by one level. If a successful saving throw reduces the infected creature's level of [[exhaustion]] below 1, the creature recovers from the disease.
+At the end of each long rest, an infected creature must make a DC 11 Constitution saving throw. On a failed save, the character gains one level of [[Exhaustion]]. On a successful save, the character's [[Exhaustion]] level decreases by one level. If a successful saving throw reduces the infected creature's level of [[Exhaustion]] below 1, the creature recovers from the disease.
 
 #### Sight Rot
 
 This painful infection causes bleeding from the eyes and eventually blinds the victim.
 
-A beast or humanoid that drinks water tainted by sight rot must succeed on a DC 15 Constitution saving throw or become infected. One day after infection, the creature's vision starts to become blurry. The creature takes a −1 penalty to attack rolls and ability checks that rely on sight. At the end of each long rest after the symptoms appear, the penalty worsens by 1. When it reaches −5, the victim is [[blinded]] until its sight is restored by magic such as [[lesser restoration]] or [[heal]].
+A beast or humanoid that drinks water tainted by sight rot must succeed on a DC 15 Constitution saving throw or become infected. One day after infection, the creature's vision starts to become blurry. The creature takes a −1 penalty to attack rolls and ability checks that rely on sight. At the end of each long rest after the symptoms appear, the penalty worsens by 1. When it reaches −5, the victim is [[Blinded]] until its sight is restored by magic such as [[Lesser Restoration]] or [[Heal]].
 
 Sight rot can be cured using a rare flower called Eyebright, which grows in some swamps. Given an hour, a character who has proficiency with an herbalism kit can turn the flower into one dose of ointment. Applied to the eyes before a long rest, one dose of it prevents the disease from worsening after that rest. After three doses, the ointment cures the disease entirely.
 
@@ -338,7 +338,7 @@ In a typical campaign, characters aren't driven mad by the horrors they face and
 
 ### Going Mad
 
-Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as [[contact other plane]] and [[symbol]], can cause insanity, and you can use the madness rules here instead of the spell effects of those spells. Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
+Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as [[Contact Other Plane]] and [[Symbol]], can cause insanity, and you can use the madness rules here instead of the spell effects of those spells. Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
 
 Resisting a madness-inducing effect usually requires a Wisdom or Charisma saving throw.
 
@@ -403,4 +403,4 @@ A character afflicted with **indefinite madness** gains a new character flaw f
 
 ### Curing Madness
 
-A [[calm emotions]] spell can suppress the effects of madness, while a [[lesser restoration]] spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, [[remove curse]] or [[dispel evil and good]] might also prove effective. A [[greater restoration]] spell or more powerful magic is required to rid a character of indefinite madness.
+A [[Calm Emotions]] spell can suppress the effects of madness, while a [[Lesser Restoration]] spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, [[Remove Curse]] or [[Dispel Evil and Good]] might also prove effective. A [[Greater Restoration]] spell or more powerful magic is required to rid a character of indefinite madness.

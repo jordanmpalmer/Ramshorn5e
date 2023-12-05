@@ -48,11 +48,11 @@ Your DM might set the campaign on one of these worlds or on one that he or she c
 
 The _Player’s Handbook_ is divided into three parts.
 
-**Part 1** (chapters 1–6) is about creating a character, providing the rules and guidance you need to make the character you’ll play in the game. It includes information on the various [[races]], [[classes]], [[backgrounds]], [[equipment]], and other [[customization options]] that you can choose from. Many of the rules in part 1 rely on material in parts 2 and 3. If you come across a game concept in part 1 that you don’t understand, consult the book’s index.
+**Part 1** (chapters 1–6) is about creating a character, providing the rules and guidance you need to make the character you’ll play in the game. It includes information on the various [[Races]], [[Classes]], [[Backgrounds]], [[Equipment]], and other [[customization options]] that you can choose from. Many of the rules in part 1 rely on material in parts 2 and 3. If you come across a game concept in part 1 that you don’t understand, consult the book’s index.
 
-**Part 2** (chapters 7–9) details the rules of how to play the game, beyond the basics described in this introduction. That part covers the kinds of die rolls you make to determine success or failure at the tasks your character attempts, and describes the three broad categories of activity in the game: [[exploration]], [[interaction]], and [[combat]].
+**Part 2** (chapters 7–9) details the rules of how to play the game, beyond the basics described in this introduction. That part covers the kinds of die rolls you make to determine success or failure at the tasks your character attempts, and describes the three broad categories of activity in the game: [[exploration]], [[interaction]], and [[Combat]].
 
-**Part 3** (chapters 10–11) is all about magic. It covers the nature of magic in the worlds of D&D, the rules for [[spellcasting]], and the huge variety of [[spells]] available to magic-using characters (and monsters) in the game.
+**Part 3** (chapters 10–11) is all about magic. It covers the nature of magic in the worlds of D&D, the rules for [[Spellcasting]], and the huge variety of [[spells]] available to magic-using characters (and monsters) in the game.
 
 ## How to Play
 
@@ -85,7 +85,7 @@ The same d notation appears in the expressions “1d3” and “1d2.” To simul
 
 ### The D20
 
-Does an adventurer’s sword swing hurt a dragon or just bounce off its iron-hard scales? Will the ogre believe an outrageous bluff? Can a character swim across a raging river? Can a character avoid the main blast of a [[fireball]], or does he or she take full damage from the blaze? In cases where the outcome of an action is uncertain, the Dungeons & Dragons game relies on rolls of a 20-sided die, a d20, to determine success or failure.
+Does an adventurer’s sword swing hurt a dragon or just bounce off its iron-hard scales? Will the ogre believe an outrageous bluff? Can a character swim across a raging river? Can a character avoid the main blast of a [[Fireball]], or does he or she take full damage from the blaze? In cases where the outcome of an action is uncertain, the Dungeons & Dragons game relies on rolls of a 20-sided die, a d20, to determine success or failure.
 
 Every character and monster in the game has capabilities defined by six [[ability scores]]. The abilities are Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma, and they typically range from 3 to 18 for most adventurers. (Monsters might have scores as low as 1 or as high as 30.) These ability scores, and the **ability modifiers** derived from them, are the basis for almost every d20 roll that a player makes on a character’s or monster’s behalf.
 

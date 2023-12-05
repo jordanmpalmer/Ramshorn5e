@@ -240,7 +240,7 @@ You might want to tweak some of the features of a background so it better fits y
 
 > **TIKA AND ARTEMIS: BACKGROUNDS**
 > 
-> Tika Waylan and Artemis Entreri both lived their earliest years as street urchins. Tika’s later career as a barmaid didn’t really change her, so she might choose the [[urchin]] background, gaining proficiency in the [[Sleight of Hand]] and [[Stealth]] skills, and learning the tools of the thieving trade. Artemis is more defined by his [[criminal]] background, giving him skills in [[Deception]] and [[Stealth]], as well as proficiency with the tools of thievery and poison.
+> Tika Waylan and Artemis Entreri both lived their earliest years as street urchins. Tika’s later career as a barmaid didn’t really change her, so she might choose the [[Urchin]] background, gaining proficiency in the [[Sleight of Hand]] and [[4. Resources/_Gameplay/AdventuringRef/Stealth]] skills, and learning the tools of the thieving trade. Artemis is more defined by his [[Criminal]] background, giving him skills in [[Deception]] and [[4. Resources/_Gameplay/AdventuringRef/Stealth]], as well as proficiency with the tools of thievery and poison.
 
 ### Acolyte
 
@@ -381,7 +381,7 @@ Charlatans are colorful characters who conceal their true selves behind the mask
 
 You are an experienced criminal with a history of breaking the law. You have spent a lot of time among other criminals and still have contacts within the criminal underworld. You’re far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization, and you have survived up to this point by flouting the rules and regulations of society.
 
-**Skill Proficiencies:** [[Deception]], [[Stealth]]
+**Skill Proficiencies:** [[Deception]], [[4. Resources/_Gameplay/AdventuringRef/Stealth]]
 
 **Tool Proficiencies:** One type of gaming set, thieves’ tools
 
@@ -1167,7 +1167,7 @@ You grew up on the streets alone, orphaned, and poor. You had no one to watch ov
 
 You begin your adventuring career with enough money to live modestly but securely for at least ten days. How did you come by that money? What allowed you to break free of your desperate circumstances and embark on a better life?
 
-**Skill Proficiencies:** [[Sleight of Hand]], [[Stealth]]
+**Skill Proficiencies:** [[Sleight of Hand]], [[4. Resources/_Gameplay/AdventuringRef/Stealth]]
 
 **Tool Proficiencies:** Disguise kit, thieves’ tools
 

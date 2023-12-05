@@ -13,7 +13,7 @@ Is a character muscle-bound and insightful? Brilliant and charming? Nimble and h
 
 The three main rolls of the game — the ability check, the saving throw, and the attack roll — rely on the six ability scores. The [[Introduction]] describes the basic rule behind these rolls: roll a d20, add an ability modifier derived from one of the six ability scores, and compare the total to a target number.
 
-This chapter focuses on how to use ability checks and saving throws, covering the fundamental activities that creatures attempt in the game. Rules for [[attack rolls]] appear in chapter 9, “[[Combat]].”
+This chapter focuses on how to use ability checks and saving throws, covering the fundamental activities that creatures attempt in the game. Rules for [[Attack Rolls]] appear in chapter 9, “[[Combat]].”
 
 ![](https://media.dndbeyond.com/compendium-images/phb/jh89sfda89jdshfa98j/ch7.jpg)
 
@@ -103,7 +103,7 @@ If the contest results in a tie, the situation remains the same as it was before
 
 Each ability covers a broad range of capabilities, including skills that a character or a monster can be proficient in. A skill represents a specific aspect of an ability score, and an individual’s proficiency in a skill demonstrates a focus on that aspect. (A character’s starting skill proficiencies are determined at character creation, and a monster’s skill proficiencies appear in the monster’s stat block.)
 
-For example, a Dexterity check might reflect a character’s attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of Dexterity has an associated skill: [[Acrobatics]], [[Sleight of Hand]], and [[Stealth]], respectively. So a character who has proficiency in the [[Stealth]] skill is particularly good at Dexterity checks related to sneaking and hiding.
+For example, a Dexterity check might reflect a character’s attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of Dexterity has an associated skill: [[Acrobatics]], [[Sleight of Hand]], and [[4. Resources/_Gameplay/AdventuringRef/Stealth]], respectively. So a character who has proficiency in the [[4. Resources/_Gameplay/AdventuringRef/Stealth]] skill is particularly good at Dexterity checks related to sneaking and hiding.
 
 The skills related to each ability score are shown in the following list. (No skills are related to Constitution.) See an ability’s description in the later sections of this chapter for examples of how to use a skill associated with an ability.
 
@@ -115,7 +115,7 @@ The skills related to each ability score are shown in the following list. (No sk
 
 - [[Acrobatics]]
 - [[Sleight of Hand]]
-- [[Stealth]]
+- [[4. Resources/_Gameplay/AdventuringRef/Stealth]]
 
 **Intelligence**
 
@@ -225,9 +225,9 @@ _**Size and Strength.**_ Larger creatures can bear more weight, whereas Tiny cr
 
 The rules for lifting and carrying are intentionally simple. Here is a variant if you are looking for more detailed rules for determining how a character is hindered by the weight of equipment. When you use this variant, ignore the Strength column of the [[Armor table]] in [[chapter 5]].
 
-If you carry weight in excess of 5 times your Strength score, you are **encumbered**, which means your [[speed]] drops by 10 feet.
+If you carry weight in excess of 5 times your Strength score, you are **encumbered**, which means your [[Speed]] drops by 10 feet.
 
-If you carry weight in excess of 10 times your Strength score, up to your maximum carrying capacity, you are instead **heavily encumbered**, which means your [[speed]] drops by 20 feet and you have disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
+If you carry weight in excess of 10 times your Strength score, up to your maximum carrying capacity, you are instead **heavily encumbered**, which means your [[Speed]] drops by 20 feet and you have disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
 
 ### Dexterity
 
@@ -235,13 +235,13 @@ Dexterity measures agility, reflexes, and balance.
 
 #### Dexterity Checks
 
-A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing. The [[Acrobatics]], [[Sleight of Hand]], and [[Stealth]] skills reflect aptitude in certain kinds of Dexterity checks.
+A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing. The [[Acrobatics]], [[Sleight of Hand]], and [[4. Resources/_Gameplay/AdventuringRef/Stealth]] skills reflect aptitude in certain kinds of Dexterity checks.
 
 **_Acrobatics._** Your Dexterity ([[Acrobatics]]) check covers your attempt to stay on your feet in a tricky situation, such as when you’re trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship’s deck. The DM might also call for a Dexterity ([[Acrobatics]]) check to see if you can perform acrobatic stunts, including dives, rolls, somersaults, and flips.
 
 **_Sleight of Hand._** Whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person, make a Dexterity ([[Sleight of Hand]]) check. The DM might also call for a Dexterity ([[Sleight of Hand]]) check to determine whether you can lift a coin purse off another person or slip something out of another person’s pocket.
 
-**_Stealth._** Make a Dexterity ([[Stealth]]) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.
+**_Stealth._** Make a Dexterity ([[4. Resources/_Gameplay/AdventuringRef/Stealth]]) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.
 
 **_Other Dexterity Checks._** The DM might call for a Dexterity check when you try to accomplish tasks like the following:
 
@@ -264,17 +264,17 @@ Depending on the armor you wear, you might add some or all of your Dexterity mod
 
 #### Initiative
 
-At the beginning of every combat, you roll [[initiative]] by making a Dexterity check. Initiative determines the order of creatures’ turns in combat, as described in [[chapter 9]], "[[Combat]]."
+At the beginning of every combat, you roll [[4. Resources/_Gameplay/CombatRef/Initiative]] by making a Dexterity check. Initiative determines the order of creatures’ turns in combat, as described in [[chapter 9]], "[[Combat]]."
 
 > **HIDING**
 > 
-> The DM decides when circumstances are appropriate for hiding. When you try to [[hide]], make a Dexterity ([[Stealth]]) check. Until you are discovered or you stop hiding, that check’s total is contested by the Wisdom ([[Perception]]) check of any creature that actively searches for signs of your presence.
+> The DM decides when circumstances are appropriate for hiding. When you try to [[Hide]], make a Dexterity ([[4. Resources/_Gameplay/AdventuringRef/Stealth]]) check. Until you are discovered or you stop hiding, that check’s total is contested by the Wisdom ([[Perception]]) check of any creature that actively searches for signs of your presence.
 > 
-> You can’t hide from a creature that can see you clearly, and you give away your position if you make noise, such as shouting a warning or knocking over a vase. An [[invisible]] creature can always try to hide. Signs of its passage might still be noticed, and it does have to stay quiet.
+> You can’t hide from a creature that can see you clearly, and you give away your position if you make noise, such as shouting a warning or knocking over a vase. An [[Invisible]] creature can always try to hide. Signs of its passage might still be noticed, and it does have to stay quiet.
 > 
 > In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the DM might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain [[advantage]] on an attack roll before you are seen.
 > 
-> _**Passive Perception.**_ When you hide, there’s a chance someone will notice you even if they aren’t searching. To determine whether such a creature notices you, the DM compares your Dexterity ([[Stealth]]) check with that creature’s passive Wisdom ([[Perception]]) score, which equals 10 + the creature’s Wisdom modifier, as well as any other bonuses or penalties. If the creature has [[advantage]], add 5. For [[disadvantage]], subtract 5.
+> _**Passive Perception.**_ When you hide, there’s a chance someone will notice you even if they aren’t searching. To determine whether such a creature notices you, the DM compares your Dexterity ([[4. Resources/_Gameplay/AdventuringRef/Stealth]]) check with that creature’s passive Wisdom ([[Perception]]) score, which equals 10 + the creature’s Wisdom modifier, as well as any other bonuses or penalties. If the creature has [[advantage]], add 5. For [[disadvantage]], subtract 5.
 > 
 > For example, if a 1st-level character (with a proficiency bonus of +2) has a Wisdom of 15 (a +2 modifier) and proficiency in [[Perception]], he or she has a passive Wisdom ([[Perception]]) of 14.
 > 

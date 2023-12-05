@@ -602,7 +602,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 
 [[Beast Sense]]
 
-[[Darkvision]]
+[[4. Resources/Spells/SRD/Darkvision]]
 
 [[Enhance Ability]]
 
@@ -948,7 +948,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 
 [[Cordon of Arrows]]
 
-[[Darkvision]]
+[[4. Resources/Spells/SRD/Darkvision]]
 
 [[Find Traps]]
 
@@ -1114,7 +1114,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 
 [[Darkness]]
 
-[[Darkvision]]
+[[4. Resources/Spells/SRD/Darkvision]]
 
 [[Detect Thoughts]]
 
@@ -1154,7 +1154,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 
 #### 3rd Level
 
-[[Blink]]
+[[4. Resources/Spells/SRD/Blink]]
 
 [[Clairvoyance]]
 
@@ -1624,7 +1624,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 
 [[Darkness]]
 
-[[Darkvision]]
+[[4. Resources/Spells/SRD/Darkvision]]
 
 [[Detect Thoughts]]
 
@@ -1684,7 +1684,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Dragon
 
 [[Bestow Curse]]
 
-[[Blink]]
+[[4. Resources/Spells/SRD/Blink]]
 
 [[Clairvoyance]]
 

@@ -36,7 +36,7 @@ Characters of most races are Medium, a size category including creatures that ar
 
 #### Speed
 
-Your [[speed]] determines how far you can move when traveling (chapter 8, “[[Adventuring]]”) and fighting (chapter 9, “[[Combat]]”).
+Your [[Speed]] determines how far you can move when traveling (chapter 8, “[[Adventuring]]”) and fighting (chapter 9, “[[Combat]]”).
 
 #### Languages
 
@@ -136,7 +136,7 @@ _**Subrace.**_ Two main subraces of dwarves populate the worlds of D&D: hill dw
 
 >DUERGAR
 >
->In cities deep in the Underdark live the duergar, or gray dwarves. After centuries of captivity and torment by mind flayers, they have innate magical abilities to become [[invisible]] and to temporarily grow to giant size.
+>In cities deep in the Underdark live the duergar, or gray dwarves. After centuries of captivity and torment by mind flayers, they have innate magical abilities to become [[Invisible]] and to temporarily grow to giant size.
 
 ### Hill Dwarf
 
@@ -237,7 +237,7 @@ _**Darkvision.**_ Accustomed to twilit forests and the night sky, you have supe
 
 **_Keen Senses._** You have proficiency in the [[Perception]] skill.
 
-_**Fey Ancestry.**_ You have [[advantage]] on [[saving throws]] against being [[charmed]], and magic can’t put you to sleep.
+_**Fey Ancestry.**_ You have [[advantage]] on [[Saving Throws]] against being [[Charmed]], and magic can’t put you to sleep.
 
 _**Trance.**_ Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
 
@@ -271,7 +271,7 @@ _**Elf Weapon Training.**_ You have proficiency with the longsword, shortsword,
 
 _**Fleet of Foot.**_ Your base walking speed increases to 35 feet.
 
-_**Mask of the Wild.**_ You can attempt to [[hide]] even when you are only [[lightly obscured]] by foliage, heavy rain, falling snow, mist, and other natural phenomena.
+_**Mask of the Wild.**_ You can attempt to [[Hide]] even when you are only [[lightly obscured]] by foliage, heavy rain, falling snow, mist, and other natural phenomena.
 
 ### Dark Elf (Drow)
 
@@ -283,11 +283,11 @@ The cult of the god Lolth, Queen of Spiders, has corrupted some of the oldest dr
 
 _**Ability Score Increase.**_ Your Charisma score increases by 1.
 
-_**Superior Darkvision.**_ Your [[darkvision]] has a radius of 120 feet.
+_**Superior Darkvision.**_ Your [[4. Resources/Spells/SRD/Darkvision]] has a radius of 120 feet.
 
 _**Sunlight Sensitivity.**_ You have [[disadvantage]] on attack rolls and on Wisdom ([[Perception]]) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
 
-_**Drow Magic.**_ You know the [[dancing lights]] cantrip. When you reach 3rd level, you can cast the [[faerie fire]] spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[darkness]] spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+_**Drow Magic.**_ You know the [[Dancing Lights]] cantrip. When you reach 3rd level, you can cast the [[Faerie Fire]] spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[Darkness]] spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 **_Drow Weapon Training._** You have proficiency with rapiers, shortswords, and hand crossbows.
 
@@ -371,7 +371,7 @@ _**Speed.**_ Your base walking speed is 25 feet.
 
 _**Lucky.**_ When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
 
-_**Brave.**_ You have [[advantage]] on saving throws against being [[frightened]].
+_**Brave.**_ You have [[advantage]] on saving throws against being [[Frightened]].
 
 _**Halfling Nimbleness.**_ You can move through the space of any creature that is of a size larger than yours.
 
@@ -387,7 +387,7 @@ Lightfoots are more prone to wanderlust than other halflings, and often dwell al
 
 _**Ability Score Increase.**_ Your Charisma score increases by 1.
 
-_**Naturally Stealthy.**_ You can attempt to [[hide]] even when you are obscured only by a creature that is at least one size larger than you.
+_**Naturally Stealthy.**_ You can attempt to [[Hide]] even when you are obscured only by a creature that is at least one size larger than you.
 
 ### Stout
 
@@ -395,7 +395,7 @@ As a stout halfling, you’re hardier than average and have some resistance to p
 
 _**Ability Score Increase.**_ Your Constitution score increases by 1.
 
-_**Stout Resilience.**_ You have [[advantage]] on [[saving throws]] against poison, and you have resistance against poison damage.
+_**Stout Resilience.**_ You have [[advantage]] on [[Saving Throws]] against poison, and you have resistance against poison damage.
 
 ## Human
 
@@ -607,7 +607,7 @@ When you use your breath weapon, each creature in the area of the exhalation mus
 
 After you use your breath weapon, you can’t use it again until you complete a short or long rest.
 
-_**Damage Resistance.**_ You have [[resistance]] to the damage type associated with your draconic ancestry.
+_**Damage Resistance.**_ You have [[Resistance]] to the damage type associated with your draconic ancestry.
 
 _**Languages.**_ You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.
 
@@ -705,7 +705,7 @@ As a forest gnome, you have a natural knack for illusion and inherent quickness 
 
 _**Ability Score Increase.**_ Your Dexterity score increases by 1.
 
-_**Natural Illusionist.**_ You know the [[minor illusion]] cantrip. Intelligence is your spellcasting ability for it.
+_**Natural Illusionist.**_ You know the [[Minor Illusion]] cantrip. Intelligence is your spellcasting ability for it.
 
 _**Speak with Small Beasts.**_ Through sounds and gestures, you can communicate simple ideas with Small or smaller beasts. Forest gnomes love animals and often keep squirrels, badgers, rabbits, moles, woodpeckers, and other creatures as beloved pets.
 
@@ -780,7 +780,7 @@ _**Speed.**_ Your base walking speed is 30 feet.
 
 _**Darkvision.**_ Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
-_**Fey Ancestry.**_ You have [[advantage]] on saving throws against being [[charmed]], and magic can’t put you to sleep.
+_**Fey Ancestry.**_ You have [[advantage]] on saving throws against being [[Charmed]], and magic can’t put you to sleep.
 
 _**Skill Versatility.**_ You gain proficiency in two skills of your choice.
 
@@ -904,6 +904,6 @@ _**Darkvision.**_ Thanks to your infernal heritage, you have superior vision in
 
 _**Hellish Resistance.**_ You have resistance to fire damage.
 
-_**Infernal Legacy.**_ You know the [[thaumaturgy]] cantrip. When you reach 3rd level, you can cast the [[hellish rebuke]] spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[darkness]] spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+_**Infernal Legacy.**_ You know the [[Thaumaturgy]] cantrip. When you reach 3rd level, you can cast the [[Hellish Rebuke]] spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[Darkness]] spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 _**Languages.**_ You can speak, read, and write Common and Infernal.

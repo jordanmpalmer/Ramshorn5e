@@ -10,28 +10,35 @@ Learning List
 - [x] Image Window
 - [x] Encounter Maps
 - [x] Regional Maps
-- [ ] Dataview Lookup Table
+- [x] Dataview Lookup Table
 - [x] CSV JSON Importer
 - [x] Automatic Timelines
 - [x] Wikiboxes on right
 - [x] Banners
-- [ ] [Inline Scripts](https://www.youtube.com/watch?v=EVNCzoyjwYk)
-- [ ] [Handlebar Templates CSV](https://www.youtube.com/watch?v=h3JH5RiYhpo)
-- [ ] [Handlebar Templates JSON](https://www.youtube.com/watch?v=k2LbOEDHDAA)
+- [x] [Handlebar Templates CSV](https://www.youtube.com/watch?v=h3JH5RiYhpo)
+- [x] [Handlebar Templates JSON](https://www.youtube.com/watch?v=k2LbOEDHDAA)
 - [ ] [CLI](https://www.youtube.com/watch?v=JV-v-NFON8s&list=PLV5XWfKkFpk7MJTKv5YdSSpT9b-vLslWu&index=79)
 - [ ] [Fonts](https://www.youtube.com/watch?v=DPEzJ3BPcmY)
+- [ ] [Custom CSS](https://www.youtube.com/watch?v=9cXIhlr0eJU)
+- [ ] [Calculate Travel Time](https://www.youtube.com/watch?v=X6AT9G0uV-Y)
+- [ ] [PDF to .md](https://www.youtube.com/watch?v=gA5zQtkfOZo)
+- [ ] [Input fields and calculators - meta bind](https://www.youtube.com/watch?v=iAYS0254a7I)
+- [ ] [Entering an Adventure or Module](https://www.youtube.com/watch?v=gEQ4x2yY5o8)
+- [ ] [Buttons](https://www.youtube.com/watch?v=oqqKKZKo3Ak)
+- [ ] [Inline Scripts](https://www.youtube.com/watch?v=EVNCzoyjwYk)
 
 Current Task List
-- [ ] is there a way to introduce linking a note and bringing over the text
+- [ ] Is there a way to introduce linking a note and bringing over the text
 - [ ] Ensure PHB and SRD have updated and clean links
 - [ ] Fix Classes and Races using PHB fixed source
-- [x] Fix [[4. Mechanics/_Character Creation/Backgrounds/PHB/Acolyte]]  links [[Backgrounds]] 
+- [x] Fix [[4. Resources/_Character Creation/Backgrounds/PHB/Acolyte]]  links [[Backgrounds]] 
 - [ ] Make sure links are good in [[_Character Creation]] 
 - [ ] Do I need to add links or fix any files in [[_Gameplay]] ?
 - [ ] Add everything to Item Shop Ref as individual notes
 - [ ] Figure out what I want to do with Monsters, Magic Items, and Spells
 - [ ] Finish new tab page
-- [ ] refine database folders!
+- [ ] Refine database folders
+- [ ] Decide on how to do places folder 
 
 Things I need to show our group 
 - Calendar
@@ -48,3 +55,4 @@ Things I need to show our group
 - Database Folders 
 - Unlinked mentions/linking
 - Generator Tools
+- Lookup table

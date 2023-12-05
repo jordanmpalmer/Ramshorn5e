@@ -16,12 +16,12 @@ A monster can be Tiny, Small, Medium, Large, Huge, or Gargantuan. The Size Categ
 
 |Size|Space|Examples|
 |---|---|---|
-|Tiny|2 1/2 by 2 1/2 ft.|[[Imp (Devil)]], [[sprite]]|
-|Small|5 by 5 ft.|[[Giant Rat (Creature)]], [[goblin]]|
+|Tiny|2 1/2 by 2 1/2 ft.|[[Imp (Devil)]], [[Sprite]]|
+|Small|5 by 5 ft.|[[Giant Rat (Creature)]], [[Goblin]]|
 |Medium|5 by 5 ft.|[[Orc]], [[Werewolf (Lycanthrope)]]|
-|Large|10 by 10 ft.|[[Hippogriff]], [[ogre]]|
-|Huge|15 by 15 ft.|[[Fire Giant (Giant)]], [[treant]]|
-|Gargantuan|20 by 20 ft. or larger|[[Kraken]], [[purple worm]]|
+|Large|10 by 10 ft.|[[Hippogriff]], [[Ogre]]|
+|Huge|15 by 15 ft.|[[Fire Giant (Giant)]], [[Treant]]|
+|Gargantuan|20 by 20 ft. or larger|[[Kraken]], [[Purple Worm]]|
 
 > **MODIFYING CREATURES**
 > 
@@ -129,7 +129,7 @@ Every monster has six ability scores (Strength, Dexterity, Constitution, Intelli
 
 ### Saving Throws
 
-The Saving Throws entry is reserved for creatures that are adept at resisting certain kinds of effects. For example, a creature that isn't easily [[charmed]] or [[frightened]] might gain a bonus on its Wisdom saving throws. Most creatures don't have special saving throw bonuses, in which case this section is absent.
+The Saving Throws entry is reserved for creatures that are adept at resisting certain kinds of effects. For example, a creature that isn't easily [[Charmed]] or [[Frightened]] might gain a bonus on its Wisdom saving throws. Most creatures don't have special saving throw bonuses, in which case this section is absent.
 
 A saving throw bonus is the sum of a monster's relevant ability modifier and its proficiency bonus, which is determined by the monster's challenge rating (as shown in the Proficiency Bonus by Challenge Rating table).
 
@@ -224,7 +224,7 @@ Telepathy is a magical ability that allows a monster to communicate mentally wit
 
 A telepathic monster doesn't need to see a contacted creature and can end the telepathic contact at any time. The contact is broken as soon as the two creatures are no longer within range of each other or if the telepathic monster contacts a different creature within range. A telepathic monster can initiate or terminate a telepathic conversation without using an action, but while the monster is incapacitated, it can't initiate telepathic contact, and any current contact is terminated.
 
-A creature within the area of an [[antimagic field]] or in any other location where magic doesn't function can't send or receive telepathic messages.
+A creature within the area of an [[Antimagic Field]] or in any other location where magic doesn't function can't send or receive telepathic messages.
 
 ### Challenge
 
@@ -285,7 +285,7 @@ Special traits (which appear after a monster's challenge rating but before any a
 
 A monster with the innate ability to cast spells has the Innate Spellcasting special trait. Unless noted otherwise, an innate spell of 1st level or higher is always cast at its lowest possible level and can't be cast at a higher level. If a monster has a cantrip where its level matters and no level is given, use the monster's challenge rating.
 
-An innate spell can have special rules or restrictions. For example, a drow mage can innately cast the [[levitate]] spell, but the spell has a "self only" restriction, which means that the spell affects only the drow mage.
+An innate spell can have special rules or restrictions. For example, a drow mage can innately cast the [[Levitate]] spell, but the spell has a "self only" restriction, which means that the spell affects only the drow mage.
 
 A monster's innate spells can't be swapped out with other spells. If a monster's innate spells don't require attack rolls, no attack bonus is given for them.
 
@@ -295,7 +295,7 @@ A monster with the Spellcasting class feature has a spellcaster level and spell
 
 The monster has a list of spells known or prepared from a specific class. The list might also include spells from a feature in that class, such as the Divine Domain feature of the cleric or the Druid Circle feature of the druid. The monster is considered a member of that class when attuning to or using a magic item that requires membership in the class or access to its spell list.
 
-A monster can cast a spell from its list at a higher level if it has the spell slot to do so. For example, a drow mage with the 3rd-level [[lightning bolt]] spell can cast it as a 5th-level spell by using one of its 5th-level spell slots.
+A monster can cast a spell from its list at a higher level if it has the spell slot to do so. For example, a drow mage with the 3rd-level [[Lightning Bolt]] spell can cast it as a 5th-level spell by using one of its 5th-level spell slots.
 
 You can change the spells that a monster knows or has prepared, replacing any spell on its spell list with a spell of the same level and from the same class list. If you do so, you might cause the monster to be a greater or lesser threat than suggested by its challenge rating.
 
@@ -345,7 +345,7 @@ For example, "Recharge 5–6" means a monster can use the special ability once. 
 
 Many monsters have special attacks that allow them to quickly grapple prey. When a monster hits with such an attack, it doesn't need to make an additional ability check to determine whether the grapple succeeds, unless the attack says otherwise.
 
-A creature [[grappled]] by the monster can use its action to try to escape. To do so, it must succeed on a Strength ([[Athletics]]) or Dexterity ([[Acrobatics]]) check against the escape DC in the monster's stat block. If no escape DC is given, assume the DC is 10 + the monster's Strength ([[Athletics]]) modifier.
+A creature [[Grappled]] by the monster can use its action to try to escape. To do so, it must succeed on a Strength ([[Athletics]]) or Dexterity ([[Acrobatics]]) check against the escape DC in the monster's stat block. If no escape DC is given, assume the DC is 10 + the monster's Strength ([[Athletics]]) modifier.
 
 ### Equipment
 
@@ -455,7 +455,7 @@ The more powerful an NPC, the more likely it has one or more magic items in its 
 
 ## NPC Descriptions
 
-[[4. Mechanics/_Character Creation/Backgrounds/PHB/Acolyte]]
+[[4. Resources/_Character Creation/Backgrounds/PHB/Acolyte]]
 
 Medium humanoid (any race), any alignment
 
@@ -499,9 +499,9 @@ Challenge 1/4 (50 XP)
 
 Spellcasting. The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared:
 
-Cantrips (at will): [[light]], [[sacred flame]], [[thaumaturgy]]
+Cantrips (at will): [[Light]], [[Sacred Flame]], [[Thaumaturgy]]
 
-1st level (3 slots): [[bless]], [[cure wounds]], [[sanctuary]]
+1st level (3 slots): [[Bless]], [[Cure Wounds]], [[Sanctuary]]
 
 Actions
 
@@ -513,7 +513,7 @@ Acolytes are junior members of a clergy, usually answerable to a priest. They p
 
 Medium humanoid (any race), any alignment
 
-Armor Class 12 (15 with [[mage armor]])
+Armor Class 12 (15 with [[Mage Armor]])
 
 Hit Points 99 (18d8 + 18)
 
@@ -547,7 +547,7 @@ Saving Throws Int +9, Wis +6
 
 Skills [[Arcana]] +13, [[History]] +13
 
-Damage Resistance damage from spells; nonmagical bludgeoning, piercing, and slashing (from [[stoneskin]])
+Damage Resistance damage from spells; nonmagical bludgeoning, piercing, and slashing (from [[Stoneskin]])
 
 Senses passive Perception 12
 
@@ -557,27 +557,27 @@ Challenge 12 (8,400 XP)
 
 Magic Resistance. The archmage has advantage on saving throws against spells and other magical effects.
 
-Spellcasting. The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast [[disguise self]] and [[invisibility]] at will and has the following wizard spells prepared:
+Spellcasting. The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast [[Disguise Self]] and [[Invisibility]] at will and has the following wizard spells prepared:
 
-Cantrips (at will): [[fire bolt]], [[light]], [[mage hand]], [[prestidigitation]], [[shocking grasp]]
+Cantrips (at will): [[Fire Bolt]], [[Light]], [[Mage Hand]], [[Prestidigitation]], [[Shocking Grasp]]
 
-1st level (4 slots): [[detect magic]], [[identify]], [[mage armor]],* [[magic missile]]
+1st level (4 slots): [[Detect Magic]], [[Identify]], [[Mage Armor]],* [[Magic Missile]]
 
-2nd level (3 slots): [[detect thoughts]], [[mirror image]], [[misty step]]
+2nd level (3 slots): [[Detect Thoughts]], [[Mirror Image]], [[Misty Step]]
 
-3rd level (3 slots): [[counterspell]], [[fly]], [[lightning bolt]]
+3rd level (3 slots): [[Counterspell]], [[Fly]], [[Lightning Bolt]]
 
-4th level (3 slots): [[banishment]], [[fire shield]], [[stoneskin]]*
+4th level (3 slots): [[Banishment]], [[Fire Shield]], [[Stoneskin]]*
 
-5th level (3 slots): [[cone of cold]], [[scrying]], [[wall of force]]
+5th level (3 slots): [[Cone of Cold]], [[Scrying]], [[Wall of Force]]
 
-6th level (1 slot): [[globe of invulnerability]]
+6th level (1 slot): [[Globe of Invulnerability]]
 
-7th level (1 slot): [[teleport]]
+7th level (1 slot): [[Teleport]]
 
-8th level (1 slot): [[mind blank]]*
+8th level (1 slot): [[Mind Blank]]*
 
-9th level (1 slot): [[time stop]]
+9th level (1 slot): [[Time Stop]]
 
 *The archmage casts these spells on itself before combat.
 
@@ -589,7 +589,7 @@ Archmages are powerful (and usually quite old) spellcasters dedicated to the st
 
 An archmage typically has one or more apprentice mages, and an archmage’s abode has numerous magical wards and guardians to discourage interlopers.
 
-[[ASSASSIN]]
+[[Assassin]]
 
 Medium humanoid (any race), any non-good alignment
 
@@ -625,7 +625,7 @@ CHA
 
 Saving Throws Dex +6, Int +4
 
-Skills [[Acrobatics]] +6, [[Deception]] +3, [[Perception]] +3, [[Stealth]] +9
+Skills [[Acrobatics]] +6, [[Deception]] +3, [[Perception]] +3, [[4. Resources/_Gameplay/AdventuringRef/Stealth]] +9
 
 Damage Resistances poison
 
@@ -639,7 +639,7 @@ Assassinate. During its first turn, the assassin has advantage on attack rolls 
 
 Evasion. If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
-Sneak Attack (1/Turn). The assassin deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn’t [[incapacitated]] and the assassin doesn’t have disadvantage on the attack roll.
+Sneak Attack (1/Turn). The assassin deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn’t [[Incapacitated]] and the assassin doesn’t have disadvantage on the attack roll.
 
 Actions
 
@@ -899,7 +899,7 @@ Languages any one language (usually Common)
 
 Challenge 1/8 (25 XP)
 
-Dark Devotion. The cultist has advantage on saving throws against being [[charmed]] or [[frightened]].
+Dark Devotion. The cultist has advantage on saving throws against being [[Charmed]] or [[Frightened]].
 
 Actions
 
@@ -949,15 +949,15 @@ Languages any one language (usually Common)
 
 Challenge 2 (450 XP)
 
-Dark Devotion. The fanatic has advantage on saving throws against being [[charmed]] or [[frightened]].
+Dark Devotion. The fanatic has advantage on saving throws against being [[Charmed]] or [[Frightened]].
 
 Spellcasting. The fanatic is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The fanatic has the following cleric spells prepared:
 
-Cantrips (at will): [[light]], [[sacred flame]], [[thaumaturgy]]
+Cantrips (at will): [[Light]], [[Sacred Flame]], [[Thaumaturgy]]
 
-1st level (4 slots): [[command]], [[inflict wounds]], [[shield of faith]]
+1st level (4 slots): [[Command]], [[Inflict Wounds]], [[Shield of Faith]]
 
-2nd level (3 slots): [[hold person]], [[spiritual weapon]]
+2nd level (3 slots): [[Hold Person]], [[Spiritual Weapon]]
 
 Actions
 
@@ -967,11 +967,11 @@ Dagger. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 f
 
 Fanatics are often part of a cult’s leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else.
 
-[[DRUID]]
+[[Druid]]
 
 Medium humanoid (any race), any alignment
 
-Armor Class 11 (16 with [[barkskin]])
+Armor Class 11 (16 with [[Barkskin]])
 
 Hit Points 27 (5d8 + 5)
 
@@ -1011,15 +1011,15 @@ Challenge 2 (450 XP)
 
 Spellcasting. The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
 
-Cantrips (at will): [[druidcraft]], [[produce flame]], [[shillelagh]]
+Cantrips (at will): [[Druidcraft]], [[Produce Flame]], [[Shillelagh]]
 
-1st level (4 slots): [[entangle]], [[longstrider]], [[speak with animals]], [[thunderwave]]
+1st level (4 slots): [[Entangle]], [[Longstrider]], [[Speak with Animals]], [[Thunderwave]]
 
-2nd level (3 slots): [[animal messenger]], [[barkskin]]
+2nd level (3 slots): [[Animal Messenger]], [[Barkskin]]
 
 Actions
 
-Quarterstaff. Melee Weapon Attack: +2 to hit (+4 to hit with [[shillelagh]]), reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, or 4 (1d8 + 2) bludgeoning damage with [[shillelagh]] or if wielded with two hands.
+Quarterstaff. Melee Weapon Attack: +2 to hit (+4 to hit with [[Shillelagh]]), reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, or 4 (1d8 + 2) bludgeoning damage with [[Shillelagh]] or if wielded with two hands.
 
 Druids dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are tribal shamans who heal the sick, pray to animal spirits, and provide spiritual guidance.
 
@@ -1067,7 +1067,7 @@ Languages any one language (usually Common)
 
 Challenge 5 (1,800 XP)
 
-Brave. The gladiator has advantage on saving throws against being [[frightened]].
+Brave. The gladiator has advantage on saving throws against being [[Frightened]].
 
 Brute. A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack).
 
@@ -1077,7 +1077,7 @@ Multiattack. The gladiator makes three melee attacks or two ranged attacks.
 
 Spear. Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. and range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.
 
-Shield Bash. Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked [[prone]].
+Shield Bash. Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked [[Prone]].
 
 Reactions
 
@@ -1175,7 +1175,7 @@ Languages any one language (usually Common)
 
 Challenge 3 (700 XP)
 
-Brave. The knight has advantage on saving throws against being [[frightened]].
+Brave. The knight has advantage on saving throws against being [[Frightened]].
 
 Actions
 
@@ -1185,7 +1185,7 @@ Greatsword. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10
 
 Heavy Crossbow. Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage.
 
-Leadership (Recharges after a Short or Long Rest). For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is [[incapacitated]].
+Leadership (Recharges after a Short or Long Rest). For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is [[Incapacitated]].
 
 Reactions
 
@@ -1197,7 +1197,7 @@ Knights are warriors who pledge service to rulers, religious orders, and noble 
 
 Medium humanoid (any race), any alignment
 
-Armor Class 12 (15 with [[mage armor]])
+Armor Class 12 (15 with [[Mage Armor]])
 
 Hit Points 40 (9d8)
 
@@ -1239,17 +1239,17 @@ Challenge 6 (2,300 XP)
 
 Spellcasting. The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:
 
-Cantrips (at will): [[fire bolt]], [[light]], [[mage hand]], [[prestidigitation]]
+Cantrips (at will): [[Fire Bolt]], [[Light]], [[Mage Hand]], [[Prestidigitation]]
 
-1st level (4 slots): [[detect magic]], [[mage armor]], [[magic missile]], [[shield]]
+1st level (4 slots): [[Detect Magic]], [[Mage Armor]], [[Magic Missile]], [[Shield]]
 
-2nd level (3 slots): [[misty step]], [[suggestion]]
+2nd level (3 slots): [[Misty Step]], [[Suggestion]]
 
-3rd level (3 slots): [[counterspell]], [[fireball]], [[fly]]
+3rd level (3 slots): [[Counterspell]], [[Fireball]], [[Fly]]
 
-4th level (3 slots): [[greater invisibility]], [[ice storm]]
+4th level (3 slots): [[Greater Invisibility]], [[Ice Storm]]
 
-5th level (1 slot): [[cone of cold]]
+5th level (1 slot): [[Cone of Cold]]
 
 Actions
 
@@ -1257,7 +1257,7 @@ Dagger. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 f
 
 Mages spend their lives in the study and practice of magic. Good-aligned mages offer counsel to nobles and others in power, while evil mages dwell in isolated sites to perform unspeakable experiments without interference.
 
-[[NOBLE]]
+[[Noble]]
 
 Medium humanoid (any race), any alignment
 
@@ -1357,13 +1357,13 @@ Divine Eminence. As a bonus action, the priest can expend a spell slot to cause
 
 Spellcasting. The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared:
 
-Cantrips (at will): [[light]], [[sacred flame]], [[thaumaturgy]]
+Cantrips (at will): [[Light]], [[Sacred Flame]], [[Thaumaturgy]]
 
-1st level (4 slots): [[cure wounds]], [[guiding bolt]], [[sanctuary]]
+1st level (4 slots): [[Cure Wounds]], [[Guiding Bolt]], [[Sanctuary]]
 
-2nd level (3 slots): [[lesser restoration]], [[spiritual weapon]]
+2nd level (3 slots): [[Lesser Restoration]], [[Spiritual Weapon]]
 
-3rd level (2 slots): [[dispel magic]], [[spirit guardians]]
+3rd level (2 slots): [[Dispel Magic]], [[Spirit Guardians]]
 
 Actions
 
@@ -1407,7 +1407,7 @@ CHA
 
 11(+0)
 
-Skills [[Nature]] +4, [[Perception]] +5, [[Stealth]] +6, [[Survival]] +5
+Skills [[Nature]] +4, [[Perception]] +5, [[4. Resources/_Gameplay/AdventuringRef/Stealth]] +6, [[Survival]] +5
 
 Senses passive Perception 15
 
@@ -1461,7 +1461,7 @@ CHA
 
 16(+3)
 
-Skills [[Deception]] +5, [[Insight]] +4, [[Investigation]] +5, [[Perception]] +6, [[Persuasion]] +5, [[Sleight of Hand]] +4, [[Stealth]] +4
+Skills [[Deception]] +5, [[Insight]] +4, [[Investigation]] +5, [[Perception]] +6, [[Persuasion]] +5, [[Sleight of Hand]] +4, [[4. Resources/_Gameplay/AdventuringRef/Stealth]] +4
 
 Senses passive Perception 16
 
@@ -1471,7 +1471,7 @@ Challenge 1 (200 XP)
 
 Cunning Action. On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or [[Hide]] action.
 
-Sneak Attack (1/Turn). The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the spy that isn’t [[incapacitated]] and the spy doesn’t have disadvantage on the attack roll.
+Sneak Attack (1/Turn). The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the spy that isn’t [[Incapacitated]] and the spy doesn’t have disadvantage on the attack roll.
 
 Actions
 
@@ -1525,7 +1525,7 @@ Languages any one language (usually Common)
 
 Challenge 1/2 (100 XP)
 
-Pack Tactics. The thug has advantage on an attack roll against a creature if at least one of the thug’s allies is within 5 feet of the creature and the ally isn’t [[incapacitated]].
+Pack Tactics. The thug has advantage on an attack roll against a creature if at least one of the thug’s allies is within 5 feet of the creature and the ally isn’t [[Incapacitated]].
 
 Actions
 
@@ -1577,7 +1577,7 @@ Languages any one language
 
 Challenge 1/8 (25 XP)
 
-Pack Tactics. The warrior has advantage on an attack roll against a creature if at least one of the warrior’s allies is within 5 feet of the creature and the ally isn’t [[incapacitated]].
+Pack Tactics. The warrior has advantage on an attack roll against a creature if at least one of the warrior’s allies is within 5 feet of the creature and the ally isn’t [[Incapacitated]].
 
 Actions
 

@@ -1,8 +1,8 @@
 # Appendix A: Conditions
 
-Conditions alter a creature's capabilities in a variety of ways and can arise as a result of a spell, a class feature, a monster's attack, or other effect. Most conditions, such as [[blinded]], are impairments, but a few, such as [[invisible]], can be advantageous.
+Conditions alter a creature's capabilities in a variety of ways and can arise as a result of a spell, a class feature, a monster's attack, or other effect. Most conditions, such as [[Blinded]], are impairments, but a few, such as [[Invisible]], can be advantageous.
 
-A condition lasts either until it is countered (the [[prone]] condition is countered by standing up, for example) or for a duration specified by the effect that imposed the condition.
+A condition lasts either until it is countered (the [[Prone]] condition is countered by standing up, for example) or for a duration specified by the effect that imposed the condition.
 
 If multiple effects impose the same condition on a creature, each instance of the condition has its own duration, but the condition's effects don't get worse. A creature either has a condition or doesn't.
 
@@ -42,14 +42,14 @@ Some special abilities and environmental hazards, such as starvation and the lon
 |---|---|
 |1|[[Advantage and Disadvantage|disadvantage]] on ability checks|
 |2|[[Speed]] halved|
-|3|[[Advantage and Disadvantage|disadvantage]] on attack rolls and [[saving throws]]|
+|3|[[Advantage and Disadvantage|disadvantage]] on attack rolls and [[Saving Throws]]|
 |4|Hit point maximum halved|
 |5|[[Speed]] reduced to 0|
 |6|Death|
 
 If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect's description.
 
-A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its [[speed]] halved and has disadvantage on ability checks.
+A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its [[Speed]] halved and has disadvantage on ability checks.
 
 An effect that removes exhaustion reduces its level as specified in the effect's description, with all exhaustion effects ending if a creature's exhaustion level is reduced below 1.
 
@@ -71,9 +71,9 @@ GRAPPLED
 
 ## Grappled
 
-- A grappled creature's [[speed]] becomes 0, and it can't benefit from any bonus to its speed.
-- The condition ends if the grappler is [[incapacitated]] (see the condition).
-- The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the [[thunderwave]] spell.
+- A grappled creature's [[Speed]] becomes 0, and it can't benefit from any bonus to its speed.
+- The condition ends if the grappler is [[Incapacitated]] (see the condition).
+- The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the [[Thunderwave]] spell.
 
 ## Incapacitated
 
@@ -90,8 +90,8 @@ INVISIBLE
 
 ## Paralyzed
 
-- A paralyzed creature is [[incapacitated]] (see the condition) and can't move or speak.
-- The creature automatically fails Strength and Dexterity [[saving throws]].
+- A paralyzed creature is [[Incapacitated]] (see the condition) and can't move or speak.
+- The creature automatically fails Strength and Dexterity [[Saving Throws]].
 - Attack rolls against the creature have [[Advantage and Disadvantage|advantage]].
 - Any attack that hits the creature is a [[Critical Hits]] if the attacker is within 5 feet of the creature.
 
@@ -102,10 +102,10 @@ PARALYZED
 ## Petrified
 
 - A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
-- The creature is [[incapacitated]] (see the condition), can't move or speak, and is unaware of its surroundings.
+- The creature is [[Incapacitated]] (see the condition), can't move or speak, and is unaware of its surroundings.
 - Attack rolls against the creature have [[Advantage and Disadvantage|advantage]].
-- The creature automatically fails Strength and Dexterity [[saving throws]].
-- The creature has [[resistance]] to all damage.
+- The creature automatically fails Strength and Dexterity [[Saving Throws]].
+- The creature has [[Resistance]] to all damage.
 - The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
 
 [![](https://www.dndbeyond.com/attachments/thumbnails/7/639/205/377/appa-petrified.png)](https://www.dndbeyond.com/attachments/7/639/appa-petrified.png)
@@ -136,14 +136,14 @@ RESTRAINED
 
 ## Restrained
 
-- A restrained creature's [[speed]] becomes 0, and it can't benefit from any bonus to its speed.
+- A restrained creature's [[Speed]] becomes 0, and it can't benefit from any bonus to its speed.
 - Attack rolls against the creature have [[Advantage and Disadvantage|advantage]], and the creature's attack rolls have [[Advantage and Disadvantage|disadvantage]].
-- The creature has [[Advantage and Disadvantage|disadvantage]] on Dexterity [[saving throws]].
+- The creature has [[Advantage and Disadvantage|disadvantage]] on Dexterity [[Saving Throws]].
 
 ## Stunned
 
-- A stunned creature is [[incapacitated]] (see the condition), can't move, and can speak only falteringly.
-- The creature automatically fails Strength and Dexterity [[saving throws]].
+- A stunned creature is [[Incapacitated]] (see the condition), can't move, and can speak only falteringly.
+- The creature automatically fails Strength and Dexterity [[Saving Throws]].
 - Attack rolls against the creature have [[Advantage and Disadvantage|advantage]].
 
 [![](https://www.dndbeyond.com/attachments/thumbnails/7/643/230/361/appa-stunned.png)](https://www.dndbeyond.com/attachments/7/643/appa-stunned.png)
@@ -152,11 +152,11 @@ STUNNED
 
 ## Unconscious
 
-- An unconscious creature is [[incapacitated]], can't move or speak, and is unaware of its surroundings.
-- The creature drops whatever it's holding and falls [[prone]].
-- The creature automatically fails Strength and Dexterity [[saving throws]].
+- An unconscious creature is [[Incapacitated]], can't move or speak, and is unaware of its surroundings.
+- The creature drops whatever it's holding and falls [[Prone]].
+- The creature automatically fails Strength and Dexterity [[Saving Throws]].
 - Attack rolls against the creature have [[Advantage and Disadvantage|advantage]].
-- Any attack that hits the creature is a [[critical hits]] if the attacker is within 5 feet of the creature.
+- Any attack that hits the creature is a [[Critical Hits]] if the attacker is within 5 feet of the creature.
 
 [![](https://www.dndbeyond.com/attachments/thumbnails/7/644/500/375/appa-unconscious.png)](https://www.dndbeyond.com/attachments/7/644/appa-unconscious.png)
 

@@ -38,11 +38,11 @@ Some characters and monsters have special abilities that let them cast spells wi
 
 ### Casting a Spell at a Higher Level
 
-When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell assumes the higher level for that casting. For instance, if Umara casts [[magic missile]] using one of her 2nd-level slots, that [[magic missile]] is 2nd level.
+When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell assumes the higher level for that casting. For instance, if Umara casts [[Magic Missile]] using one of her 2nd-level slots, that [[Magic Missile]] is 2nd level.
 
 Effectively, the spell expands to fill the slot it is put into.
 
-Some spells, such as [[magic missile]] and [[cure wounds]], have more powerful effects when cast at a higher level, as detailed in a spell's description.
+Some spells, such as [[Magic Missile]] and [[Cure Wounds]], have more powerful effects when cast at a higher level, as detailed in a spell's description.
 
 > **CASTING IN ARMOR**
 > 
@@ -86,9 +86,9 @@ Certain spells (including spells cast as rituals) require more time to cast: min
 
 ### Range
 
-The target of a spell must be within the spell's range. For a spell like [[magic missile]], the target is a creature. For a spell like [[fireball]], the target is the point in space where the ball of fire erupts.
+The target of a spell must be within the spell's range. For a spell like [[Magic Missile]], the target is a creature. For a spell like [[Fireball]], the target is the point in space where the ball of fire erupts.
 
-Most spells have ranges expressed in feet. Some spells can target only a creature (including you) that you touch. Other spells, such as the [[shield]] spell, affect only you. These spells have a range of self.
+Most spells have ranges expressed in feet. Some spells can target only a creature (including you) that you touch. Other spells, such as the [[Shield]] spell, affect only you. These spells have a range of self.
 
 Spells that create cones or lines of effect that originate from you also have a range of self, indicating that the origin point of the spell's effect must be you.
 
@@ -100,7 +100,7 @@ A spell's components are the physical requirements you must meet in order to cas
 
 #### Verbal (V)
 
-Most spells require the chanting of mystic words. The words themselves aren't the source of the spell's power; rather, the particular combination of sounds, with specific pitch and resonance, sets the threads of magic in motion. Thus, a character who is gagged or in an area of silence, such as one created by the [[silence]] spell, can't cast a spell with a verbal component.
+Most spells require the chanting of mystic words. The words themselves aren't the source of the spell's power; rather, the particular combination of sounds, with specific pitch and resonance, sets the threads of magic in motion. Thus, a character who is gagged or in an area of silence, such as one created by the [[Silence]] spell, can't cast a spell with a verbal component.
 
 #### Somatic (S)
 
@@ -156,11 +156,11 @@ If a spell targets a creature of your choice, you can choose yourself, unless th
 > 
 > All magic depends on the Weave, though different kinds of magic access it in a variety of ways. The spells of wizards, warlocks, sorcerers, and bards are commonly called **arcane magic**. These spells rely on an understanding—learned or intuitive—of the workings of the Weave. The caster plucks directly at the strands of the Weave to create the desired effect. Eldritch knights and arcane tricksters also use arcane magic. The spells of clerics, druids, paladins, and rangers are called **divine magic**. These spellcasters’ access to the Weave is mediated by divine power—gods, the divine forces of nature, or the sacred weight of a paladin’s oath.
 > 
-> Whenever a magic effect is created, the threads of the Weave intertwine, twist, and fold to make the effect possible. When characters use divination spells such as [[detect magic]] or [[identify]], they glimpse the Weave. A spell such as [[dispel magic]] smooths the Weave. Spells such as [[antimagic field]] rearrange the Weave so that magic flows around, rather than through, the area affected by the spell. And in places where the Weave is damaged or torn, magic works in unpredictable ways—or not at all.
+> Whenever a magic effect is created, the threads of the Weave intertwine, twist, and fold to make the effect possible. When characters use divination spells such as [[Detect Magic]] or [[Identify]], they glimpse the Weave. A spell such as [[Dispel Magic]] smooths the Weave. Spells such as [[Antimagic Field]] rearrange the Weave so that magic flows around, rather than through, the area affected by the spell. And in places where the Weave is damaged or torn, magic works in unpredictable ways—or not at all.
 
 ### Areas of Effect
 
-Spells such as [[burning hands]] and [[cone of cold]] cover an area, allowing them to affect multiple creatures at once.
+Spells such as [[Burning Hands]] and [[Cone of Cold]] cover an area, allowing them to affect multiple creatures at once.
 
 A spell's description specifies its area of effect, which typically has one of five different shapes: cone, cube, cylinder, line, or sphere. Every area of effect has a **point of origin**, a location from which the spell's energy erupts. The rules for each shape specify how you position its point of origin. Typically, a point of origin is a point in space, but some spells have an area whose origin is a creature or an object.
 
@@ -238,4 +238,4 @@ Most spells that require attack rolls involve ranged attacks. Remember that you 
 
 The effects of different spells add together while the durations of those spells overlap. The effects of the same spell cast multiple times don't combine, however. Instead, the most potent effect--such as the highest bonus--from those castings applies while their durations overlap, or the most recent effect applies if the castings are equally potent and their durations overlap.
 
-For example, if two clerics cast [[bless]] on the same target, that character gains the spell's benefit only once; he or she doesn't get to roll two bonus dice.
+For example, if two clerics cast [[Bless]] on the same target, that character gains the spell's benefit only once; he or she doesn't get to roll two bonus dice.

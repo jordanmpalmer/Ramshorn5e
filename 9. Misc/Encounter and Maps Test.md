@@ -1,9 +1,4 @@
-```encounter
-name: Test Encounter
-creatures: 
-- 3:Goblin
-- 1:Beholder
-```
+
 ---
 ```leaflet
 ### Tutorial: https://youtu.be/54EyMzJP5DU

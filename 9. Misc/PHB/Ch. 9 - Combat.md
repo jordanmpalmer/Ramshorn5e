@@ -8,13 +8,13 @@ This chapter provides the rules you need for your characters and monsters to eng
 
 ## The Order of Combat
 
-A typical combat encounter is a clash between two sides, a flurry of weapon swings, feints, parries, footwork, and spellcasting. The game organizes the chaos of combat into a cycle of rounds and turns. A **round** represents about 6 seconds in the game world. During a round, each participant in a battle takes a **turn**. The order of turns is determined at the beginning of a combat encounter, when everyone rolls [[initiative]]. Once everyone has taken a turn, the fight continues to the next round if neither side has defeated the other.
+A typical combat encounter is a clash between two sides, a flurry of weapon swings, feints, parries, footwork, and spellcasting. The game organizes the chaos of combat into a cycle of rounds and turns. A **round** represents about 6 seconds in the game world. During a round, each participant in a battle takes a **turn**. The order of turns is determined at the beginning of a combat encounter, when everyone rolls [[4. Resources/_Gameplay/CombatRef/Initiative]]. Once everyone has taken a turn, the fight continues to the next round if neither side has defeated the other.
 
 COMBAT STEP-BY-STEP
 
 1. **Determine surprise.** The DM determines whether anyone involved in the combat encounter is [[surprised]].
 2. **Establish positions.** The DM decides where all the characters and monsters are located. Given the adventurers’ marching order or their stated positions in the room or other location, the DM figures out where the adversaries are — how far away and in what direction.
-3. **Roll initiative.** Everyone involved in the combat encounter rolls [[initiative]], determining the order of combatants’ turns.
+3. **Roll initiative.** Everyone involved in the combat encounter rolls [[4. Resources/_Gameplay/CombatRef/Initiative]], determining the order of combatants’ turns.
 4. **Take turns.** Each participant in the battle takes a turn in initiative order.
 5. **Begin the next round.** When everyone involved in the combat has had a turn, the round ends. Repeat step 4 until the fighting stops.
 
@@ -22,7 +22,7 @@ COMBAT STEP-BY-STEP
 
 A band of adventurers sneaks up on a bandit camp, springing from the trees to attack them. A [[gelatinous cube]] glides down a dungeon passage, unnoticed by the adventurers until the cube engulfs one of them. In these situations, one side of the battle gains surprise over the other.
 
-The DM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the DM compares the Dexterity ([[Stealth]]) checks of anyone hiding with the passive Wisdom ([[Perception]]) score of each creature on the opposing side. Any character or monster that doesn’t notice a threat is surprised at the start of the encounter.
+The DM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the DM compares the Dexterity ([[4. Resources/_Gameplay/AdventuringRef/Stealth]]) checks of anyone hiding with the passive Wisdom ([[Perception]]) score of each creature on the opposing side. Any character or monster that doesn’t notice a threat is surprised at the start of the encounter.
 
 If you’re surprised, you can’t move or take an action on your first turn of the combat, and you can’t take a reaction until that turn ends. A member of a group can be surprised even if the other members aren’t.
 
@@ -92,7 +92,7 @@ If you take an action that includes more than one weapon attack, you can break u
 
 If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you’ve already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can’t use the new speed during the current move.
 
-For example, if you have a speed of 30 and a flying speed of 60 because a wizard cast the [[fly]] spell on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
+For example, if you have a speed of 30 and a flying speed of 60 because a wizard cast the [[Fly]] spell on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
 
 ### Difficult Terrain
 
@@ -104,11 +104,11 @@ Low furniture, rubble, undergrowth, steep stairs, snow, and shallow bogs are exa
 
 ### Being Prone
 
-Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In the game, they are [[prone]].
+Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In the game, they are [[Prone]].
 
 You can **drop prone** without using any of your speed. **Standing up** takes more effort; doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to stand up. You can’t stand up if you don’t have enough movement left or if your speed is 0.
 
-To move while [[prone]], you must **crawl** or use magic such as teleportation. Every foot of movement while crawling costs 1 extra foot. Crawling 1 foot in [[difficult terrain]], therefore, costs 3 feet of movement.
+To move while [[Prone]], you must **crawl** or use magic such as teleportation. Every foot of movement while crawling costs 1 extra foot. Crawling 1 foot in [[4. Resources/_Gameplay/CombatRef/Difficult Terrain]], therefore, costs 3 feet of movement.
 
 INTERACTING WITH OBJECTS AROUND YOU
 
@@ -138,7 +138,7 @@ Here are a few examples of the sorts of thing you can do in tandem with your mov
 
 ### Moving Around Other Creatures
 
-You can move through a nonhostile creature’s space. In contrast, you can move through a hostile creature’s space only if the creature is at least two sizes larger or smaller than you. Remember that another creature’s space is [[difficult terrain]] for you.
+You can move through a nonhostile creature’s space. In contrast, you can move through a hostile creature’s space only if the creature is at least two sizes larger or smaller than you. Remember that another creature’s space is [[4. Resources/_Gameplay/CombatRef/Difficult Terrain]] for you.
 
 Whether a creature is a friend or an enemy, you can’t willingly end your move in its space.
 
@@ -146,7 +146,7 @@ If you leave a hostile creature’s reach during your move, you provoke an [[op
 
 ### Flying Movement
 
-Flying creatures enjoy many benefits of mobility, but they must also deal with the danger of falling. If a flying creature is knocked [[prone]], has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the [[fly]] spell.
+Flying creatures enjoy many benefits of mobility, but they must also deal with the danger of falling. If a flying creature is knocked [[Prone]], has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the [[Fly]] spell.
 
 ### Creature Size
 
@@ -166,7 +166,7 @@ Each creature takes up a different amount of space. The Size Categories table sh
 
 #### Space
 
-A creature’s space is the area in feet that it effectively controls in combat, not an expression of its physical dimensions. A typical Medium creature isn’t 5 feet wide, for example, but it does control a space that wide. If a Medium [[hobgoblin]] stands in a 5-foot-wide doorway, other creatures can’t get through unless the [[hobgoblin]] lets them.
+A creature’s space is the area in feet that it effectively controls in combat, not an expression of its physical dimensions. A typical Medium creature isn’t 5 feet wide, for example, but it does control a space that wide. If a Medium [[Hobgoblin]] stands in a 5-foot-wide doorway, other creatures can’t get through unless the [[Hobgoblin]] lets them.
 
 A creature’s space also reflects the area it needs to fight effectively. For that reason, there’s a limit to the number of creatures that can surround another creature in combat. Assuming Medium combatants, eight creatures can fit in a 5-foot radius around another one.
 
@@ -188,7 +188,7 @@ If you use a grid often, consider writing your speed in squares on your characte
 
 _**Entering a Square.**_ To enter a square, you must have at least 1 square of movement left, even if the square is diagonally adjacent to the square you’re in. (The rule for diagonal movement sacrifices realism for the sake of smooth play. The [[Dungeon Master’s Guide]] provides guidance on using a [[more realistic approach]].)
 
-If a square costs extra movement, as a square of [[difficult terrain]] does, you must have enough movement left to pay for entering it. For example, you must have at least 2 squares of movement left to enter a square of difficult terrain.
+If a square costs extra movement, as a square of [[4. Resources/_Gameplay/CombatRef/Difficult Terrain]] does, you must have enough movement left to pay for entering it. For example, you must have at least 2 squares of movement left to enter a square of difficult terrain.
 
 _**Corners.**_ Diagonal movement can’t cross the corner of a wall, large tree, or other terrain feature that fills its space.
 
@@ -220,11 +220,11 @@ Any increase or decrease to your speed changes this additional movement by the s
 
 ### Disengage
 
-If you take the Disengage action, your movement doesn’t provoke [[opportunity attacks]] for the rest of the turn.
+If you take the Disengage action, your movement doesn’t provoke [[Opportunity Attacks]] for the rest of the turn.
 
 ### Dodge
 
-When you take the Dodge action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has [[disadvantage]] if you can see the attacker, and you make Dexterity saving throws with [[advantage]]. You lose this benefit if you are [[incapacitated]] or if your speed drops to 0.
+When you take the Dodge action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has [[disadvantage]] if you can see the attacker, and you make Dexterity saving throws with [[advantage]]. You lose this benefit if you are [[Incapacitated]] or if your speed drops to 0.
 
 ### Help
 
@@ -234,7 +234,7 @@ Alternatively, you can aid a friendly creature in attacking a creature within 5 
 
 ### Hide
 
-When you take the Hide action, you make a Dexterity ([[Stealth]]) check in an attempt to hide, following the rules for hiding. If you succeed, you gain certain benefits, as described in the "[[Unseen Attackers and Targets]]" section later in this chapter.
+When you take the Hide action, you make a Dexterity ([[4. Resources/_Gameplay/AdventuringRef/Stealth]]) check in an attempt to hide, following the rules for hiding. If you succeed, you gain certain benefits, as described in the "[[Unseen Attackers and Targets]]" section later in this chapter.
 
 ### Ready
 
@@ -244,7 +244,7 @@ First, you decide what perceivable circumstance will trigger your reaction. Then
 
 When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger.
 
-When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of 1 action, and holding onto the spell’s magic requires concentration (explained in [[chapter 10]]). If your concentration is broken, the spell dissipates without taking effect. For example, if you are concentrating on the [[web]] spell and ready [[magic missile]], your [[web]] spell ends, and if you take damage before you release [[magic missile]] with your reaction, your concentration might be broken.
+When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of 1 action, and holding onto the spell’s magic requires concentration (explained in [[chapter 10]]). If your concentration is broken, the spell dissipates without taking effect. For example, if you are concentrating on the [[Web]] spell and ready [[Magic Missile]], your [[Web]] spell ends, and if you take damage before you release [[Magic Missile]] with your reaction, your concentration might be broken.
 
 ### Search
 
@@ -301,7 +301,7 @@ If the d20 roll for an attack is a 1, the attack misses regardless of any modifi
 
 ### Unseen Attackers and Targets
 
-Combatants often try to escape their foes’ notice by hiding, casting the [[invisibility]] spell, or lurking in darkness.
+Combatants often try to escape their foes’ notice by hiding, casting the [[Invisibility]] spell, or lurking in darkness.
 
 When you attack a target that you can’t see, you have [[disadvantage]] on the attack roll. This is true whether you’re guessing the target’s location or you’re targeting a creature you can hear but not see. If the target isn’t in the location you targeted, you automatically miss, but the DM typically just says that the attack missed, not whether you guessed the target’s location correctly.
 
@@ -323,7 +323,7 @@ Some ranged attacks, such as those made with a [[longbow]] or a [[shortbow]],
 
 #### Ranged Attacks in Close Combat
 
-Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a spell, or some other means, you have [[disadvantage]] on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn’t [[incapacitated]].
+Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a spell, or some other means, you have [[disadvantage]] on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn’t [[Incapacitated]].
 
 ### Melee Attacks
 
@@ -343,7 +343,7 @@ You can avoid provoking an opportunity attack by taking the [[Disengage]] acti
 
 #### Two-Weapon Fighting
 
-When you take the [[Attack]] action and attack with a [[light]] melee weapon that you’re holding in one hand, you can use a bonus action to attack with a different [[light]] melee weapon that you’re holding in the other hand. You don’t add your ability modifier to the damage of the bonus attack, unless that modifier is negative.
+When you take the [[Attack]] action and attack with a [[Light]] melee weapon that you’re holding in one hand, you can use a bonus action to attack with a different [[Light]] melee weapon that you’re holding in the other hand. You don’t add your ability modifier to the damage of the bonus attack, unless that modifier is negative.
 
 If either weapon has the [[thrown]] property, you can throw the weapon, instead of making a melee attack with it.
 
@@ -351,11 +351,11 @@ If either weapon has the [[thrown]] property, you can throw the weapon, instea
 
 When you want to grab a creature or wrestle with it, you can use the [[Attack]] action to make a special melee attack, a grapple. If you’re able to make multiple attacks with the [[Attack]] action, this attack replaces one of them.
 
-The target of your grapple must be no more than one size larger than you and must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a Strength ([[Athletics]]) check contested by the target’s Strength ([[Athletics]]) or Dexterity ([[Acrobatics]]) check (the target chooses the ability to use). You succeed automatically if the target is [[incapacitated]]. If you succeed, you subject the target to the [[grappled]] condition. The condition specifies the things that end it, and you can release the target whenever you like (no action required).
+The target of your grapple must be no more than one size larger than you and must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a Strength ([[Athletics]]) check contested by the target’s Strength ([[Athletics]]) or Dexterity ([[Acrobatics]]) check (the target chooses the ability to use). You succeed automatically if the target is [[Incapacitated]]. If you succeed, you subject the target to the [[Grappled]] condition. The condition specifies the things that end it, and you can release the target whenever you like (no action required).
 
-_**Escaping a Grapple.**_ A [[grappled]] creature can use its action to escape. To do so, it must succeed on a Strength ([[Athletics]]) or Dexterity ([[Acrobatics]]) check contested by your Strength ([[Athletics]]) check.
+_**Escaping a Grapple.**_ A [[Grappled]] creature can use its action to escape. To do so, it must succeed on a Strength ([[Athletics]]) or Dexterity ([[Acrobatics]]) check contested by your Strength ([[Athletics]]) check.
 
-_**Moving a Grappled Creature.**_ When you move, you can drag or carry the [[grappled]] creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
+_**Moving a Grappled Creature.**_ When you move, you can drag or carry the [[Grappled]] creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
 
 >CONTESTS IN COMBAT
 >
@@ -363,9 +363,9 @@ _**Moving a Grappled Creature.**_ When you move, you can drag or carry the [[g
 
 #### Shoving a Creature
 
-Using the [[Attack]] action, you can make a special melee attack to shove a creature, either to knock it [[prone]] or push it away from you. If you’re able to make multiple attacks with the [[Attack]] action, this attack replaces one of them.
+Using the [[Attack]] action, you can make a special melee attack to shove a creature, either to knock it [[Prone]] or push it away from you. If you’re able to make multiple attacks with the [[Attack]] action, this attack replaces one of them.
 
-The target must be no more than one size larger than you and must be within your reach. Instead of making an attack roll, you make a Strength ([[Athletics]]) check contested by the target’s Strength ([[Athletics]]) or Dexterity ([[Acrobatics]]) check (the target chooses the ability to use). You succeed automatically if the target is [[incapacitated]]. If you succeed, you either knock the target [[prone]] or push it 5 feet away from you.
+The target must be no more than one size larger than you and must be within your reach. Instead of making an attack roll, you make a Strength ([[Athletics]]) check contested by the target’s Strength ([[Athletics]]) or Dexterity ([[Acrobatics]]) check (the target chooses the ability to use). You succeed automatically if the target is [[Incapacitated]]. If you succeed, you either knock the target [[Prone]] or push it 5 feet away from you.
 
 ## Cover
 
@@ -387,7 +387,7 @@ A target with **total cover** can’t be targeted directly by an attack or a s
 
 ## Damage and Healing
 
-Injury and the risk of death are constant companions of those who explore fantasy gaming worlds. The thrust of a sword, a well-placed arrow, or a blast of flame from a [[fireball]] spell all have the potential to damage, or even kill, the hardiest of creatures.
+Injury and the risk of death are constant companions of those who explore fantasy gaming worlds. The thrust of a sword, a well-placed arrow, or a blast of flame from a [[Fireball]] spell all have the potential to damage, or even kill, the hardiest of creatures.
 
 ### Hit Points
 
@@ -405,7 +405,7 @@ With a penalty, it is possible to deal 0 damage, but never negative damage.
 
 When attacking with a **weapon**, you add your ability modifier — the same modifier used for the attack roll — to the damage. A **spell** tells you which dice to roll for damage and whether to add any modifiers.
 
-If a spell or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them. For example, when a wizard casts [[fireball]] or a cleric casts [[flame strike]], the spell’s damage is rolled once for all creatures caught in the blast.
+If a spell or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them. For example, when a wizard casts [[Fireball]] or a cleric casts [[Flame Strike]], the spell’s damage is rolled once for all creatures caught in the blast.
 
 #### Critical Hits
 
@@ -427,11 +427,11 @@ The damage types follow, with examples to help a DM assign a damage type to a ne
 
 **_Fire._** [[Ancient red dragons]] breathe fire, and many spells conjure flames to deal fire damage.
 
-**_Force._** Force is pure magical energy focused into a damaging form. Most effects that deal force damage are spells, including [[magic missile]] and [[spiritual weapon]].
+**_Force._** Force is pure magical energy focused into a damaging form. Most effects that deal force damage are spells, including [[Magic Missile]] and [[Spiritual Weapon]].
 
-**_Lightning._** A [[lightning bolt]] spell and a [[blue dragon wyrmling’s]] breath deal lightning damage.
+**_Lightning._** A [[Lightning Bolt]] spell and a [[blue dragon wyrmling’s]] breath deal lightning damage.
 
-**_Necrotic._** Necrotic damage, dealt by certain undead and a spell such as [[chill touch]], withers matter and even the soul.
+**_Necrotic._** Necrotic damage, dealt by certain undead and a spell such as [[Chill Touch]], withers matter and even the soul.
 
 **_Piercing._** Puncturing and impaling attacks, including spears and monsters’ bites, deal piercing damage.
 
@@ -439,11 +439,11 @@ The damage types follow, with examples to help a DM assign a damage type to a ne
 
 **_Psychic._** Mental abilities such as a psionic blast deal psychic damage.
 
-**_Radiant._** Radiant damage, dealt by a cleric’s [[flame strike]] spell or an angel’s smiting weapon, sears the flesh like fire and overloads the spirit with power.
+**_Radiant._** Radiant damage, dealt by a cleric’s [[Flame Strike]] spell or an angel’s smiting weapon, sears the flesh like fire and overloads the spirit with power.
 
 **_Slashing._** Swords, axes, and monsters’ claws deal slashing damage.
 
-**_Thunder._** A concussive burst of sound, such as the effect of the [[thunderwave]] spell, deals thunder damage.
+**_Thunder._** A concussive burst of sound, such as the effect of the [[Thunderwave]] spell, deals thunder damage.
 
 ### Damage Resistance and Vulnerability
 
@@ -457,15 +457,15 @@ Multiple instances of resistance or vulnerability that affect the same damage ty
 
 ### Healing
 
-Unless it results in death, damage isn’t permanent. Even death is reversible through powerful magic. Rest can restore a creature’s hit points (as explained in [[chapter 8]]), and magical methods such as a [[cure wounds]] spell or a [[potion of healing]] can remove damage in an instant.
+Unless it results in death, damage isn’t permanent. Even death is reversible through powerful magic. Rest can restore a creature’s hit points (as explained in [[chapter 8]]), and magical methods such as a [[Cure Wounds]] spell or a [[Potion of Healing]] can remove damage in an instant.
 
 When a creature receives healing of any kind, hit points regained are added to its current hit points. A creature’s hit points can’t exceed its hit point maximum, so any hit points regained in excess of this number are lost. For example, a druid grants a ranger 8 hit points of healing. If the ranger has 14 current hit points and has a hit point maximum of 20, the ranger regains 6 hit points from the druid, not 8.
 
-A creature that has died can’t regain hit points until magic such as the [[revivify]] spell has restored it to life.
+A creature that has died can’t regain hit points until magic such as the [[Revivify]] spell has restored it to life.
 
 ### Dropping to 0 Hit Points
 
-When you drop to 0 hit points, you either die outright or fall [[unconscious]], as explained in the following sections.
+When you drop to 0 hit points, you either die outright or fall [[Unconscious]], as explained in the following sections.
 
 #### Instant Death
 
@@ -475,11 +475,11 @@ For example, a cleric with a maximum of 12 hit points currently has 6 hit points
 
 #### Falling Unconscious
 
-If damage reduces you to 0 hit points and fails to kill you, you fall [[unconscious]]. This unconsciousness ends if you regain any hit points.
+If damage reduces you to 0 hit points and fails to kill you, you fall [[Unconscious]]. This unconsciousness ends if you regain any hit points.
 
 DESCRIBING THE EFFECTS OF DAMAGE
 
-Dungeon Masters describe hit point loss in different ways. When your current hit point total is half or more of your hit point maximum, you typically show no signs of injury. When you drop below half your hit point maximum, you show signs of wear, such as cuts and bruises. An attack that reduces you to 0 hit points strikes you directly, leaving a bleeding injury or other trauma, or it simply knocks you [[unconscious]].
+Dungeon Masters describe hit point loss in different ways. When your current hit point total is half or more of your hit point maximum, you typically show no signs of injury. When you drop below half your hit point maximum, you show signs of wear, such as cuts and bruises. An attack that reduces you to 0 hit points strikes you directly, leaving a bleeding injury or other trauma, or it simply knocks you [[Unconscious]].
 
 #### Death Saving Throws
 
@@ -497,19 +497,19 @@ The best way to save a creature with 0 hit points is to heal it. If healing is u
 
 ![](https://www.dndbeyond.com/attachments/0/674/c94.png)
 
-You can use your action to administer first aid to an [[unconscious]] creature and attempt to stabilize it, which requires a successful DC 10 Wisdom ([[Medicine]]) check.
+You can use your action to administer first aid to an [[Unconscious]] creature and attempt to stabilize it, which requires a successful DC 10 Wisdom ([[Medicine]]) check.
 
-A **stable** creature doesn’t make death saving throws, even though it has 0 hit points, but it does remain [[unconscious]]. The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn’t healed regains 1 hit point after 1d4 hours.
+A **stable** creature doesn’t make death saving throws, even though it has 0 hit points, but it does remain [[Unconscious]]. The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn’t healed regains 1 hit point after 1d4 hours.
 
 #### Monsters and Death
 
-Most DMs have a monster die the instant it drops to 0 hit points, rather than having it fall [[unconscious]] and make death saving throws.
+Most DMs have a monster die the instant it drops to 0 hit points, rather than having it fall [[Unconscious]] and make death saving throws.
 
-Mighty villains and special nonplayer characters are common exceptions; the DM might have them fall [[unconscious]] and follow the same rules as player characters.
+Mighty villains and special nonplayer characters are common exceptions; the DM might have them fall [[Unconscious]] and follow the same rules as player characters.
 
 ### Knocking a Creature Out
 
-Sometimes an attacker wants to incapacitate a foe, rather than deal a killing blow. When an attacker reduces a creature to 0 hit points with a melee attack, the attacker can knock the creature out. The attacker can make this choice the instant the damage is dealt. The creature falls [[unconscious]] and is stable.
+Sometimes an attacker wants to incapacitate a foe, rather than deal a killing blow. When an attacker reduces a creature to 0 hit points with a melee attack, the attacker can knock the creature out. The attacker can make this choice the instant the damage is dealt. The creature falls [[Unconscious]] and is stable.
 
 ### Temporary Hit Points
 
@@ -527,7 +527,7 @@ Unless a feature that grants you temporary hit points has a duration, they last 
 
 ## Mounted Combat
 
-A knight charging into battle on a [[warhorse]], a wizard casting spells from the back of a [[griffon]], or a cleric soaring through the sky on a [[pegasus]] all enjoy the benefits of speed and mobility that a mount can provide.
+A knight charging into battle on a [[warhorse]], a wizard casting spells from the back of a [[Griffon]], or a cleric soaring through the sky on a [[Pegasus]] all enjoy the benefits of speed and mobility that a mount can provide.
 
 A willing creature that is at least one size larger than you and that has an appropriate anatomy can serve as a mount, using the following rules.
 
@@ -535,15 +535,15 @@ A willing creature that is at least one size larger than you and that has an app
 
 Once during your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to mount a horse. Therefore, you can’t mount it if you don’t have 15 feet of movement left or if your speed is 0.
 
-If an effect moves your mount against its will while you’re on it, you must succeed on a DC 10 Dexterity saving throw or fall off the mount, landing [[prone]] in a space within 5 feet of it. If you’re knocked [[prone]] while mounted, you must make the same saving throw.
+If an effect moves your mount against its will while you’re on it, you must succeed on a DC 10 Dexterity saving throw or fall off the mount, landing [[Prone]] in a space within 5 feet of it. If you’re knocked [[Prone]] while mounted, you must make the same saving throw.
 
-If your mount is knocked [[prone]], you can use your reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall [[prone]] in a space within 5 feet it.
+If your mount is knocked [[Prone]], you can use your reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall [[Prone]] in a space within 5 feet it.
 
 ### Controlling a Mount
 
 While you’re mounted, you have two options. You can either control the mount or allow it to act independently. Intelligent creatures, such as dragons, act independently.
 
-You can control a mount only if it has been trained to accept a rider. Domesticated horses, donkeys, and similar creatures are assumed to have such training. The [[initiative]] of a controlled mount changes to match yours when you mount it. It moves as you direct it, and it has only three action options: [[Dash]], [[Disengage]], and [[Dodge]]. A controlled mount can move and act even on the turn that you mount it.
+You can control a mount only if it has been trained to accept a rider. Domesticated horses, donkeys, and similar creatures are assumed to have such training. The [[4. Resources/_Gameplay/CombatRef/Initiative]] of a controlled mount changes to match yours when you mount it. It moves as you direct it, and it has only three action options: [[Dash]], [[Disengage]], and [[Dodge]]. A controlled mount can move and act even on the turn that you mount it.
 
 An independent mount retains its place in the initiative order. Bearing a rider puts no restrictions on the actions the mount can take, and it moves and acts as it wishes. It might flee from combat, rush to attack and devour a badly injured foe, or otherwise act against your wishes.
 
@@ -551,7 +551,7 @@ In either case, if the mount provokes an [[opportunity attack]] while you’re
 
 ## Underwater Combat
 
-When adventurers pursue [[sahuagin]] back to their undersea homes, fight off sharks in an ancient shipwreck, or find themselves in a flooded dungeon room, they must fight in a challenging environment. Underwater the following rules apply.
+When adventurers pursue [[Sahuagin]] back to their undersea homes, fight off sharks in an ancient shipwreck, or find themselves in a flooded dungeon room, they must fight in a challenging environment. Underwater the following rules apply.
 
 When making a **melee weapon attack**, a creature that doesn’t have a swimming speed (either natural or granted by magic) has [[disadvantage]] on the attack roll unless the weapon is a [[dagger]], [[javelin]], [[shortsword]], [[spear]], or [[trident]].
 

@@ -42,15 +42,15 @@ The following rules determine how far a character or monster can move in a minut
 
 While traveling, a group of adventurers can move at a normal, fast, or slow pace, as shown on the [[Travel Pace]] table. The table states how far the party can move in a period of time and whether the pace has any effect. A fast pace makes characters less perceptive, while a slow pace makes it possible to sneak around and to search an area more carefully (see the “[[Activity While Traveling]]” section later in this chapter for more information).
 
-**_Forced March._** The Travel Pace table assumes that characters travel for 8 hours in day. They can push on beyond that limit, at the risk of [[exhaustion]].
+**_Forced March._** The Travel Pace table assumes that characters travel for 8 hours in day. They can push on beyond that limit, at the risk of [[Exhaustion]].
 
-For each additional hour of travel beyond 8 hours, the characters cover the distance shown in the Hour column for their pace, and each character must make a Constitution saving throw at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of [[exhaustion]] (see [[Appendix A]]).
+For each additional hour of travel beyond 8 hours, the characters cover the distance shown in the Hour column for their pace, and each character must make a Constitution saving throw at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of [[Exhaustion]] (see [[Appendix A]]).
 
 **_Mounts and Vehicles._** For short spans of time (up to an hour), many animals move much faster than humanoids. A mounted character can ride at a gallop for about an hour, covering twice the usual distance for a fast pace. If fresh mounts are available every 8 to 10 miles, characters can cover larger distances at this pace, but this is very rare except in densely populated areas.
 
 Characters in wagons, carriages, or other land vehicles choose a pace as normal. Characters in a waterborne vessel are limited to the speed of the vessel (see [[chapter 5]], “[[Equipment]]”), and they don't suffer penalties for a fast pace or gain benefits from a slow pace. Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day.
 
-Certain special mounts, such as a [[pegasus]] or [[griffon]], or special vehicles, such as a [[carpet of flying]], allow you to travel more swiftly. The [[Dungeon Master’s Guide]] contains more information on [[special methods of travel]].
+Certain special mounts, such as a [[Pegasus]] or [[Griffon]], or special vehicles, such as a [[Carpet of Flying]], allow you to travel more swiftly. The [[Dungeon Master’s Guide]] contains more information on [[special methods of travel]].
 
 ##### Travel Pace
 ||Distance Traveled Per...|   |   ||
@@ -73,7 +73,7 @@ Movement through dangerous dungeons or wilderness areas often involves more than
 
 #### Climbing, Swimming, and Crawling
 
-Each foot of movement costs 1 extra foot (2 extra feet in [[difficult terrain]]) when you’re climbing, swimming, or crawling. You ignore this extra cost if you have a climbing speed and use it to climb, or a swimming speed and use it to swim. At the DM’s option, climbing a slippery vertical surface or one with few handholds requires a successful Strength ([[Athletics]]) check. Similarly, gaining any distance in rough water might require a successful Strength ([[Athletics]]) check.
+Each foot of movement costs 1 extra foot (2 extra feet in [[4. Resources/_Gameplay/CombatRef/Difficult Terrain]]) when you’re climbing, swimming, or crawling. You ignore this extra cost if you have a climbing speed and use it to climb, or a swimming speed and use it to swim. At the DM’s option, climbing a slippery vertical surface or one with few handholds requires a successful Strength ([[Athletics]]) check. Similarly, gaining any distance in rough water might require a successful Strength ([[Athletics]]) check.
 
 #### Jumping
 
@@ -83,7 +83,7 @@ Your Strength determines how far you can jump.
 
 This rule assumes that the height of your jump doesn't matter, such as a jump across a stream or chasm. At your DM's option, you must succeed on a DC 10 Strength ([[Athletics]]) check to clear a low obstacle (no taller than a quarter of the jump's distance), such as a hedge or low wall. Otherwise, you hit it.
 
-When you land in [[difficult terrain]], you must succeed on a DC 10 Dexterity ([[Acrobatics]]) check to land on your feet. Otherwise, you land [[prone]].
+When you land in [[4. Resources/_Gameplay/CombatRef/Difficult Terrain]], you must succeed on a DC 10 Dexterity ([[Acrobatics]]) check to land on your feet. Otherwise, you land [[Prone]].
 
 **_High Jump._** When you make a high jump, you leap into the air a number of feet equal to 3 + your Strength modifier (minimum of 0 feet) if you move at least 10 feet on foot immediately before the jump. When you make a standing high jump, you can jump only half that distance. Either way, each foot you clear on the jump costs a foot of movement. In some circumstances, your DM might allow you to make a Strength ([[Athletics]]) check to jump higher than you normally can.
 
@@ -103,7 +103,7 @@ A character might occupy the front rank, one or more middle ranks, or the back r
 
 #### Stealth
 
-While traveling at a slow pace, the characters can move stealthily. As long as they’re not in the open, they can try to surprise or sneak by other creatures they encounter. See the rules for [[hiding]] in chapter 7 "[[Using Ability Scores]]."
+While traveling at a slow pace, the characters can move stealthily. As long as they’re not in the open, they can try to surprise or sneak by other creatures they encounter. See the rules for [[Hiding]] in chapter 7 "[[Using Ability Scores]]."
 
 SPLITTING UP THE PARTY
 
@@ -119,7 +119,7 @@ While traveling at a fast pace, characters take a –5 penalty to their passive 
 
 _**Encountering Creatures.**_ If the DM determines that the adventurers encounter other creatures while they’re traveling, it’s up to both groups to decide what happens next. Either group might decide to attack, initiate a conversation, run away, or wait to see what the other group does.
 
-_**Surprising Foes.**_ If the adventurers encounter a hostile creature or group, the DM determines whether the adventurers or their foes might be [[surprised]] when combat erupts. See [[chapter 9]] for more about [[surprise]].
+_**Surprising Foes.**_ If the adventurers encounter a hostile creature or group, the DM determines whether the adventurers or their foes might be [[surprised]] when combat erupts. See [[chapter 9]] for more about [[Surprise]].
 
 #### Other Activities
 
@@ -141,7 +141,7 @@ By its nature, adventuring involves delving into places that are dark, dangerous
 
 A fall from a great height is one of the most common hazards facing an adventurer.
 
-At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6. The creature lands [[prone]], unless it avoids taking damage from the fall.
+At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6. The creature lands [[Prone]], unless it avoids taking damage from the fall.
 
 ### Suffocating
 
@@ -157,7 +157,7 @@ The most fundamental tasks of adventuring — noticing danger, finding hidden ob
 
 A given area might be lightly or heavily obscured. In a **lightly obscured** area, such as dim light, patchy fog, or moderate foliage, creatures have [[disadvantage]] on Wisdom ([[Perception]]) checks that rely on sight.
 
-A **heavily obscured** area—such as darkness, opaque fog, or dense foliage—blocks vision entirely. A creature effectively suffers from the [[blinded]] condition (see [[Appendix A]]) when trying to see something in that area.
+A **heavily obscured** area—such as darkness, opaque fog, or dense foliage—blocks vision entirely. A creature effectively suffers from the [[Blinded]] condition (see [[Appendix A]]) when trying to see something in that area.
 
 The presence or absence of light in an environment creates three categories of illumination: bright light, dim light, and darkness.
 
@@ -169,35 +169,35 @@ The presence or absence of light in an environment creates three categories of i
 
 #### Blindsight
 
-A creature with [[blindsight]] can perceive its surroundings without relying on sight, within a specific radius. Creatures without eyes, such as oozes, and creatures with echolocation or heightened senses, such as bats and true dragons, have this sense.
+A creature with [[Blindsight]] can perceive its surroundings without relying on sight, within a specific radius. Creatures without eyes, such as oozes, and creatures with echolocation or heightened senses, such as bats and true dragons, have this sense.
 
 #### Darkvision
 
-Many creatures in fantasy gaming worlds, especially those that dwell underground, have [[darkvision]]. Within a specified range, a creature with [[darkvision]] can see in dim light as if it were bright light and in darkness as if it were dim light, so areas of darkness are only [[lightly obscured]] as far as that creature is concerned. However, the creature can’t discern color in that darkness, only shades of gray.
+Many creatures in fantasy gaming worlds, especially those that dwell underground, have [[4. Resources/Spells/SRD/Darkvision]]. Within a specified range, a creature with [[4. Resources/Spells/SRD/Darkvision]] can see in dim light as if it were bright light and in darkness as if it were dim light, so areas of darkness are only [[lightly obscured]] as far as that creature is concerned. However, the creature can’t discern color in that darkness, only shades of gray.
 
 #### Truesight
 
-A creature with [[truesight]] can, out to a specific range, see in normal and magical darkness, see [[invisible]] creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceives the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the creature can see into the Ethereal Plane.
+A creature with [[Truesight]] can, out to a specific range, see in normal and magical darkness, see [[Invisible]] creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceives the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the creature can see into the Ethereal Plane.
 
 ![](https://www.dndbeyond.com/attachments/0/670/c81.jpg)
 
 ### Food and Water
 
-Characters who don't eat or drink suffer the effects of [[exhaustion]]. Exhaustion caused by lack of food or water can't be removed until the character eats and drinks the full required amount.
+Characters who don't eat or drink suffer the effects of [[Exhaustion]]. Exhaustion caused by lack of food or water can't be removed until the character eats and drinks the full required amount.
 
 #### Food
 
 A character needs one pound of food per day and can make food last longer by subsisting on half rations. Eating half a pound of food in a day counts as half a day without food.
 
-A character can go without food for a number of days equal to 3 + his or her Constitution modifier (minimum 1). At the end of each day beyond that limit, a character automatically suffers one level of [[exhaustion]].
+A character can go without food for a number of days equal to 3 + his or her Constitution modifier (minimum 1). At the end of each day beyond that limit, a character automatically suffers one level of [[Exhaustion]].
 
 A normal day of eating resets the count of days without food to zero.
 
 #### Water
 
-A character needs one gallon of water per day, or two gallons per day if the weather is hot. A character who drinks only half that much water must succeed on a DC 15 Constitution saving throw or suffer one level of [[exhaustion]] at the end of the day. A character with access to even less water automatically suffers one level of [[exhaustion]] at the end of the day.
+A character needs one gallon of water per day, or two gallons per day if the weather is hot. A character who drinks only half that much water must succeed on a DC 15 Constitution saving throw or suffer one level of [[Exhaustion]] at the end of the day. A character with access to even less water automatically suffers one level of [[Exhaustion]] at the end of the day.
 
-If the character already has one or more levels of [[exhaustion]], the character takes two levels in either case.
+If the character already has one or more levels of [[Exhaustion]], the character takes two levels in either case.
 
 ### Interacting with Objects
 

@@ -8,7 +8,7 @@ icon: session-note
 ---
 
 
-Approaching the structure, an elf man drops out of a portal and introduces himself as [[Cedrick]]. We quickly adopt him, invite him on the bus (which he vandalizes immediately), and fill him in on our quest to get the hammer for the hat lady to get the lute for the bath lady to get magic bath water to heal Ramshorn.
+Approaching the structure, an elf man drops out of a portal and introduces himself as [[Cedrick Ballard]]. We quickly adopt him, invite him on the bus (which he vandalizes immediately), and fill him in on our quest to get the hammer for the hat lady to get the lute for the bath lady to get magic bath water to heal Ramshorn.
 
 Approaching the front entrance, the door is too small for the bus so we leave Sol behind to watch it while we enter the front door and are met with four obelisks marked in elemental runes– conveniently translated in chalk beneath them by someone who’s come before us– and a wall of fire blocking further passage.
 

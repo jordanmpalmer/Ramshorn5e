@@ -1,7 +1,7 @@
 
 > [!infobox]
 > # Name
-> ![[Image.png|cover hsmall]]
+> ![[image.png|cover hsmall]]
 > ###### Stats
 > | Type | Stat |
 > | ---- | ---- |

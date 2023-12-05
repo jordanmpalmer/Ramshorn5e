@@ -534,7 +534,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Drag
 > 
 > [[Barkskin]]
 > 
-> [[Darkvision]]
+> [[4. Resources/Spells/SRD/Darkvision]]
 > 
 > [[Enhance Ability]]
 > 
@@ -814,7 +814,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Drag
 > 
 > [[Barkskin]]
 > 
-> [[Darkvision]]
+> [[4. Resources/Spells/SRD/Darkvision]]
 > 
 > [[Find Traps]]
 > 
@@ -946,7 +946,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Drag
 > 
 > [[Darkness]]
 > 
-> [[Darkvision]]
+> [[4. Resources/Spells/SRD/Darkvision]]
 > 
 > [[Detect Thoughts]]
 > 
@@ -982,7 +982,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Drag
 > 
 > **3rd Level**
 > 
-> [[Blink]]
+> [[4. Resources/Spells/SRD/Blink]]
 > 
 > [[Clairvoyance]]
 > 
@@ -1378,7 +1378,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Drag
 > 
 > [[Darkness]]
 > 
-> [[Darkvision]]
+> [[4. Resources/Spells/SRD/Darkvision]]
 > 
 > [[Detect Thoughts]]
 > 
@@ -1432,7 +1432,7 @@ This chapter describes the most common spells in the worlds of Dungeons & Drag
 > 
 > [[Bestow Curse]]
 > 
-> [[Blink]]
+> [[4. Resources/Spells/SRD/Blink]]
 > 
 > [[Clairvoyance]]
 > 

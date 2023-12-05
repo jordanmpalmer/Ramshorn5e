@@ -3,5 +3,6 @@
   "attachmentFolderPath": "z_Assets",
   "livePreview": false,
   "defaultViewMode": "preview",
-  "readableLineLength": false
+  "readableLineLength": false,
+  "promptDelete": false
 }

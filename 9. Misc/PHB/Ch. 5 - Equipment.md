@@ -93,7 +93,7 @@ The Armor table shows the cost, weight, and other properties of the common types
 
 **_Heavy Armor._** Heavier armor interferes with the wearer’s ability to move quickly, stealthily, and freely. If the Armor table shows "Str 13" or "Str 15" in the Strength column for an armor type, the armor reduces the wearer’s speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
 
-**_Stealth._** If the Armor table shows "Disadvantage" in the Stealth column, the wearer has [[disadvantage]] on Dexterity ([[Stealth]]) checks.
+**_Stealth._** If the Armor table shows "Disadvantage" in the Stealth column, the wearer has [[disadvantage]] on Dexterity ([[4. Resources/_Gameplay/AdventuringRef/Stealth]]) checks.
 
 **_Shields._** A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.
 
@@ -183,7 +183,7 @@ The Weapons table shows the most common weapons used in the worlds of D&D, their
 |---|---|---|---|---|
 |_Simple Melee Weapons_|   |   |   |   |
 |[[Club]]|1 sp|1d4 bludgeoning|2 lb.|[[Light]]|
-|[[Dagger]]|2 gp|1d4 piercing|1 lb.|[[Finesse]], [[light]], [[thrown]] (range 20/60)|
+|[[Dagger]]|2 gp|1d4 piercing|1 lb.|[[Finesse]], [[Light]], [[thrown]] (range 20/60)|
 |[[Greatclub]]|2 sp|1d8 bludgeoning|10 lb.|[[Two-handed]]|
 |[[Handaxe]]|5 gp|1d6 slashing|2 lb.|[[Light]], [[thrown]] (range 20/60)|
 |[[Javelin]]|5 sp|1d6 piercing|2 lb.|[[Thrown]] (range 30/120)|
@@ -214,15 +214,15 @@ The Weapons table shows the most common weapons used in the worlds of D&D, their
 |[[Morningstar]]|15 gp|1d8 piercing|4 lb.|-|
 |[[Pike]]|5 gp|1d10 piercing|18 lb.|[[Heavy]], [[reach]], [[two-handed]]|
 |[[Rapier]]|25 gp|1d8 piercing|2 lb.|[[Finesse]]|
-|[[Scimitar]]|25 gp|1d6 slashing|3 lb.|[[Finesse]], [[light]]|
-|[[Shortsword]]|10 gp|1d6 piercing|2 lb.|[[Finesse]], [[light]]|
+|[[Scimitar]]|25 gp|1d6 slashing|3 lb.|[[Finesse]], [[Light]]|
+|[[Shortsword]]|10 gp|1d6 piercing|2 lb.|[[Finesse]], [[Light]]|
 |[[Trident]]|5 gp|1d6 piercing|4 lb.|[[Thrown]] (range 20/60), [[versatile]] (1d8)|
 |[[War pick]]|5 gp|1d8 piercing|2 lb.|-|
 |[[Warhammer]]|15 gp|1d8 bludgeoning|2 lb.|[[Versatile]] (1d10)|
 |[[Whip]]|2 gp|1d4 slashing|3 lb.|[[Finesse]], [[reach]]|
 |_Martial Ranged Weapons_|   |   |   |   |
 |[[Blowgun]]|10 gp|1 piercing|1 lb.|[[Ammunition]] (range 25/100), [[loading]]|
-|[[Crossbow, hand]]|75 gp|1d6 piercing|3 lb.|[[Ammunition]] (range 30/120), [[light]], [[loading]]|
+|[[Crossbow, hand]]|75 gp|1d6 piercing|3 lb.|[[Ammunition]] (range 30/120), [[Light]], [[loading]]|
 |[[Crossbow, heavy]]|50 gp|1d10 piercing|18 lb.|[[Ammunition]] (range 100/400), [[heavy]], [[loading]], [[two-handed]]|
 |[[Longbow]]|50 gp|1d8 piercing|2 lb.|[[Ammunition]] (range 150/600), [[heavy]], [[two-handed]]|
 |[[Net]]|1 gp|-|3 lb.|[[Special]], [[thrown]] (range 5/15)|
@@ -285,7 +285,7 @@ Weapons with special rules are described here.
 
 _**Lance.**_ You have [[disadvantage]] when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren’t mounted.
 
-_**Net.**_ A Large or smaller creature hit by a net is [[restrained]] until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net ([[AC]] 10) also frees the creature without harming it, ending the effect and destroying the net.
+_**Net.**_ A Large or smaller creature hit by a net is [[Restrained]] until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net ([[AC]] 10) also frees the creature without harming it, ending the effect and destroying the net.
 
 When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
@@ -384,7 +384,7 @@ This section describes items that have special rules or require further explanat
 | [[Poison, basic (vial)]]         | 100 gp   | -            |
 | [[Pole (10-foot)]]               | 5 cp     | 7 lb.        |
 | [[Pot, iron]]                    | 2 gp     | 10 lb.       |
-| [[Potion of healing]]            | 50 gp    | 1/2 lb.      |
+| [[Potion of Healing]]            | 50 gp    | 1/2 lb.      |
 | [[Pouch]]                        | 5 sp     | 1 lb.        |
 | [[Quiver]]                       | 1 gp     | 1 lb.        |
 | [[Ram, portable]]                | 4 gp     | 35 lb.       |
@@ -413,11 +413,11 @@ This section describes items that have special rules or require further explanat
 
 **_Alchemist’s Fire._** This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist’s fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
 
-**_Antitoxin._** A creature that drinks this vial of liquid gains [[advantage]] on [[saving throws]] against poison for 1 hour. It confers no benefit to undead or constructs.
+**_Antitoxin._** A creature that drinks this vial of liquid gains [[advantage]] on [[Saving Throws]] against poison for 1 hour. It confers no benefit to undead or constructs.
 
 **_Arcane Focus._** An arcane focus is a special item — an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item — designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, as described in [[chapter 10]].
 
-**_Ball Bearings._** As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall [[prone]]. A creature moving through the area at half speed doesn’t need to make the save.
+**_Ball Bearings._** As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall [[Prone]]. A creature moving through the area at half speed doesn’t need to make the save.
 
 **_Block and Tackle._** A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.
 
@@ -483,7 +483,7 @@ The starting equipment you get from your class includes a collection of useful a
 
 **_Magnifying Glass._** This lens allows a closer look at small objects. It is also useful as a substitute for flint and steel when starting fires. Lighting a fire with a magnifying glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite. A magnifying glass grants advantage on any ability check made to appraise or inspect an item that is small or highly detailed.
 
-**_Manacles._** These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with thieves’ tools can pick the manacles’ lock with a successful DC 15 Dexterity check. Manacles have 15 [[hit points]].
+**_Manacles._** These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with thieves’ tools can pick the manacles’ lock with a successful DC 15 Dexterity check. Manacles have 15 [[4. Resources/_Gameplay/CombatRef/Hit Points]].
 
 **_Mess Kit._** This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.
 
@@ -491,7 +491,7 @@ The starting equipment you get from your class includes a collection of useful a
 
 **_Poison, Basic._** You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must succeed on a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.
 
-**_Potion of Healing._** A character who drinks the magical red fluid in this vial regains 2d4 + 2 [[hit points]]. Drinking or administering a potion takes an action.
+**_Potion of Healing._** A character who drinks the magical red fluid in this vial regains 2d4 + 2 [[4. Resources/_Gameplay/CombatRef/Hit Points]]. Drinking or administering a potion takes an action.
 
 **_Pouch._** A cloth or leather pouch can hold up to 20 [[sling bullets]] or 50 [[blowgun needles]], among other things. A compartmentalized pouch for holding spell components is called a [[component pouch]] (described earlier in this section).
 
@@ -501,7 +501,7 @@ The starting equipment you get from your class includes a collection of useful a
 
 **_Rations._** Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.
 
-**_Rope._** Rope, whether made of hemp or silk, has 2 [[hit points]] and can be burst with a DC 17 Strength check.
+**_Rope._** Rope, whether made of hemp or silk, has 2 [[4. Resources/_Gameplay/CombatRef/Hit Points]] and can be burst with a DC 17 Strength check.
 
 **_Scale, Merchant’s._** A scale includes a small balance, pans, and a suitable assortment of weights up to 2 pounds. With it, you can measure the exact weight of small objects, such as raw precious metals or trade goods, to help determine their worth.
 
@@ -537,7 +537,7 @@ The starting equipment you get from your class includes a collection of useful a
 
 ## Tools
 
-A tool helps you to do something you couldn’t otherwise do, such as craft or repair an item, forge a document, or pick a lock. Your race, class, background, or feats give you proficiency with certain tools. Proficiency with a tool allows you to add your [[proficiency bonus]] to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. For example, the DM might ask you to make a Dexterity check to carve a fine detail with your [[woodcarver’s tools]], or a Strength check to make something out of particularly hard wood.
+A tool helps you to do something you couldn’t otherwise do, such as craft or repair an item, forge a document, or pick a lock. Your race, class, background, or feats give you proficiency with certain tools. Proficiency with a tool allows you to add your [[Proficiency Bonus]] to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. For example, the DM might ask you to make a Dexterity check to carve a fine detail with your [[woodcarver’s tools]], or a Strength check to make something out of particularly hard wood.
 
 ### Tools
 | Item                        | Cost  | Weight  |
@@ -795,7 +795,7 @@ Skilled hirelings include anyone hired to perform a service that involves a prof
 
 People who are able to cast spells don’t fall into the category of ordinary hirelings. It might be possible to find someone willing to cast a spell in exchange for coin or favors, but it is rarely easy and no established pay rates exist. As a rule, the higher the level of the desired spell, the harder it is to find someone who can cast it and the more it costs.
 
-Hiring someone to cast a relatively common spell of 1st or 2nd level, such as [[cure wounds]] or [[identify]], is easy enough in a city or town, and might cost 10 to 50 gold pieces (plus the cost of any expensive material components). Finding someone able and willing to cast a higher-level spell might involve traveling to a large city, perhaps one with a university or prominent temple. Once found, the spellcaster might ask for a service instead of payment — the kind of service that only adventurers can provide, such as retrieving a rare item from a dangerous locale or traversing a monster-infested wilderness to deliver something important to a distant settlement.
+Hiring someone to cast a relatively common spell of 1st or 2nd level, such as [[Cure Wounds]] or [[Identify]], is easy enough in a city or town, and might cost 10 to 50 gold pieces (plus the cost of any expensive material components). Finding someone able and willing to cast a higher-level spell might involve traveling to a large city, perhaps one with a university or prominent temple. Once found, the spellcaster might ask for a service instead of payment — the kind of service that only adventurers can provide, such as retrieving a rare item from a dangerous locale or traversing a monster-infested wilderness to deliver something important to a distant settlement.
 
 ## Trinkets
 

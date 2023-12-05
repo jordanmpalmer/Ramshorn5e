@@ -133,6 +133,42 @@
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "icon",
+      "value": "planet",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "8e51-6416",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "icon",
+      "value": "point-of-interest",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "d81b-80b3",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "icon",
+      "value": "region",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "c448-daeb",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
     }
   ]
 }

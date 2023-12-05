@@ -102,7 +102,7 @@ If a cantrip of yours increases in power at higher levels, the increase is based
 
 _**Spell Slots.**_ You determine your available spell slots by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, half your levels (rounded down) in the paladin and ranger classes, and a third of your fighter or rogue levels (rounded down) if you have the Eldritch Knight or the Arcane Trickster feature. Use this total to determine your spell slots by consulting the [[Multiclass Spellcaster]] table.
 
-If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like [[burning hands]], has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don’t have any spells of that higher level.
+If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like [[Burning Hands]], has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don’t have any spells of that higher level.
 
 For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th-level character when determining your spell slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don’t know any 3rd-level spells, nor do you know any 2nd-level ranger spells. You can use the spell slots of those levels to cast the spells you do know — and potentially enhance their effects.
 
@@ -154,7 +154,7 @@ Skilled at mimicry and dramatics, you gain the following benefits:
 
 Always on the lookout for danger, you gain the following benefits:
 
-- You gain a +5 bonus to [[initiative]].
+- You gain a +5 bonus to [[4. Resources/_Gameplay/CombatRef/Initiative]].
 - You can’t be [[surprised]] while you are conscious.
 - Other creatures don’t gain [[advantage]] on attack rolls against you as a result of being unseen by you.
 
@@ -163,7 +163,7 @@ Always on the lookout for danger, you gain the following benefits:
 You have undergone extensive physical training to gain the following benefits:
 
 - Increase your Strength or Dexterity score by 1, to a maximum of 20.
-- When you are [[prone]], standing up uses only 5 feet of your movement.
+- When you are [[Prone]], standing up uses only 5 feet of your movement.
 - [[Climbing]] doesn’t cost you extra movement.
 - You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
 
@@ -192,7 +192,7 @@ When you are wielding a [[finesse]] weapon with which you are proficient and a
 You master fighting with two weapons, gaining the following benefits:
 
 - You gain a +1 bonus to [[AC]] while you are wielding a separate melee weapon in each hand.
-- You can use [[two-weapon fighting]] even when the one-handed melee weapons you are wielding aren’t [[light]].
+- You can use [[Two-Weapon Fighting]] even when the one-handed melee weapons you are wielding aren’t [[Light]].
 - You can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.
 
 ### Dungeon Delver
@@ -200,7 +200,7 @@ You master fighting with two weapons, gaining the following benefits:
 Alert to the hidden traps and secret doors found in many dungeons, you gain the following benefits:
 
 - You have [[advantage]] on Wisdom ([[Perception]]) and Intelligence ([[Investigation]]) checks made to detect the presence of secret doors.
-- You have [[advantage]] on [[saving throws]] made to avoid or resist traps.
+- You have [[advantage]] on [[Saving Throws]] made to avoid or resist traps.
 - You have resistance to the damage dealt by traps.
 - Traveling at a fast pace doesn’t impose the normal -5 penalty on your passive Wisdom ([[Perception]]) score.
 
@@ -227,8 +227,8 @@ _Prerequisite: Strength 13 or higher_
 
 You’ve developed the skills necessary to hold your own in close-quarters grappling. You gain the following benefits:
 
-- You have [[advantage]] on attack rolls against a creature you are [[grappling]].
-- You can use your action to try to pin a creature [[grappled]] by you. To do so, make another [[grapple]] check. If you succeed, you and the creature are both [[restrained]] until the grapple ends.
+- You have [[advantage]] on attack rolls against a creature you are [[Grappling]].
+- You can use your action to try to pin a creature [[Grappled]] by you. To do so, make another [[grapple]] check. If you succeed, you and the creature are both [[Restrained]] until the grapple ends.
 
 ### Great Weapon Master
 
@@ -266,7 +266,7 @@ You can use your armor to deflect strikes that would kill others. You gain the f
 
 _Prerequisite: Charisma 13 or higher_
 
-You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain [[temporary hit points]] equal to your level + your Charisma modifier. A creature can’t gain temporary hit points from this feat again until it has finished a short or long rest.
+You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain [[Temporary Hit Points]] equal to your level + your Charisma modifier. A creature can’t gain temporary hit points from this feat again until it has finished a short or long rest.
 
 [[![]]](https://www.dndbeyond.com/attachments/0/667/c61.png)
 
@@ -312,7 +312,7 @@ You have practiced techniques useful in melee combat against spellcasters, gaini
 
 - When a creature within 5 feet of you casts a spell, you can use your reaction to make a melee weapon attack against that creature.
 - When you damage a creature that is concentrating on a spell, that creature has [[disadvantage]] on the saving throw it makes to maintain its concentration.
-- You have [[advantage]] on [[saving throws]] against spells cast by creatures within 5 feet of you.
+- You have [[advantage]] on [[Saving Throws]] against spells cast by creatures within 5 feet of you.
 
 ### Magic Initiate
 
@@ -335,16 +335,16 @@ _Prerequisite: Proficiency with medium armor_
 
 You have practiced moving in medium armor to gain the following benefits:
 
-- Wearing medium armor doesn’t impose [[disadvantage]] on your Dexterity ([[Stealth]]) checks.
+- Wearing medium armor doesn’t impose [[disadvantage]] on your Dexterity ([[4. Resources/_Gameplay/AdventuringRef/Stealth]]) checks.
 - When you wear medium armor, you can add 3, rather than 2, to your AC if you have a Dexterity of 16 or higher.
 
 ### Mobile
 
 You are exceptionally speedy and agile. You gain the following benefits:
 
-- Your [[speed]] increases by 10 feet.
-- When you use the [[Dash]] action, [[difficult terrain]] doesn’t cost you extra movement on that turn.
-- When you make a melee attack against a creature, you don’t provoke [[opportunity attacks]] from that creature for the rest of the turn, whether you hit or not.
+- Your [[Speed]] increases by 10 feet.
+- When you use the [[Dash]] action, [[4. Resources/_Gameplay/CombatRef/Difficult Terrain]] doesn’t cost you extra movement on that turn.
+- When you make a melee attack against a creature, you don’t provoke [[Opportunity Attacks]] from that creature for the rest of the turn, whether you hit or not.
 
 ### Moderately Armored
 
@@ -357,7 +357,7 @@ You have trained to master the use of medium armor and shields, gaining the foll
 
 ### Mounted Combatant
 
-You are a dangerous foe to face while mounted. While you are mounted and aren’t [[incapacitated]], you gain the following benefits:
+You are a dangerous foe to face while mounted. While you are mounted and aren’t [[Incapacitated]], you gain the following benefits:
 
 - You have [[advantage]] on melee attack rolls against any unmounted creature that is smaller than your mount.
 - You can force an attack targeted at your mount to target you instead.
@@ -393,7 +393,7 @@ You have learned a number of spells that you can cast as rituals. These spells a
 
 When you choose this feat, you acquire a ritual book holding two 1st-level spells of your choice. Choose one of the following classes: bard, cleric, druid, sorcerer, warlock, or wizard. You must choose your spells from that class’s spell list, and the spells you choose must have the ritual tag. The class you choose also determines your spellcasting ability for these spells: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
 
-If you come across a spell in written form, such as a magical [[spell scroll]] or a wizard’s spellbook, you might be able to add it to your ritual book. The spell must be on the spell list for the class you chose, the spell’s level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.
+If you come across a spell in written form, such as a magical [[Spell Scroll]] or a wizard’s spellbook, you might be able to add it to your ritual book. The spell must be on the spell list for the class you chose, the spell’s level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.
 
 [[![]]](https://www.dndbeyond.com/attachments/0/666/c62.png)
 
@@ -405,8 +405,8 @@ Once per turn when you roll damage for a melee weapon attack, you can reroll the
 
 You have mastered techniques to take advantage of every drop in any enemy’s guard, gaining the following benefits:
 
-- When you hit a creature with an [[opportunity attack]], the creature’s [[speed]] becomes 0 for the rest of the turn.
-- Creatures provoke [[opportunity attacks]] from you even if they take the [[Disengage]] action before leaving your reach.
+- When you hit a creature with an [[opportunity attack]], the creature’s [[Speed]] becomes 0 for the rest of the turn.
+- Creatures provoke [[Opportunity Attacks]] from you even if they take the [[Disengage]] action before leaving your reach.
 - When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn’t have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.
 
 ### Sharpshooter
@@ -414,7 +414,7 @@ You have mastered techniques to take advantage of every drop in any enemy’s gu
 You have mastered ranged weapons and can make shots that others find impossible. You gain the following benefits:
 
 - Attacking at long range doesn’t impose [[disadvantage]] on your ranged weapon attack rolls.
-- Your ranged weapon attacks ignore [[half cover]] and [[three-quarters cover]].
+- Your ranged weapon attacks ignore [[Half Cover]] and [[Three-Quarters Cover]].
 - Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a –5 penalty to the attack roll. If the attack hits, you add +10 to the attack’s damage.
 
 ### Shield Master
@@ -422,7 +422,7 @@ You have mastered ranged weapons and can make shots that others find impossible.
 You use shields not just for protection but also for offense. You gain the following benefits while you are wielding a shield:
 
 - If you take the [[Attack]] action on your turn, you can use a bonus action to try to shove a creature within 5 feet of you with your shield.
-- If you aren’t [[incapacitated]], you can add your shield’s [[AC]] bonus to any Dexterity saving throw you make against a spell or other harmful effect that targets only you.
+- If you aren’t [[Incapacitated]], you can add your shield’s [[AC]] bonus to any Dexterity saving throw you make against a spell or other harmful effect that targets only you.
 - If you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can use your reaction to take no damage if you succeed on the saving throw, interposing your shield between yourself and the source of the effect.
 
 ### Skilled
@@ -435,7 +435,7 @@ _Prerequisite: Dexterity 13 or higher_
 
 You are expert at slinking through shadows. You gain the following benefits:
 
-- You can try to [[hide]] when you are [[lightly obscured]] from the creature from which you are hiding.
+- You can try to [[Hide]] when you are [[lightly obscured]] from the creature from which you are hiding.
 - When you are hidden from a creature and miss it with a ranged weapon attack, making the attack doesn’t reveal your position.
 - Dim light doesn’t impose [[disadvantage]] on your Wisdom ([[Perception]]) checks relying on sight.
 
@@ -446,7 +446,7 @@ _Prerequisite: The ability to cast at least one spell_
 You have learned techniques to enhance your attacks with certain kinds of spells, gaining the following benefits:
 
 - When you cast a spell that requires you to make an attack roll, the spell’s range is doubled.
-- Your ranged spell attacks ignore [[half cover]] and [[three-quarters cover]].
+- Your ranged spell attacks ignore [[Half Cover]] and [[Three-Quarters Cover]].
 - You learn one cantrip that requires an attack roll. Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard spell list. Your spellcasting ability for this cantrip depends on the spell list you chose from: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
 
 ### Tavern Brawler
