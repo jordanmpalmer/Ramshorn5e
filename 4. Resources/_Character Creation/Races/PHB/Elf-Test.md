@@ -1,1 +1,0 @@
-![[Ch. 2 - Races#Elf]]

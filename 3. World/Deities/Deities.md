@@ -1,5 +1,5 @@
 # Deities
 ```dataview
 list
-where tags = "god" and aliases != "template"
+where icon = "deity" and aliases != "template"
 ```

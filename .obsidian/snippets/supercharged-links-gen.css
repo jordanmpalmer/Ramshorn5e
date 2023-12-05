@@ -258,13 +258,13 @@ div[data-id="8c30-5027"] div.setting-item-description::after,
 }
 
 div[data-id="7717-a3e0"] div.setting-item-description,
-[data-link-tags="god"  i] {
+[data-link-icon="deity"  i] {
     color: var(--7717-a3e0-color) !important;
     font-weight: var(--7717-a3e0-weight);
 }
 
 .c-7717-a3e0-use-background div[data-id="7717-a3e0"] div.setting-item-description,
-.c-7717-a3e0-use-background .data-link-text[data-link-tags="god"  i] {
+.c-7717-a3e0-use-background .data-link-text[data-link-icon="deity"  i] {
     background-color: var(--7717-a3e0-background-color) !important;
     border-radius: 5px;
     padding-left: 2px;
@@ -273,12 +273,12 @@ div[data-id="7717-a3e0"] div.setting-item-description,
 }
 
 div[data-id="7717-a3e0"] div.setting-item-description::before,
-.data-link-icon[data-link-tags="god"  i]::before {
+.data-link-icon[data-link-icon="deity"  i]::before {
     content: var(--7717-a3e0-before);
 }
 
 div[data-id="7717-a3e0"] div.setting-item-description::after,
-.data-link-icon-after[data-link-tags="god"  i]::after {
+.data-link-icon-after[data-link-icon="deity"  i]::after {
     content: var(--7717-a3e0-after);
 }
 
@@ -825,7 +825,7 @@ settings:
         default: '#ffffff'
     - 
         id: 7717-a3e0
-        title: tags is god
+        title: icon is deity
         description: Example note
         type: heading
         collapsed: true

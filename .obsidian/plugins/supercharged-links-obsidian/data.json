@@ -100,8 +100,8 @@
     },
     {
       "type": "attribute",
-      "name": "tags",
-      "value": "god",
+      "name": "icon",
+      "value": "deity",
       "matchCaseSensitive": false,
       "match": "exact",
       "uid": "7717-a3e0",

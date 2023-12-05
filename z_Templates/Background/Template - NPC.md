@@ -1,19 +1,20 @@
 ---
 name: 
 aliases: 
-pronouns: Unknown
-age: Unknown
-race: Unknown
-class: Unknown
-languages: Unknown
-location: Unknown
-connections: Unknown
-group: Unknown
-religion:
-alignment: Unknown
-party-alignment: Unknown
+pronouns: 
+age: 
+race: 
+class: 
+languages: 
+location: 
+connections: 
+group: 
+religion: 
+alignment: 
+party-alignment: 
 pc-bond: None
-tags: NPC
+tags:
+  - NPC
 icon: npc
 ---
 > [!infobox]

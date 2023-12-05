@@ -1,40 +1,27 @@
 ---
-name: Parvius
+name: 
+- Parvius
 aliases: 
-pronouns: He/Him
-age: Unknown
-race: Unknown
-class: Unknown
-languages: Unknown
-location: "[[Regatia]]"
-connections: "[[Cedrick Ballard|Cedrick Ballard]]"
-group: "[[The Magebreaker Initiative]]"
+pronouns: 
+- He/Him
+age: 
+race: 
+class: 
+languages: 
+location: 
+- "[[Regatia]]"
+connections:
+  - "[[Cedrick Ballard|Cedrick Ballard]]"
+group: 
+- "[[The Magebreaker Initiative]]"
 religion: 
-alignment: Unknown
-party-alignment: Friend
-pc-bond: "[[Cedrick Ballard|Cedrick Ballard]]"
+alignment: 
+party-alignment: 
+- Friend
+pc-bond: 
+- "[[Cedrick Ballard|Cedrick Ballard]]"
 tags:
   - PC_NPC
-icon: npc
----
-
-
----
-name: 
-aliases: 
-pronouns: Unknown
-age: Unknown
-race: Unknown
-class: Unknown
-languages: Unknown
-location: Unknown
-connections: Unknown
-group: Unknown
-religion:
-alignment: Unknown
-party-alignment: Unknown
-pc-bond: None
-tags: PC_NPC
 icon: npc
 ---
 > [!infobox]

@@ -36,7 +36,7 @@ icon: pc
 > | ---- | ---- |
 > | Pronouns | `=this.pronouns` |
 > | Age | `=this.age` |
-> |  Race | `=this.race` \| `=this.sub-race`|
+> |  Race | `=this.race` |
 > |  Class    | `=this.class` \| `=this.sub-class`   |
 > | Player | `=this.player` |
 > | Location | `=this.location` |

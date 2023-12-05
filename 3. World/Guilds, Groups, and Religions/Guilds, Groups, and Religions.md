@@ -68,6 +68,10 @@ columns:
       - { label: "[[3. Background/Places/Minastria.md|Minastria]]", value: "[[3. Background/Places/Minastria.md|Minastria]]", color: "hsl(274, 95%, 90%)"}
       - { label: "[[3. Background/Places/Regatia.md|Regatia]]", value: "[[3. Background/Places/Regatia.md|Regatia]]", color: "hsl(144, 95%, 90%)"}
       - { label: "[[3. Background/Places/Ramshorn.md|Ramshorn]]", value: "[[3. Background/Places/Ramshorn.md|Ramshorn]]", color: "hsl(35, 95%, 90%)"}
+      - { label: "[[3. World/Places/Minastria/Mirage Oasis.md|Mirage Oasis]]", value: "[[3. World/Places/Minastria/Mirage Oasis.md|Mirage Oasis]]", color: "hsl(44, 95%, 90%)"}
+      - { label: "[[3. World/Places/Minastria/Minastria.md|Minastria]]", value: "[[3. World/Places/Minastria/Minastria.md|Minastria]]", color: "hsl(55, 95%, 90%)"}
+      - { label: "[[3. World/Places/Agrevar/Regatia.md|Regatia]]", value: "[[3. World/Places/Agrevar/Regatia.md|Regatia]]", color: "hsl(194, 95%, 90%)"}
+      - { label: "[[3. World/Places/Minastria/Ramshorn.md|Ramshorn]]", value: "[[3. World/Places/Minastria/Ramshorn.md|Ramshorn]]", color: "hsl(35, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
