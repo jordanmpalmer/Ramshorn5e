@@ -2,15 +2,15 @@
 name: Gundren
 aliases: 
 pronouns: He/Him
-age: Unknown
+age: 
 race: "[[Human]]"
-class: Unknown
-languages: Unknown
+class: 
+languages: 
 location: "[[Ramshorn]]"
 connections: "[[Ramshorn#The Steamheart Foundry|The Steamheart Foundry]]"
-group: Unknown
+group: 
 religion: 
-alignment: Unknown
+alignment: 
 party-alignment: Neutral
 pc-bond: None
 tags:

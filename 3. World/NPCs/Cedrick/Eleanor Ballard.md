@@ -3,16 +3,16 @@ name: Eleanor Ballard
 aliases:
   - Eleanor
 pronouns: She/Her
-age: Unknown
-race: Unknown
-class: Unknown
-languages: Unknown
-location: Unknown
+age: 
+race: 
+class: 
+languages: 
+location: 
 connections: "[[Cedrick Ballard|Cedrick Ballard]]"
-group: Unknown
+group: 
 religion: 
-alignment: Unknown
-party-alignment: Unknown
+alignment: 
+party-alignment: 
 pc-bond: "[[Cedrick Ballard|Cedrick Ballard]]"
 tags:
   - PC_NPC
@@ -20,7 +20,7 @@ icon: npc
 ---
 > [!infobox]
 > # `=this.name` 
-> ![[image.png|cover 200]]
+> ![[NPC_Placeholder.png|cover 200]]
 > ###### Basic Information
 > | Type | Stat |
 > | ---- | ---- |

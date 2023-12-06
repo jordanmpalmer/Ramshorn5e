@@ -1,0 +1,38 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-note
+---
+# Index of Construct
+
+- [Animated Armor](animated-armor.md)
+- [Animated Object (Huge)](animated-object-huge.md)
+- [Animated Object (Large)](animated-object-large.md)
+- [Animated Object (Medium)](animated-object-medium.md)
+- [Animated Object (Small)](animated-object-small.md)
+- [Animated Object (Tiny)](animated-object-tiny.md)
+- [Clay Golem](clay-golem.md)
+- [Construct Spirit (4th-level Spell)](construct-spirit-4th-level-spell-tce.md)
+- [Construct Spirit (5th-level Spell)](construct-spirit-5th-level-spell-tce.md)
+- [Construct Spirit (6th-level Spell)](construct-spirit-6th-level-spell-tce.md)
+- [Construct Spirit (7th-level Spell)](construct-spirit-7th-level-spell-tce.md)
+- [Construct Spirit (8th-level Spell)](construct-spirit-8th-level-spell-tce.md)
+- [Construct Spirit (9th-level Spell)](construct-spirit-9th-level-spell-tce.md)
+- [Dancing Item](dancing-item-tce.md)
+- [Duodrone](duodrone.md)
+- [Flesh Golem](flesh-golem.md)
+- [Flying Sword](flying-sword.md)
+- [Helmed Horror](helmed-horror.md)
+- [Homunculus Servant](homunculus-servant-tce.md)
+- [Homunculus](homunculus.md)
+- [Iron Golem](iron-golem.md)
+- [Mighty Servant of Leuk-o](mighty-servant-of-leuk-o-tce.md)
+- [Monodrone](monodrone.md)
+- [Pentadrone](pentadrone.md)
+- [Quadrone](quadrone.md)
+- [Rug of Smothering](rug-of-smothering.md)
+- [Scarecrow](scarecrow.md)
+- [Shield Guardian](shield-guardian.md)
+- [Steel Defender](steel-defender-tce.md)
+- [Stone Golem](stone-golem.md)
+- [Tiny Servant](tiny-servant-xge.md)
+- [Tridrone](tridrone.md)

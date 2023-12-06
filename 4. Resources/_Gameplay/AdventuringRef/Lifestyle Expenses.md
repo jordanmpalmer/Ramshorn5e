@@ -1,1 +1,0 @@
-![[Adventuring#Lifestyle Expenses]]

@@ -2,15 +2,15 @@
 name: The Elder
 aliases: 
 pronouns: He/Him
-age: Unknown
-race: Unknown
-class: Unknown
-languages: Unknown
+age: 
+race: 
+class: 
+languages: 
 location: "[[Ramshorn]]"
-connections: Unknown
-group: Unknown
+connections: 
+group: 
 religion:
-alignment: Unknown
+alignment: 
 party-alignment: Friend
 pc-bond: None
 tags: NPC
@@ -18,7 +18,7 @@ icon: npc
 ---
 > [!infobox]
 > # `=this.name` 
-> ![[image.png|cover 200]]
+> ![[NPC_Placeholder.png|cover 200]]
 > ###### Basic Information
 > | Type | Stat |
 > | ---- | ---- |

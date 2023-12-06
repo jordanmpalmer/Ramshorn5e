@@ -1,1 +1,0 @@
-![[Adventuring#Vision and Light]]

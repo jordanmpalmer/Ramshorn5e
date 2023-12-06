@@ -3,15 +3,15 @@ name: Obsidian Kane
 aliases:
   - Obsidian
 pronouns: He/Him
-age: Unknown
-race: Unknown
-class: Unknown
-languages: Unknown
+age: 
+race: 
+class: 
+languages: 
 location: "[[Regatia]]"
 connections: "[[Cedrick Ballard|Cedrick Ballard]]"
 group: "[[The Magebreaker Initiative]]"
 religion: 
-alignment: Unknown
+alignment: 
 party-alignment: Friend
 pc-bond: "[[Cedrick Ballard|Cedrick Ballard]]"
 tags:
@@ -20,7 +20,7 @@ icon: npc
 ---
 > [!infobox]
 > # `=this.name` 
-> ![[image.png|cover 200]]
+> ![[NPC_Placeholder.png|cover 200]]
 > ###### Basic Information
 > | Type | Stat |
 > | ---- | ---- |

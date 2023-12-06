@@ -10,11 +10,11 @@ population:
 govt-type: 
 races: 
 religions: 
-groups: 
-- "[[Cult of the Choir]]"
+groups:
+  - "[[Cult of the Choir]]"
 tags:
   - location
-icon: location
+icon: region
 ---
 > [!infobox]
 > # `=this.name`

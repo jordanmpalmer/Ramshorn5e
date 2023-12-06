@@ -1,1 +1,0 @@
-![[Combat#Damage and Healing]]

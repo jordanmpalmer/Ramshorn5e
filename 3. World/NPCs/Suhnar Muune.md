@@ -3,15 +3,15 @@ name: Suhnar Muune
 aliases:
   - Suhnar
 pronouns: He/Him
-age: Unknown
-race: Unknown
-class: Unknown
-languages: Unknown
+age: 
+race: 
+class: 
+languages: 
 location: "[[Minastria]]"
-connections: Unknown
-group: Unknown
+connections: 
+group: 
 religion: 
-alignment: Unknown
+alignment: 
 party-alignment: Neutral
 pc-bond: None
 tags:

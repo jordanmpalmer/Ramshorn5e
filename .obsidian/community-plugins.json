@@ -7,7 +7,6 @@
   "templater-obsidian",
   "new-tab-default-page",
   "obsidian-git",
-  "image-window",
   "fantasy-calendar",
   "obsidian-custom-frames",
   "obsidian-dice-roller",
@@ -20,8 +19,10 @@
   "alx-folder-note",
   "obsidian-banners",
   "obsidian-import-json",
-  "workspaces-plus",
   "aprils-automatic-timelines",
   "settings-search",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "obsidian-meta-bind-plugin",
+  "obsidian-admonition",
+  "obsidian-view-mode-by-frontmatter"
 ]

@@ -1,1 +1,0 @@
-![[Combat#Use an Object]]

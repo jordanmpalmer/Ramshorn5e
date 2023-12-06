@@ -18,7 +18,7 @@ imports:
 exports: 
 tags:
   - location
-icon: location
+icon: region
 ---
 > [!infobox]
 > # `=this.name`

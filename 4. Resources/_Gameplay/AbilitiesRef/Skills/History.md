@@ -1,2 +1,0 @@
-![[Abilities#^history\|History]]
-

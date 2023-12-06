@@ -1,0 +1,36 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-note
+---
+# Index of Elemental
+
+- [Air Elemental](air-elemental.md)
+- [Azer](azer.md)
+- [Dao](dao.md)
+- [Djinni](djinni.md)
+- [Dust Mephit](dust-mephit.md)
+- [Earth Elemental](earth-elemental.md)
+- [Efreeti](efreeti.md)
+- [Elemental Spirit (4th-level Spell)](elemental-spirit-4th-level-spell-tce.md)
+- [Elemental Spirit (5th-level Spell)](elemental-spirit-5th-level-spell-tce.md)
+- [Elemental Spirit (6th-level Spell)](elemental-spirit-6th-level-spell-tce.md)
+- [Elemental Spirit (7th-level Spell)](elemental-spirit-7th-level-spell-tce.md)
+- [Elemental Spirit (8th-level Spell)](elemental-spirit-8th-level-spell-tce.md)
+- [Elemental Spirit (9th-level Spell)](elemental-spirit-9th-level-spell-tce.md)
+- [Fire Elemental](fire-elemental.md)
+- [Fire Snake](fire-snake.md)
+- [Galeb Duhr](galeb-duhr.md)
+- [Gargoyle](gargoyle.md)
+- [Ice Mephit](ice-mephit.md)
+- [Invisible Stalker](invisible-stalker.md)
+- [Magma Mephit](magma-mephit.md)
+- [Magmin](magmin.md)
+- [Marid](marid.md)
+- [Mud Mephit](mud-mephit.md)
+- [Salamander](salamander.md)
+- [Smoke Mephit](smoke-mephit.md)
+- [Steam Mephit](steam-mephit.md)
+- [Water Elemental](water-elemental.md)
+- [Water Weird](water-weird.md)
+- [Wildfire Spirit](wildfire-spirit-tce.md)
+- [Xorn](xorn.md)

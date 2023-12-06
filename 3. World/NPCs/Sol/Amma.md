@@ -2,16 +2,16 @@
 name: Amma
 aliases: 
 pronouns: She/Her
-age: Unknown
-race: Unknown
-class: Unknown
-languages: Unknown
-location: Unknown
+age: 
+race: 
+class: 
+languages: 
+location: 
 connections: "[[Sol Siofra|Sol Siofra]]"
-group: Unknown
+group: 
 religion: 
-alignment: Unknown
-party-alignment: Unknown
+alignment: 
+party-alignment: 
 pc-bond: "[[Sol Siofra|Sol Siofra]]"
 tags:
   - PC_NPC
@@ -19,7 +19,7 @@ icon: npc
 ---
 > [!infobox]
 > # `=this.name` 
-> ![[image.png|cover 200]]
+> ![[NPC_Placeholder.png|cover 200]]
 > ###### Basic Information
 > | Type | Stat |
 > | ---- | ---- |

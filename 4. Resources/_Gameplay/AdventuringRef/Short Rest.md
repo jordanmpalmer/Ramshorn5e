@@ -1,2 +1,0 @@
-![[Adventuring#Short Rest]]
-

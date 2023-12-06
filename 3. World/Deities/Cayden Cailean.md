@@ -82,7 +82,7 @@ Cayden Cailean makes a point of avoiding trouble with his peers as much as possi
 
 ### Warm relationships
 
-Cailean particularly favors [[Desna]], [[Sarenrae]], and [[Shelyn]] (whom he enjoys serenading).[[6]] [[Torag]] shares the Lucky Drunk's love of ale, and the two have been known to compare [[human]] and dwarven brews on occasion.[[2]] Cayden also has a strong tie to the Taldan god [[Kurgess]], whom legend claims was raised to godhood by Cayden and Desna himself.[[7]] Cayden is allied with [[Milani]] as well.[[8]] Both former mortals share similar views regarding personal freedom and his herald, [[Thais]], uses a [[halberd]] borrowed from the [[half-elven]] goddess.[[9]]
+Cailean particularly favors [[Desna]], [[Sarenrae]], and [[Shelyn]] (whom he enjoys serenading).[[6]] [[Torag]] shares the Lucky Drunk's love of ale, and the two have been known to compare [[Human]] and dwarven brews on occasion.[[2]] Cayden also has a strong tie to the Taldan god [[Kurgess]], whom legend claims was raised to godhood by Cayden and Desna himself.[[7]] Cayden is allied with [[Milani]] as well.[[8]] Both former mortals share similar views regarding personal freedom and his herald, [[Thais]], uses a [[halberd]] borrowed from the [[half-elven]] goddess.[[9]]
 
 The god Aroden respected Cayden because of the special way he had overcome the challenges of the _Starstone_.[[10]]
 
@@ -114,7 +114,7 @@ Before rising to the status of Herald of the Accidental God, Thais was a prostit
 
 [[Valon, the Spirit of Spirits]]")
 
-A goodly priest and historian who was killed in battle, this [[ghost]] insists that beer is the greatest of mankind's innovations. Valon dearly misses the body he once had, and readily accepts the opportunity to possess an individual and once again experience the world of the living in exchange for his assistance.[[2]]
+A goodly priest and historian who was killed in battle, this [[Ghost]] insists that beer is the greatest of mankind's innovations. Valon dearly misses the body he once had, and readily accepts the opportunity to possess an individual and once again experience the world of the living in exchange for his assistance.[[2]]
 
 ## Church of Cayden Cailean
 

@@ -5,9 +5,9 @@ aliases:
 player: Matt
 pronouns: He/Him
 age: 17
-race: "[[Human]]"
+race: "[[human|Human]]"
 sub-race:
-class: "[[Fighter]]"
+class: "[[fighter|Fighter]]"
 sub-class: "[[Exemplar]]"
 level: 6
 languages: 

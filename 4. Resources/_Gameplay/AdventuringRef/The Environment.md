@@ -1,1 +1,0 @@
-![[Adventuring#The Environment]]

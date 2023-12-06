@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "c62185daae0db428",
+    "type": "split",
+    "children": [
+      {
+        "id": "255c44b7d3d99ee6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e55de180dd584d47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template - NPC Main.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2cb63f1784d1b6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "93827c9d8e089f4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fde09fe7e29cbae8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40b158a1d0e87dc2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14e4ce51956bdbba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9868c833ae26b73b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b38e3a335e428624",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37d8614b4a5c92d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Template - NPC Main.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0f77456b59baf30",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Template - NPC Main.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d6777ea5d6a364d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "52afbece98db6d6d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Template - NPC Main.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e55de180dd584d47",
+  "lastOpenFiles": [
+    "NPC_Placeholder.png",
+    "Template - NPC Main.md",
+    "z_Assets/Misc/ImagePlaceholder.png.md",
+    "z_Assets/Misc",
+    "z_Assets",
+    "2. Aeonia/Aster/Countries & Regions/Shadowkeep of Aster/Shadowkeep of Aster.md",
+    "2. Aeonia/Aster/Countries & Regions/Shadowkeep of Aster",
+    "2. Aeonia/Aster/Countries & Regions",
+    "2. Aeonia/Aster",
+    "2. Aeonia"
+  ]
+}

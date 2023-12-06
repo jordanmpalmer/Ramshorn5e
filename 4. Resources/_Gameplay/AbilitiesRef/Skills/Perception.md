@@ -1,2 +1,0 @@
-![[Abilities#^perception\|Perception]]
-

@@ -4,9 +4,10 @@
     "clean-embeds",
     "hide-embedded-header",
     "supercharged-links-gen",
-    "Background Color"
+    "Background Color",
+    "dnd5e-compendium"
   ],
   "cssTheme": "ITS Theme",
   "theme": "moonstone",
-  "baseFontSize": 15
+  "baseFontSize": 14
 }

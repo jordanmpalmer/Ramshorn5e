@@ -1,1 +1,0 @@
-![[Abilities#Typical Difficulty Classes]]

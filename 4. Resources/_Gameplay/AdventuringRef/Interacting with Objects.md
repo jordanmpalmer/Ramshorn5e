@@ -1,2 +1,0 @@
-![[Adventuring#Interacting with Objects]]
-

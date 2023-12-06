@@ -1,1 +1,0 @@
-![[Combat#Half Cover]]

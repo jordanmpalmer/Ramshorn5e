@@ -83,7 +83,7 @@ During the [[Age of Anguish]], her faithful living in nearby [[Ninshabur]] mi
 
 ## Home
 
-Sarenrae's realm of [[Everlight]] appears as a sun hanging at high noon in the sky of [[Nirvana]]. Her servitors gather there to plan their crusades without fear of espionage, as those who seek do do [[evil]] are banned from the realm. Sarenrae occasionally takes [[human]] form to walk the streets of [[High Ninshabur]], learning from the less fortunate and reminding herself of her responsibility to care for the [[Great Beyond]].[[11]][[12]]
+Sarenrae's realm of [[Everlight]] appears as a sun hanging at high noon in the sky of [[Nirvana]]. Her servitors gather there to plan their crusades without fear of espionage, as those who seek do do [[evil]] are banned from the realm. Sarenrae occasionally takes [[Human]] form to walk the streets of [[High Ninshabur]], learning from the less fortunate and reminding herself of her responsibility to care for the [[Great Beyond]].[[11]][[12]]
 
 ## Appearance
 
@@ -123,7 +123,7 @@ Charlabu is a gold-colored [[hound archon]] that often appears in a canine for
 
 [[Mystmorning]]")
 
-This servant of the Dawnflower is an intelligent animated blade and possesses the same powers as that of a [[celestial]] [[unicorn]].[[13]]
+This servant of the Dawnflower is an intelligent animated blade and possesses the same powers as that of a [[celestial]] [[Unicorn]].[[13]]
 
 [[Sunlord Thalachos]]
 
@@ -164,7 +164,7 @@ _Main article: [[Dawnflower anchorite]]_
 
 The Dawnflower anchorite travels throughout the wilderness, fighting [[evil]] and offering redemption, while devoting herself to the greatest of Sarenrae's blessings: the sun.[[31]]
 
-Anchorites focus their studies on a personal credence through which they develop and express their faith, whether it takes the form of generating magical light or flaming [[weapons]].[[31]]
+Anchorites focus their studies on a personal credence through which they develop and express their faith, whether it takes the form of generating magical light or flaming [[Weapons]].[[31]]
 
 #### Blossoming light
 
@@ -192,4 +192,4 @@ Gods are often associated with certain [[animals]], either because they possess
 
 ## Organizations
 
-The [[Dawn Vigil]]") is a small band of Sarenite paladins who guard the Katapeshi town of [[Solku]] from [[gnoll]] attacks.[[37]]
+The [[Dawn Vigil]]") is a small band of Sarenite paladins who guard the Katapeshi town of [[Solku]] from [[Gnoll]] attacks.[[37]]

@@ -5,8 +5,8 @@ aliases:
 player: Jordan
 pronouns: He/Him
 age: 121
-race: "[[Elf]]"
-sub-race: "[[Elf#High Elf|High Elf]]"
+race: "[[elf|Elf]]"
+sub-race: "[[elf-high|High Elf]]"
 class: "[[Rogue]]"
 sub-class: "[[Infiltrator]]"
 level: 6

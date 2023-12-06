@@ -3,16 +3,16 @@ name: Calindra Solberg
 aliases:
   - Calindra
 pronouns: She/Her
-age: Unknown
-race: Unknown
-class: Unknown
-languages: Unknown
-location: Unknown
+age: 
+race: 
+class: 
+languages: 
+location: 
 connections: "[[Dramus Ardor|Dramus Ardor]]"
-group: Unknown
+group: 
 religion: 
-alignment: Unknown
-party-alignment: Unknown
+alignment: 
+party-alignment: 
 pc-bond: "[[Dramus Ardor|Dramus Ardor]]"
 tags:
   - PC_NPC
@@ -20,7 +20,7 @@ icon: npc
 ---
 > [!infobox]
 > # `=this.name` 
-> ![[image.png|cover 200]]
+> ![[NPC_Placeholder.png|cover 200]]
 > ###### Basic Information
 > | Type | Stat |
 > | ---- | ---- |

@@ -1,17 +1,17 @@
 ---
 name: 
 aliases: 
-pronouns: Unknown
-age: Unknown
-race: Unknown
-class: Unknown
-languages: Unknown
+pronouns: 
+age: 
+race: 
+class: 
+languages: 
 location: "[[Regatia]]"
-connections: Unknown
-group: Unknown
+connections: 
+group: 
 religion: 
-alignment: Unknown
-party-alignment: Unknown
+alignment: 
+party-alignment: 
 pc-bond: None
 tags:
   - NPC
@@ -19,7 +19,7 @@ icon: npc
 ---
 > [!infobox]
 > # `=this.name` 
-> ![[image.png|cover 200]]
+> ![[NPC_Placeholder.png|cover 200]]
 > ###### Basic Information
 > | Type | Stat |
 > | ---- | ---- |

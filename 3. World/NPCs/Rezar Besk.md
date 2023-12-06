@@ -4,15 +4,15 @@ aliases:
   - The Psion
   - Rezar
 pronouns: He/Him
-age: Unknown
-race: Unknown
-class: Unknown
-languages: Unknown
+age: 
+race: 
+class: 
+languages: 
 location: "[[Minastria]]"
 connections: "[[Suhnar Muune]]"
 group: "[[The Reclaimers]]"
 religion: 
-alignment: Unknown
+alignment: 
 party-alignment: Neutral
 pc-bond: None
 tags:

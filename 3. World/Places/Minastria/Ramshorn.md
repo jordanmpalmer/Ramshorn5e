@@ -60,9 +60,8 @@ icon: location
 > | Imports | `=this.imports` |
 > | Exports | `=this.exports` |
 > | Major Industry | `=this.major-industry`
-> ---
 
-> [!SUMMARY]+ Table of Contents
+> [!SUMMARY]- Table of Contents
 > 1. [[Ramshorn#The Draw to Adventure|The Draw to Adventure]]
 > 2. [[Ramshorn#The Caverns of Chaos|The Caverns of Chaos]]
 > 3. [[Ramshorn#The Tomb of the Lich King|The Tomb of the Lich King]]

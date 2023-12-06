@@ -1,2 +1,0 @@
-![[Abilities#^arcana\|Arcana]]
-

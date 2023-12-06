@@ -1,2 +1,0 @@
-![[Abilities#^intimidation\|Intimidation]]
-

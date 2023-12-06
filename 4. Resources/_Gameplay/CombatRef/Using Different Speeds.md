@@ -1,1 +1,0 @@
-![[Combat#Using Different Speeds]]

@@ -4,15 +4,15 @@ aliases:
   - Theo
   - Amelia
 pronouns: They/Them
-age: Unknown
-race: Unknown
-class: Unknown
-languages: Unknown
-location: Unknown
+age: 
+race: 
+class: 
+languages: 
+location: 
 connections: "[[Zion Dawnbreak|Zion Dawnbreak]]"
-group: Unknown
+group: 
 religion: 
-alignment: Unknown
+alignment: 
 party-alignment: Friend
 pc-bond: "[[Zion Dawnbreak|Zion Dawnbreak]]"
 tags:
@@ -21,7 +21,7 @@ icon: npc
 ---
 > [!infobox]
 > # `=this.name` 
-> ![[image.png|cover 200]]
+> ![[NPC_Placeholder.png|cover 200]]
 > ###### Basic Information
 > | Type | Stat |
 > | ---- | ---- |

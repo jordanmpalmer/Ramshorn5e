@@ -1,11 +1,11 @@
 ---
 name: Breovo
 aliases: 
-pronouns: Unknown
-age: Unknown
+pronouns: 
+age: 
 race: Dragon
-class: Unknown
-languages: Unknown
+class: 
+languages: 
 location: "[[Minastria]]"
 connections: "[[Suhnar Muune]]"
 group: "[[The Reclaimers]]"
