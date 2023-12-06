@@ -11,7 +11,7 @@ connections:
 group: 
 religion: 
 alignment: 
-party-alignment: 
+party-alignment: Unknown
 pc-bond: None
 tags:
   - NPC

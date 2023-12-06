@@ -84,7 +84,7 @@ columns:
     key: group
     id: group
     label: group
-    position: 4
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -97,6 +97,7 @@ columns:
       - { label: "The Sheperds", value: "[[The Sheperds]]", color: "hsl(55, 95%, 90%)"}
       - { label: "[[3. Background/Guilds and Groups/The Reclaimers.md|The Reclaimers]]", value: "[[3. Background/Guilds and Groups/The Reclaimers.md|The Reclaimers]]", color: "hsl(310, 95%, 90%)"}
       - { label: "Name of Guild or Group they belong to", value: "Name of Guild or Group they belong to", color: "hsl(17, 95%, 90%)"}
+      - { label: "[[3. World/Guilds+Groups+Religions/The Reclaimers.md|The Reclaimers]]", value: "[[3. World/Guilds+Groups+Religions/The Reclaimers.md|The Reclaimers]]", color: "hsl(64, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -107,30 +108,6 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
-  sex:
-    input: select
-    accessorKey: sex
-    key: sex
-    id: sex
-    label: sex
-    position: 8
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    width: 70
-    options:
-      - { label: "Male", value: "Male", color: "hsl(308, 95%, 90%)"}
-      - { label: "Female", value: "Female", color: "hsl(81, 95%, 90%)"}
-      - { label: "Male or Female or...", value: "Male or Female or...", color: "hsl(352, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   race:
     input: select
     accessorKey: race
@@ -141,9 +118,12 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 79
     options:
       - { label: "Dragon", value: "Dragon", color: "hsl(46, 95%, 90%)"}
       - { label: "Human, Dwarf, Elf, etc", value: "Human, Dwarf, Elf, etc", color: "hsl(325, 95%, 90%)"}
+      - { label: "[[4-Resources/Character Creation/Races/PHB/Human.md|Human]]", value: "[[4-Resources/Character Creation/Races/PHB/Human.md|Human]]", color: "hsl(57, 95%, 90%)"}
+      - { label: "Race", value: "Race", color: "hsl(76, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -165,6 +145,7 @@ columns:
     sortIndex: -1
     options:
       - { label: "Warrior, Wizard, Rogue, etc", value: "Warrior, Wizard, Rogue, etc", color: "hsl(132, 95%, 90%)"}
+      - { label: "Class/Role", value: "Class/Role", color: "hsl(29, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -186,11 +167,10 @@ columns:
     sortIndex: -1
     width: 83
     options:
-      - { label: "Friend", value: "Friend", color: "hsl(20, 95%, 90%)"}
-      - { label: "Foe", value: "Foe", color: "hsl(79, 95%, 90%)"}
-      - { label: "Neutral", value: "Neutral", color: "hsl(54, 95%, 90%)"}
-      - { label: "Unknown", value: "Unknown", color: "hsl(307, 95%, 90%)"}
-      - { label: "friend or foe?", value: "friend or foe?", color: "hsl(98, 95%, 90%)"}
+      - { label: "Friend", value: "Friend", color: "hsl(121,93%,88%)"}
+      - { label: "Foe", value: "Foe", color: "hsl(0,93%,88%)"}
+      - { label: "Neutral", value: "Neutral", color: "hsl(55,100%,87%)"}
+      - { label: "Unknown", value: "Unknown", color: "hsl(184,20%,68%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -200,13 +180,14 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      option_source: manual
   location:
     input: select
     accessorKey: location
     key: location
     id: location
     label: location
-    position: 5
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -218,6 +199,9 @@ columns:
       - { label: "[[3. Background/Places/Minastria.md|Minastria]]", value: "[[3. Background/Places/Minastria.md|Minastria]]", color: "hsl(164, 95%, 90%)"}
       - { label: "[[3. Background/Places/Regatia.md|Regatia]]", value: "[[3. Background/Places/Regatia.md|Regatia]]", color: "hsl(236, 95%, 90%)"}
       - { label: "[[3. Background/Places/Ramshorn.md|Ramshorn]]", value: "[[3. Background/Places/Ramshorn.md|Ramshorn]]", color: "hsl(59, 95%, 90%)"}
+      - { label: "[[3. World/Places/Minastria/Ramshorn.md|Ramshorn]]", value: "[[3. World/Places/Minastria/Ramshorn.md|Ramshorn]]", color: "hsl(108, 95%, 90%)"}
+      - { label: "[[3. World/Places/Minastria/Minastria.md|Minastria]]", value: "[[3. World/Places/Minastria/Minastria.md|Minastria]]", color: "hsl(165, 95%, 90%)"}
+      - { label: "[[3. World/Places/Agrevar/Regatia.md|Regatia]]", value: "[[3. World/Places/Agrevar/Regatia.md|Regatia]]", color: "hsl(346, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -242,8 +226,8 @@ config:
   show_metadata_inlinks: false
   show_metadata_outlinks: false
   show_metadata_tags: false
-  source_data: tag
-  source_form_result: "#NPC"
+  source_data: current_folder_without_subfolders
+  source_form_result: 
   source_destination_path: /
   row_templates_folder: /
   current_row_template: 

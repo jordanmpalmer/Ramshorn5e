@@ -12,10 +12,10 @@ population:
 govt-type: 
 races: 
 religions: 
-groups: 
-- "[[The Empire]]"
-- "[[Cult of the Choir]]"
-- "[[The Reclaimers]]"
+groups:
+  - "[[The Empire]]"
+  - "[[Cult of the Choir]]"
+  - "[[The Reclaimers]]"
 tags:
   - location
 icon: planet

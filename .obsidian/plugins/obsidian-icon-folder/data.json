@@ -36,7 +36,6 @@
   "1. Session Notes": "RiTodoFill",
   "9. Misc": "FasDiceD6",
   "3. World/NPCs": "FasMasksTheater",
-  "3. World/Guilds, Groups, and Religions": "FasPeopleGroup",
   "3. World/Deities": "FasStar",
   "3. World/Places": "FasLocationDot",
   "3. World/Places/_Maps": "FasMap",
@@ -56,5 +55,6 @@
   "4-Resources/5. Tools/Lookup Tables": "FasTableList",
   "4-Resources/5. Tools/Randomizers": "FasDiceD20",
   "0. Game Reference": "FasMagnifyingGlass",
-  "1. Session Notes/Timeline": "FasTimeline"
+  "1. Session Notes/Timeline": "FasTimeline",
+  "3. World/Guilds+Groups+Religions": "FasPeopleGroup"
 }

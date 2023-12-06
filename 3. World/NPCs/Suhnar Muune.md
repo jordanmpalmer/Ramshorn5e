@@ -1,7 +1,6 @@
 ---
 name: Suhnar Muune
-aliases:
-  - Suhnar
+aliases: ""
 pronouns: He/Him
 age: 
 race: 

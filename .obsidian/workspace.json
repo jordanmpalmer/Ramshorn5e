@@ -11,247 +11,22 @@
             "id": "f80ed3266e6e9643",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-Resources/Compendium/bestiary/aberration/beholder.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "obsidian-leaflet-map-view",
+              "state": {}
             }
           },
           {
-            "id": "c1a86e14b785a88b",
+            "id": "578bb2eb298db9f6",
             "type": "leaf",
             "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": [
-                [
-                  {
-                    "image": null,
-                    "name": "Acolyte",
-                    "source": [
-                      "Monster Manual",
-                      "Curse of Strahd",
-                      "Hoard of the Dragon Queen",
-                      "Princes of the Apocalypse",
-                      "Storm King's Thunder",
-                      "Tomb of Annihilation",
-                      "Waterdeep: Dragon Heist",
-                      "Ghosts of Saltmarsh",
-                      "Baldur's Gate: Descent Into Avernus",
-                      "Eberron: Rising from the Last War",
-                      "Explorer's Guide to Wildemount",
-                      "Mythic Odysseys of Theros",
-                      "Icewind Dale: Rime of the Frostmaiden",
-                      "Candlekeep Mysteries",
-                      "Critical Role: Call of the Netherdeep",
-                      "JttRC",
-                      "SjA",
-                      "DSotDQ",
-                      "Plane Shift: Innistrad",
-                      "PaBTSO"
-                    ],
-                    "type": "humanoid",
-                    "subtype": "",
-                    "size": "Medium",
-                    "alignment": "any alignment",
-                    "hp": 9,
-                    "hit_dice": "2d8",
-                    "ac": 10,
-                    "speed": "30 ft.",
-                    "stats": [
-                      10,
-                      10,
-                      10,
-                      10,
-                      14,
-                      11
-                    ],
-                    "damage_immunities": "",
-                    "damage_resistances": "",
-                    "damage_vulnerabilities": "",
-                    "condition_immunities": "",
-                    "saves": [],
-                    "skillsaves": [
-                      {
-                        "medicine": "4"
-                      },
-                      {
-                        "religion": "2"
-                      }
-                    ],
-                    "senses": "passive Perception 12",
-                    "languages": "any one language (usually Common)",
-                    "cr": "1/4",
-                    "traits": [],
-                    "actions": [
-                      {
-                        "name": "Club",
-                        "desc": "Melee Weapon Attack +2 to hit, reach 5 ft., one target. 2 (1d4) bludgeoning damage."
-                      }
-                    ],
-                    "bonus_actions": [],
-                    "reactions": [],
-                    "legendary_actions": [],
-                    "mythic_actions": [],
-                    "spells": [
-                      "The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared:",
-                      {
-                        "Cantrips (at will)": "light, sacred flame, thaumaturgy"
-                      },
-                      {
-                        "1st level (3 slots)": "bless, cure wounds, sanctuary"
-                      }
-                    ],
-                    "spellsNotes": ""
-                  },
-                  1
-                ],
-                [
-                  {
-                    "image": null,
-                    "name": "Beholder",
-                    "source": [
-                      "Monster Manual",
-                      "Tomb of Annihilation",
-                      "Waterdeep: Dungeon of the Mad Mage",
-                      "Ghosts of Saltmarsh",
-                      "Eberron: Rising from the Last War",
-                      "Explorer's Guide to Wildemount",
-                      "Tasha's Cauldron of Everything",
-                      "Candlekeep Mysteries",
-                      "JttRC",
-                      "LoX",
-                      "KftGV",
-                      "PaBTSO",
-                      "SatO",
-                      "ToFW",
-                      "BMT"
-                    ],
-                    "type": "aberration",
-                    "subtype": "",
-                    "size": "Large",
-                    "alignment": "lawful or evil",
-                    "hp": 180,
-                    "hit_dice": "19d10 + 76",
-                    "ac": 18,
-                    "speed": "0 ft., fly 20 ft. (hover)",
-                    "stats": [
-                      10,
-                      14,
-                      18,
-                      17,
-                      15,
-                      17
-                    ],
-                    "damage_immunities": "",
-                    "damage_resistances": "",
-                    "damage_vulnerabilities": "",
-                    "condition_immunities": "prone",
-                    "saves": [
-                      {
-                        "intelligence": "8"
-                      },
-                      {
-                        "wisdom": "7"
-                      },
-                      {
-                        "charisma": "8"
-                      }
-                    ],
-                    "skillsaves": [
-                      {
-                        "perception": "12"
-                      }
-                    ],
-                    "senses": "darkvision 120 ft., passive Perception 22",
-                    "languages": "Deep Speech, Undercommon",
-                    "cr": "13",
-                    "traits": [
-                      {
-                        "name": "Antimagic Cone",
-                        "desc": "The beholder's central eye creates an area of antimagic, as in the antimagic field spell, in a 150-foot cone. At the start of each of its turns, the beholder decides which way the cone faces and whether the cone is active. The area works against the beholder's own eye rays."
-                      }
-                    ],
-                    "actions": [
-                      {
-                        "name": "Bite",
-                        "desc": "Melee Weapon Attack +5 to hit, reach 5 ft., one target. 14 (4d6) piercing damage."
-                      },
-                      {
-                        "name": "Eye Rays",
-                        "desc": "The beholder shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:"
-                      },
-                      {
-                        "name": "1. Charm Ray",
-                        "desc": "The targeted creature must succeed on a 16 Wisdom saving throw or be charmed by the beholder for 1 hour, or until the beholder harms the creature."
-                      },
-                      {
-                        "name": "2. Paralyzing Ray",
-                        "desc": "The targeted creature must succeed on a 16 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
-                      },
-                      {
-                        "name": "3. Fear Ray",
-                        "desc": "The targeted creature must succeed on a 16 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
-                      },
-                      {
-                        "name": "4. Slowing Ray",
-                        "desc": "The targeted creature must succeed on a 16 Dexterity saving throw. On a failed save, the target's speed is halved for 1 minute. In addition, the creature can't take reactions, and it can take either an action or a bonus action on its turn, not both. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
-                      },
-                      {
-                        "name": "5. Enervation Ray",
-                        "desc": "The targeted creature must make a 16 Constitution saving throw, taking 36 (8d8) necrotic damage on a failed save, or half as much damage on a successful one."
-                      },
-                      {
-                        "name": "6. Telekinetic Ray",
-                        "desc": "If the target is a creature, it must succeed on a 16 Strength saving throw or the beholder moves it up to 30 feet in any direction. It is restrained by the ray's telekinetic grip until the start of the beholder's next turn or until the beholder is incapacitated.\nIf the target is an object weighing 300 pounds or less that isn't being worn or carried, it is moved up to 30 feet in any direction. The beholder can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or a container."
-                      },
-                      {
-                        "name": "7. Sleep Ray",
-                        "desc": "The targeted creature must succeed on a 16 Wisdom saving throw or fall asleep and remain unconscious for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on constructs and undead."
-                      },
-                      {
-                        "name": "8. Petrification Ray",
-                        "desc": "The targeted creature must make a 16 Dexterity saving throw. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the  greater restoration spell or other magic."
-                      },
-                      {
-                        "name": "9. Disintegration Ray",
-                        "desc": "If the target is a creature, it must succeed on a 16 Dexterity saving throw or take 45 (10d8) force damage. If this damage reduces the creature to 0 hit points, its body becomes a pile of fine gray dust.\nIf the target is a Large or smaller nonmagical object or creation of magical force, it is disintegrated without a saving throw. If the target is a Huge or larger object or creation of magical force, this ray disintegrates a 10-foot cube of it."
-                      },
-                      {
-                        "name": "10. Death Ray",
-                        "desc": "The targeted creature must succeed on a 16 Dexterity saving throw or take 55 (10d10) necrotic damage. The target dies if the ray reduces it to 0 hit points."
-                      }
-                    ],
-                    "bonus_actions": [],
-                    "reactions": [],
-                    "legendary_actions": [
-                      {
-                        "name": "Eye Ray",
-                        "desc": "The beholder uses one random eye ray."
-                      }
-                    ],
-                    "mythic_actions": [],
-                    "spells": [],
-                    "spellsNotes": ""
-                  },
-                  1
-                ]
-              ]
-            }
-          },
-          {
-            "id": "26cd3e8bec36d997",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
+              "type": "kanban",
               "state": {
-                "file": "3. World/Guilds, Groups, and Religions/Guilds, Groups, and Religions.md"
+                "file": "0. Game Reference/0. Game Reference.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -317,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. World/Guilds, Groups, and Religions/Guilds, Groups, and Religions.md",
+                "file": "0. Game Reference/0. Game Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -329,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. World/Guilds, Groups, and Religions/Guilds, Groups, and Religions.md",
+                "file": "0. Game Reference/0. Game Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -381,65 +156,77 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. World/Guilds, Groups, and Religions/Guilds, Groups, and Religions.md"
+                "file": "0. Game Reference/0. Game Reference.md"
               }
+            }
+          },
+          {
+            "id": "57c67ba8e6cd1e3f",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-cedrickframe",
+              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-custom-frames:Open CedrickFrame": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
+      "daily-notes:Open today's daily note": false,
+      "obsidian-custom-frames:Open CedrickFrame": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "dbfolder:Create a new database table": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
-      "obsidian-regex-pipeline:Regex Rulesets": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "templates:Insert template": false,
+      "templater-obsidian:Templater": false,
+      "canvas:Create new canvas": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-regex-pipeline:Regex Rulesets": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "26cd3e8bec36d997",
+  "active": "578bb2eb298db9f6",
   "lastOpenFiles": [
-    "3. World/Deities/Deities.md",
-    "3. World/3. World.md",
     "1. Session Notes/1. Session Notes.md",
     "2. Players/2. Players.md",
+    "3. World/3. World.md",
+    "4-Resources/4-Resources.md",
+    "3. World/Places/Places.md",
+    "3. World/Guilds+Groups+Religions/Guilds+Groups+Religions.md",
+    "3. World/Deities/Deities.md",
+    "3. World/NPCs/NPCs.md",
+    "3. World/NPCs/Breovo.md",
+    "3. World/Deities/Cayden Cailean.md",
+    "3. World/Deities/Sarenrae.md",
+    "3. World/Guilds+Groups+Religions/The Reclaimers.md",
+    "3. World/Guilds+Groups+Religions/The Magebreaker Initiative.md",
+    "3. World/Guilds+Groups+Religions/The Empire.md",
+    "3. World/Guilds+Groups+Religions/Cult of the Choir.md",
+    "3. World/Guilds+Groups+Religions/The Shepherds.md",
+    "3. World/Guilds Groups",
+    "3. World/Untitled.md",
+    "3. World/Guilds, Groups, and Religions/Test.md",
+    "Untitled 1.canvas",
+    "4-Resources/Compendium/bestiary/aberration/beholder.md",
+    "Untitled.canvas",
+    "3. World/Guilds, Groups, and Religions/Guilds, Groups, and Religions.md",
     "2. Players/Cedrick Ballard.md",
     "9. Misc/To Do List.md",
     "9. Misc/Test.md",
     "9. Misc/Other Relevant Links.md",
     "9. Misc/Table of Contents Test.md",
     "9. Misc/Original Sessions.md",
-    "9. Misc/New Tab.md",
-    "9. Misc/Markdown Shortcuts.md",
-    "9. Misc/Experiment Note.md",
-    "9. Misc/Encounters and Statblocks.md",
-    "3. World/Places/_Maps/Encounter and Maps Test.md",
-    "3. World/Places/_Maps/Minastria Regional Map.md",
-    "9. Misc/Encounter and Maps Test 1.md",
-    "3. World/NPCs/The Elder.md",
-    "3. World/NPCs/Suhnar Muune.md",
-    "3. World/NPCs/Sable.md",
-    "3. World/NPCs/Rezar Besk.md",
-    "3. World/NPCs/Gundren.md",
-    "3. World/NPCs/Breovo.md",
-    "3. World/Guilds, Groups, and Religions/The Shepherds.md",
-    "3. World/Guilds, Groups, and Religions/The Reclaimers.md",
-    "3. World/Guilds, Groups, and Religions/The Magebreaker Initiative.md",
     "4-Resources/5. Tools/Meta-Bind",
     "1. Session Notes/Timeline",
     "9. Misc/NPC_Template/2. Aeonia/Aster/Countries & Regions/Shadowkeep of Aster",
@@ -449,7 +236,6 @@
     "9. Misc/NPC_Template/2. Aeonia/Aster/Countries & Regions",
     "9. Misc/NPC_Template/! Optional Font Files/Scaly Sans Caps/Scaly Sans Caps.otf",
     "9. Misc/NPC_Template/! Optional Font Files/Scaly Sans Caps/Scaly Sans Caps Italic.otf",
-    "9. Misc/NPC_Template/! Optional Font Files/Scaly Sans Caps/Scaly Sans Caps Bold.otf",
     "9. Misc/NPC_Template/NPC_Placeholder.png",
     "4-Resources/Compendium/items/img/bag-of-holding.webp",
     "z_Assets/272704618-c28662d9-a5b7-4b84-abed-85f06785ea78.gif",
@@ -460,7 +246,6 @@
     "z_Assets/Cayden_Cailean.png",
     "z_Assets/Rezar_Besk.png",
     "z_Assets/image.png",
-    "4. Mechanics/Classes/Rogue/Untitled.canvas",
-    "Untitled.canvas"
+    "4. Mechanics/Classes/Rogue/Untitled.canvas"
   ]
 }
