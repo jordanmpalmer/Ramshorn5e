@@ -24,5 +24,6 @@
   "obsidian-icon-folder",
   "obsidian-meta-bind-plugin",
   "obsidian-admonition",
-  "obsidian-view-mode-by-frontmatter"
+  "obsidian-view-mode-by-frontmatter",
+  "obsidian-version-history-diff"
 ]
