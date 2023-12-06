@@ -26,7 +26,6 @@ scale: 1
 darkMode: false
 ```
 
----
 
 ```leaflet
 ### Tutorial: [https://youtu.be/54EyMzJP5DU](https://youtu.be/54EyMzJP5DU)
