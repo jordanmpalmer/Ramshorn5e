@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9. Misc/To Do List.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9. Misc/To Do List.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9. Misc/To Do List.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9. Misc/To Do List.md"
+                "file": "README.md"
               }
             }
           },
@@ -190,6 +190,8 @@
   },
   "active": "e17ce51d6f46a33a",
   "lastOpenFiles": [
+    "9. Misc/CLI Commands.md",
+    "9. Misc/To Do List.md",
     "9. Misc/Test.md",
     "9. Misc/Table of Contents Test.md",
     "9. Misc/Other Relevant Links.md",
@@ -228,8 +230,6 @@
     "4-Resources/4-Resources.md",
     "3. World/Places/Places.md",
     "3. World/Guilds+Groups+Religions/Guilds+Groups+Religions.md",
-    "3. World/Deities/Deities.md",
-    "3. World/NPCs/NPCs.md",
     "3. World/Guilds Groups",
     "4-Resources/5. Tools/Meta-Bind",
     "1. Session Notes/Timeline",

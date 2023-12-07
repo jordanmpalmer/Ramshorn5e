@@ -1,24 +1,35 @@
-**/Users/jordanpalmer/Applications/CLI/5eTools/bin/ttrpg-convert**
+# Obsidian Ramshorn Campaign Manager
 
-./ttrpg-convert --index -o live-files -c live-files-sources-templates.json 5etools-mirror-1.github.io/data
+### File Structure
 
-  
+#### 0. Game Reference
 
-./ttrpg-convert \
+Quick reference information to access in-game.
 
-    --index \
+#### 1. Session Notes
 
-    -o dm \
+All session notes as well as an example timeline.
 
-    -s PHB,DMG,MM,XGE,TCE \
+#### 2. Players
 
-    -c dm-sources.json \
+All PC information files.
 
-    5etools-mirror-1.github.io/data \
+#### 3. World
 
-    5etools-mirror-1.github.io/data/adventure/adventure-lox.json \
+All files relevant to the in game world such as deities, guilds, groups, religions, NPCs, and locations. 
 
-    5etools-mirror-1.github.io/data/book/book-aag.json \
+#### 4-Resources
 
-    my-items.json
- 
+All Dnd 5e source information to be referenced, as well as automated tools for DMs. 
+
+#### 9. Misc
+
+Random files used for the development of this document. 
+
+#### z_Assets
+
+Default folders for pictures and other graphical data. 
+
+#### z_Templates
+
+Template files for new notes, such as new NPC's, new locations, etc. 
