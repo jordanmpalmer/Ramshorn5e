@@ -20,9 +20,9 @@ Learning List
 - [x] [CLI](https://www.youtube.com/watch?v=JV-v-NFON8s&list=PLV5XWfKkFpk7MJTKv5YdSSpT9b-vLslWu&index=79)
 - [ ] [Fonts](https://www.youtube.com/watch?v=DPEzJ3BPcmY)
 - [x] [Custom CSS](https://www.youtube.com/watch?v=9cXIhlr0eJU)
-- [ ] [Calculate Travel Time](https://www.youtube.com/watch?v=X6AT9G0uV-Y)
+- [x] [Calculate Travel Time](https://www.youtube.com/watch?v=X6AT9G0uV-Y)
 - [ ] [PDF to .md](https://www.youtube.com/watch?v=gA5zQtkfOZo)
-- [ ] [Input fields and calculators - meta bind](https://www.youtube.com/watch?v=iAYS0254a7I)
+- [x] [Input fields and calculators - meta bind](https://www.youtube.com/watch?v=iAYS0254a7I)
 - [ ] [Entering an Adventure or Module](https://www.youtube.com/watch?v=gEQ4x2yY5o8)
 - [ ] [Buttons](https://www.youtube.com/watch?v=oqqKKZKo3Ak)
 - [ ] [Inline Scripts](https://www.youtube.com/watch?v=EVNCzoyjwYk)
@@ -30,8 +30,8 @@ Learning List
 
 Current Task List
 - [ ] Is there a way to introduce linking a note and bringing over the text
-- [ ] Ensure PHB and SRD have updated and clean links
-- [ ] Fix Classes and Races using PHB fixed source
+- [x] Ensure PHB and SRD have updated and clean links
+- [x] Fix Classes and Races using PHB fixed source
 - [x] Fix [[4-Resources/Character Creation/Backgrounds/PHB/Acolyte]]  links [[Backgrounds]] 
 - [ ] Make sure links are good in [[Character Creation]] 
 - [ ] Do I need to add links or fix any files in [[_Gameplay]] ?

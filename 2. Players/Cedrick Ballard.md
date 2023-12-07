@@ -30,7 +30,7 @@ icon: pc
 ---
 > [!infobox]
 > # `=this.name` 
-> ![[JP DND2.jpg|cover 200]]
+> ![[Cedrick.jpg|cover 200]]
 > ###### Basic Information
 > | Type | Stat |
 > | ---- | ---- |

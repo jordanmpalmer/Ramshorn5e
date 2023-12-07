@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4a11e0f9d429255b",
+        "id": "d3790150e90b965b",
         "type": "tabs",
         "children": [
           {
-            "id": "b2aadcfa459418e6",
+            "id": "e17ce51d6f46a33a",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "0. Game Reference/0. Game Reference.md"
+                "file": "9. Misc/To Do List.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Game Reference/0. Game Reference.md",
+                "file": "9. Misc/To Do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Game Reference/0. Game Reference.md",
+                "file": "9. Misc/To Do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,36 +120,12 @@
             }
           },
           {
-            "id": "8e7cf33f4b49d65f",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "e80c53c21b1e61a8",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "d916a9f9a976ce6a",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
-          },
-          {
             "id": "8a5bdb56341851b0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Game Reference/0. Game Reference.md"
+                "file": "9. Misc/To Do List.md"
               }
             }
           },
@@ -158,40 +136,92 @@
               "type": "custom-frames-cedrickframe",
               "state": {}
             }
+          },
+          {
+            "id": "1e1a4726c481851b",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "b02ddc2d3cda5e25",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "88fc97b8f7c21a46",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-regex-pipeline:Regex Rulesets": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": false,
-      "obsidian-custom-frames:Open CedrickFrame": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "templates:Insert template": false,
-      "templater-obsidian:Templater": false,
       "canvas:Create new canvas": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "dbfolder:Create a new database table": false,
-      "obsidian-regex-pipeline:Regex Rulesets": false,
       "workspaces:Manage workspace layouts": false,
+      "obsidian-custom-frames:Open CedrickFrame": false,
+      "dbfolder:Create a new database table": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
-      "obsidian-import-json:JSON/CSV Importer": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "b2aadcfa459418e6",
+  "active": "e17ce51d6f46a33a",
   "lastOpenFiles": [
+    "9. Misc/Test.md",
+    "9. Misc/Table of Contents Test.md",
+    "9. Misc/Other Relevant Links.md",
+    "9. Misc/Original Sessions.md",
+    "9. Misc/New Tab.md",
+    "9. Misc/Markdown Shortcuts.md",
+    "9. Misc/Experiment Note.md",
+    "9. Misc/Encounters and Statblocks.md",
+    "9. Misc/GM Screen/GM Screen.md",
+    "4-Resources/Compendium/tables/damage-vulnerabilities-resistances-and-immunities-effective-hit-points-based-on-resistances-and-immunities.md",
+    "Untitled.md",
+    "Test Cards.md",
+    "Dane.jpg.md",
+    "2. Players/Dramus Ardor.md",
+    "2. Players/Cedrick Ballard.md",
+    "folder/Cedrick_Test.jpg",
+    "folder/Dane_Test.png",
+    "folder",
+    "z_Assets/Dane.png",
+    "z_Assets/Cedrick.jpg",
+    "z_Assets/Dramus.webp",
+    "Card Test",
+    "README.md",
+    "z_Assets/PHB_Outline.png",
+    "z_Assets/Regatia.png",
+    "z_Assets/Pasted image 20231203114223.png",
+    "z_Assets/NPC_Placeholder.png",
+    "z_Assets/Minastria.png",
+    "2. Players/Dane Ogden.md",
+    "0. Game Reference/0. Game Reference.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "0. Game Reference/0. Game Reference.md",
     "1. Session Notes/1. Session Notes.md",
     "2. Players/2. Players.md",
     "3. World/3. World.md",
@@ -200,23 +230,7 @@
     "3. World/Guilds+Groups+Religions/Guilds+Groups+Religions.md",
     "3. World/Deities/Deities.md",
     "3. World/NPCs/NPCs.md",
-    "3. World/NPCs/Breovo.md",
-    "3. World/Deities/Cayden Cailean.md",
-    "3. World/Deities/Sarenrae.md",
-    "3. World/Guilds+Groups+Religions/The Reclaimers.md",
-    "3. World/Guilds+Groups+Religions/The Magebreaker Initiative.md",
-    "3. World/Guilds+Groups+Religions/The Empire.md",
-    "3. World/Guilds+Groups+Religions/Cult of the Choir.md",
-    "3. World/Guilds+Groups+Religions/The Shepherds.md",
     "3. World/Guilds Groups",
-    "3. World/Untitled.md",
-    "3. World/Guilds, Groups, and Religions/Test.md",
-    "4-Resources/Compendium/bestiary/aberration/beholder.md",
-    "3. World/Guilds, Groups, and Religions/Guilds, Groups, and Religions.md",
-    "2. Players/Cedrick Ballard.md",
-    "9. Misc/To Do List.md",
-    "9. Misc/Test.md",
-    "9. Misc/Other Relevant Links.md",
     "4-Resources/5. Tools/Meta-Bind",
     "1. Session Notes/Timeline",
     "9. Misc/NPC_Template/2. Aeonia/Aster/Countries & Regions/Shadowkeep of Aster",
@@ -224,18 +238,6 @@
     "9. Misc/NPC_Template/! Optional Font Files/Scaly Sans/Scaly Sans Bold.otf",
     "9. Misc/NPC_Template/! Optional Font Files/Scaly Sans/Scaly Sans.otf",
     "9. Misc/NPC_Template/2. Aeonia/Aster/Countries & Regions",
-    "9. Misc/NPC_Template/! Optional Font Files/Scaly Sans Caps/Scaly Sans Caps.otf",
-    "9. Misc/NPC_Template/! Optional Font Files/Scaly Sans Caps/Scaly Sans Caps Italic.otf",
-    "9. Misc/NPC_Template/NPC_Placeholder.png",
-    "4-Resources/Compendium/items/img/bag-of-holding.webp",
-    "z_Assets/272704618-c28662d9-a5b7-4b84-abed-85f06785ea78.gif",
-    "z_Assets/Screenshot 2023-12-05 at 9.46.04 PM.png",
-    "z_Assets/Screenshot 2023-12-05 at 9.45.55 PM.png",
-    "z_Assets/DM Screen.png",
-    "z_Assets/NPC_Placeholder.png",
-    "z_Assets/Cayden_Cailean.png",
-    "z_Assets/Rezar_Besk.png",
-    "z_Assets/image.png",
     "4. Mechanics/Classes/Rogue/Untitled.canvas"
   ]
 }

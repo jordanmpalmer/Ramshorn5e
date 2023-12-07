@@ -12,6 +12,6 @@ fc-category: Event Category 1
 %%`The first picture will be displayed in the timeline`
 `The first few lines of text will be displayed in the timeline`%%
 
-![[JP DND2.jpg]]
+![[Cedrick.jpg]]
 
 Holy smokes Batman, a timeline!
