@@ -33,10 +33,10 @@ Current Task List
 - [x] Ensure PHB and SRD have updated and clean links
 - [x] Fix Classes and Races using PHB fixed source
 - [x] Fix [[4-Resources/Character Creation/Backgrounds/PHB/Acolyte]]  links [[Backgrounds]] 
-- [ ] Make sure links are good in [[Character Creation]] 
-- [ ] Do I need to add links or fix any files in [[_Gameplay]] ?
-- [ ] Add everything to Item Shop Ref as individual notes
-- [ ] Figure out what I want to do with Monsters, Magic Items, and Spells
+- [x] Make sure links are good in [[Character Creation]] 
+- [x] Do I need to add links or fix any files in [[_Gameplay]] ?
+- [x] Add everything to Item Shop Ref as individual notes
+- [x] Figure out what I want to do with Monsters, Magic Items, and Spells
 - [ ] Finish new tab page
 - [ ] Refine database folders
 - [ ] Decide on how to do places folder 
