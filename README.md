@@ -33,3 +33,5 @@ Default folders for pictures and other graphical data.
 #### z_Templates
 
 Template files for new notes, such as new NPC's, new locations, etc. 
+
+This is a test of the git diff
