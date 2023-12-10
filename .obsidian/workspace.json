@@ -14,8 +14,21 @@
               "type": "intiative-tracker-encounter-builder",
               "state": []
             }
+          },
+          {
+            "id": "a4d9bc08401f2dbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. World/Places/_Maps/Encounter and Maps Test.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3. World/Places/_Maps/Encounter and Maps Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -92,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. World/Places/_Maps/Encounter and Maps Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3. World/Places/_Maps/Encounter and Maps Test.md"
+              }
             }
           },
           {
@@ -196,27 +213,38 @@
       "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "4969c754355d53a1",
+  "active": "a4d9bc08401f2dbb",
   "lastOpenFiles": [
-    "README.md",
-    "9. Misc/New Tab.md",
-    "9. Misc/Encounters and Statblocks.md",
-    "9. Misc/GM Screen/GM Screen.md",
-    "2023-12-08.md",
-    "9. Misc/CLI Commands.md",
-    "9. Misc/Markdown Shortcuts.md",
-    "Untitled.md",
+    "2. Players/Cedrick Ballard.md",
+    "1. Session Notes/1. Session Notes.md",
+    "4-Resources/5. Tools/Randomizers/NPC Generator.md",
+    "4-Resources/5. Tools/Randomizers/Imports+Exports Generator.md",
+    "z_Templates/Template - Embed Website (iframe).md",
+    "z_Assets/Zelkor_s_Ferry.jpg",
+    "z_Assets/Zelkor's Ground Level.png",
+    "z_Assets/Zion.png",
     "9. Misc/To Do List.md",
     "9. Misc/Test.md",
     "9. Misc/Table of Contents Test.md",
     "9. Misc/Other Relevant Links.md",
+    "9. Misc/New Tab.md",
+    "9. Misc/Encounters and Statblocks.md",
+    "9. Misc/CLI Commands.md",
+    "9. Misc/NPC_Template/Template - NPC Main.md",
+    "9. Misc/NPC_Template/NPC_Placeholder.png",
+    "0. Game Reference/0. Game Reference.md",
+    "3. World/Places/Minastria/Ramshorn.md",
+    "3. World/Places/Places.md",
+    "1. Session Notes/Session 21.md",
+    "1. Session Notes/Session 20.md",
+    "1. Session Notes/Session 19.md",
+    "1. Session Notes/Session 18.md",
+    "1. Session Notes/Session 17.md",
+    "z_Templates/Template - Session Notes.md",
     "9. Misc/Original Sessions.md",
-    "9. Misc/Experiment Note.md",
-    "4-Resources/Compendium/tables/damage-vulnerabilities-resistances-and-immunities-effective-hit-points-based-on-resistances-and-immunities.md",
-    "Test Cards.md",
-    "Dane.jpg.md",
-    "2. Players/Dramus Ardor.md",
-    "2. Players/Cedrick Ballard.md",
+    "9. Misc/Markdown Shortcuts.md",
+    "README.md",
+    "9. Misc/GM Screen/GM Screen.md",
     "folder/Cedrick_Test.jpg",
     "folder/Dane_Test.png",
     "folder",
@@ -225,19 +253,8 @@
     "z_Assets/Dramus.webp",
     "Card Test",
     "z_Assets/PHB_Outline.png",
-    "z_Assets/Regatia.png",
-    "z_Assets/Pasted image 20231203114223.png",
-    "z_Assets/NPC_Placeholder.png",
-    "z_Assets/Minastria.png",
-    "2. Players/Dane Ogden.md",
-    "0. Game Reference/0. Game Reference.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "1. Session Notes/1. Session Notes.md",
-    "2. Players/2. Players.md",
-    "3. World/3. World.md",
-    "4-Resources/4-Resources.md",
-    "3. World/Places/Places.md",
     "3. World/Guilds Groups",
     "4-Resources/5. Tools/Meta-Bind",
     "1. Session Notes/Timeline",
