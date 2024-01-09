@@ -1,8 +1,57 @@
 {
   "mapMarkers": [
     {
+      "id": "Minastria_Map",
+      "locked": false,
+      "lastAccessed": 1704776755583,
+      "markers": [
+        {
+          "id": "ID_aa7a3a3adb3b",
+          "type": "Town",
+          "loc": [
+            766.2253816317137,
+            1021.843921404498
+          ],
+          "link": "Ramshorn",
+          "layer": "%5B%5BMinastria.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a298a8bebba",
+          "type": "Point of Interest",
+          "loc": [
+            999.8489885977783,
+            1150.6702899441518
+          ],
+          "link": "Mirage Oasis",
+          "layer": "%5B%5BMinastria.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7547743644985162,
+            -0.926605504587156
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "3. World/Places/_Maps/Minastria Regional Map.md"
+      ]
+    },
+    {
       "id": "experiment-map",
-      "lastAccessed": 1701702703853,
+      "lastAccessed": 1704776758990,
       "markers": [
         {
           "id": "ID_ab29cb89eada",
@@ -139,62 +188,13 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "9. Misc/Encounter and Maps Test.md"
-      ]
-    },
-    {
-      "id": "Minastria_Map",
-      "locked": false,
-      "lastAccessed": 1701866370041,
-      "markers": [
-        {
-          "id": "ID_aa7a3a3adb3b",
-          "type": "Town",
-          "loc": [
-            766.2253816317137,
-            1021.843921404498
-          ],
-          "link": "Ramshorn",
-          "layer": "%5B%5BMinastria.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_2a298a8bebba",
-          "type": "Point of Interest",
-          "loc": [
-            999.8489885977783,
-            1150.6702899441518
-          ],
-          "link": "Mirage Oasis",
-          "layer": "%5B%5BMinastria.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.7547743644985162,
-            -0.926605504587156
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "3. World/Places/_Maps/Minastria Regional Map.md"
+        "3. World/Places/_Maps/Encounter and Maps Test.md"
       ]
     },
     {
       "id": "Faerun_Map",
       "locked": false,
-      "lastAccessed": 1701866372379,
+      "lastAccessed": 1704776758990,
       "markers": [
         {
           "id": "ID_79782bfb38fb",

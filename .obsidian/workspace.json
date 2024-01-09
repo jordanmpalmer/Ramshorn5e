@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4969c754355d53a1",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": []
-            }
-          },
-          {
             "id": "a4d9bc08401f2dbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. World/Places/_Maps/Encounter and Maps Test.md",
-                "mode": "source",
+                "file": "3. World/3. World.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. World/Places/_Maps/Encounter and Maps Test.md",
+                "file": "3. World/3. World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. World/Places/_Maps/Encounter and Maps Test.md",
+                "file": "3. World/3. World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. World/Places/_Maps/Encounter and Maps Test.md"
+                "file": "3. World/3. World.md"
               }
             }
           },
@@ -187,64 +178,80 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
+      },
+      {
+        "id": "1f5cb59b46f7088f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f1648a81053de2b",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 346.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-import-json:JSON/CSV Importer": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
-      "templater-obsidian:Templater": false,
       "templates:Insert template": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "daily-notes:Open today's daily note": false,
       "canvas:Create new canvas": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-custom-frames:Open CedrickFrame": false,
       "dbfolder:Create a new database table": false,
-      "obsidian-regex-pipeline:Regex Rulesets": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-regex-pipeline:Regex Rulesets": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a4d9bc08401f2dbb",
+  "active": "751b2258e7eacb3c",
   "lastOpenFiles": [
-    "2. Players/Cedrick Ballard.md",
-    "1. Session Notes/1. Session Notes.md",
-    "4-Resources/5. Tools/Randomizers/NPC Generator.md",
-    "4-Resources/5. Tools/Randomizers/Imports+Exports Generator.md",
-    "z_Templates/Template - Embed Website (iframe).md",
-    "z_Assets/Zelkor_s_Ferry.jpg",
-    "z_Assets/Zelkor's Ground Level.png",
-    "z_Assets/Zion.png",
+    "3. World/Places/Places.md",
+    "3. World/Guilds+Groups+Religions/Guilds+Groups+Religions.md",
+    "3. World/Deities/Deities.md",
+    "3. World/Places/_Maps/Encounter and Maps Test.md",
+    "3. World/Places/_Maps/Minastria Regional Map.md",
     "9. Misc/To Do List.md",
     "9. Misc/Test.md",
     "9. Misc/Table of Contents Test.md",
     "9. Misc/Other Relevant Links.md",
-    "9. Misc/New Tab.md",
     "9. Misc/Encounters and Statblocks.md",
     "9. Misc/CLI Commands.md",
-    "9. Misc/NPC_Template/Template - NPC Main.md",
-    "9. Misc/NPC_Template/NPC_Placeholder.png",
-    "0. Game Reference/0. Game Reference.md",
-    "3. World/Places/Minastria/Ramshorn.md",
-    "3. World/Places/Places.md",
+    "3. World/Deities/Sarenrae.md",
+    "3. World/Deities/Cayden Cailean.md",
+    "1. Session Notes/Current To Do List.md",
+    "1. Session Notes/Session 22.md",
     "1. Session Notes/Session 21.md",
-    "1. Session Notes/Session 20.md",
-    "1. Session Notes/Session 19.md",
     "1. Session Notes/Session 18.md",
-    "1. Session Notes/Session 17.md",
-    "z_Templates/Template - Session Notes.md",
-    "9. Misc/Original Sessions.md",
-    "9. Misc/Markdown Shortcuts.md",
-    "README.md",
-    "9. Misc/GM Screen/GM Screen.md",
+    "1. Session Notes/Session 19.md",
+    "1. Session Notes/Session 20.md",
+    "2. Players/Zion Dawnbreak.md",
+    "2. Players/Sol Siofra.md",
+    "2. Players/Dramus Ardor.md",
+    "2. Players/Dane Ogden.md",
+    "2. Players/Cedrick Ballard.md",
+    "3. World/Guilds+Groups+Religions/The Shepherds.md",
+    "3. World/Guilds+Groups+Religions/The Reclaimers.md",
+    "z_Assets/Fin.png",
+    "z_Assets/Zelkor_s_Ferry.jpg",
+    "z_Assets/Zelkor's Ground Level.png",
+    "z_Assets/Zion.png",
+    "9. Misc/NPC_Template/NPC_Placeholder.png",
     "folder/Cedrick_Test.jpg",
     "folder/Dane_Test.png",
     "folder",
@@ -252,7 +259,6 @@
     "z_Assets/Cedrick.jpg",
     "z_Assets/Dramus.webp",
     "Card Test",
-    "z_Assets/PHB_Outline.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "3. World/Guilds Groups",

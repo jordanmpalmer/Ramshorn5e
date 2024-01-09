@@ -33,19 +33,3 @@ Blank Text
 - [[Infiltrator#Coup de Grâce|Coup de Grâce]]
 - [[Infiltrator#Tools of the Trade|Tools of the Trade]]
 
-
-## Log
-
-
-%% #### Rogue 
-![[Rogue#Expertise]]
-![[Rogue#Sneak Attack]]
-![[Rogue#Thieves’ Cant]]
-![[Rogue#Cunning Action]]
-![[Rogue#Ability Score Improvement]]
-![[Rogue#Uncanny Dodge]]
-
-#### Infiltrator 
-![[Infiltrator#Coup de Grâce]]
-![[Infiltrator#Tools of the Trade]] %%
-
