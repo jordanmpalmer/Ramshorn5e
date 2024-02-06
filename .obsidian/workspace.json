@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Session Notes/Session 24.md",
+                "file": "4-Resources/Extra Resources/Ranged Weapon Expert.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Session Notes/Session 24.md",
+                "file": "4-Resources/Extra Resources/Ranged Weapon Expert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Session Notes/Session 24.md",
+                "file": "4-Resources/Extra Resources/Ranged Weapon Expert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Session Notes/Session 24.md"
+                "file": "4-Resources/Extra Resources/Ranged Weapon Expert.md"
               }
             }
           },
@@ -218,14 +218,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6ee3d79583bb2f15",
+  "active": "751b2258e7eacb3c",
   "lastOpenFiles": [
+    "4-Resources/Extra Resources/Crossbows Specialization.md",
+    "1. Session Notes/Session 24.md",
+    "4-Resources/Extra Resources",
     "3. World/NPCs/Bosso.md",
     "3. World/NPCs/Breovo.md",
-    "1. Session Notes/Session 24.md",
     "3. World/NPCs/Untitled.md",
     "z_Assets/Bosso.png",
-    "Ranged Weapon Expert.md",
+    "4-Resources/Extra Resources/Ranged Weapon Expert.md",
     "3. World/NPCs/Warlord Kon.md",
     "z_Assets/Pasted image 20240129202542.png",
     "z_Assets/Warlord Kon.png",
@@ -248,8 +250,6 @@
     "3. World/Deities/Nysara.md",
     "3. World/NPCs/Kozoc Ulmogo.md",
     "README.md",
-    "Crossbows Specialization.md",
-    "Daggers Specialization.md",
     "z_Assets/Kozoc.png",
     "z_Assets/Pasted image 20240115212639.png",
     "z_Assets/Pasted image 20240115212621.png",
@@ -267,7 +267,6 @@
     "9. Misc/NPC_Template/! Optional Font Files/Scaly Sans/Scaly Sans Italic.otf",
     "9. Misc/NPC_Template/! Optional Font Files/Scaly Sans/Scaly Sans Bold.otf",
     "9. Misc/NPC_Template/! Optional Font Files/Scaly Sans/Scaly Sans.otf",
-    "9. Misc/NPC_Template/2. Aeonia/Aster/Countries & Regions",
     "4. Mechanics/Classes/Rogue/Untitled.canvas"
   ]
 }
