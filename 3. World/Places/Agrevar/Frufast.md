@@ -1,7 +1,7 @@
 ---
-name: 
+name: Frufast
 aliases: 
-type: 
+type: City
 region: 
 planet: 
 points-of-interest: 
@@ -52,5 +52,4 @@ tags:
 > | Major Industry | `=this.major-industry` |
 > ---
 
-Authoritarian surveillance state with lots of large crystal towers that act as mage surveillance. Lots of mages live here. In the lands of the house of the sun, under [[Sarenrae]], more overly zealous of the three. 
-
+Capital of the [[Frufast]]

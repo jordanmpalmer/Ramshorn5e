@@ -1,6 +1,8 @@
 ---
-name: Seraphina Steelheart
-aliases: Seraphina
+name: Kozoc Ulmogo
+aliases:
+  - Knight-Crusader Kozoc Ulmogo
+  - Kozoc
 pronouns: 
 age: 
 race: 
@@ -19,7 +21,7 @@ icon: npc
 ---
 > [!infobox]
 > # `=this.name` 
-> ![[image.png|cover 200]]
+> ![[Kozoc.png|cover 200]]
 > ###### Basic Information
 > | Type | Stat |
 > | ---- | ---- |
@@ -40,4 +42,3 @@ icon: npc
 > | Player Connection| `=this.pc-bond` |
 > ---
 
-Representation of the leader of the [[The Tall Hat Gang]] 

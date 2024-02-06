@@ -1,8 +1,9 @@
 ---
-aliases: Imperium
-name: The Empire
-type: Government?
-location: "[[Minastria]]"
+aliases:
+  - The Accord
+name: Arcanist Accord
+type: Group
+location: 
 favored-deity: 
 goals: 
 leader: 
@@ -41,6 +42,6 @@ tags:
 > | Enemies | `=this.enemies` |
 > --- 
 
+Focus on their control of magic and mages becoming sages. They prohibit certain forms of magic, specifically primal magic. Nysara is their God.  
 
-
-Stole ancient dragon from [[The Reclaimers]] and supposedly use it for profane rituals of sorts. Seem to be an overarching power on the new planet.
+Separated from [[The Empire]] but are neutral with them and limitedly care about [[The Reclaimers]] 

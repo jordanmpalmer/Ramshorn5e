@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4d9bc08401f2dbb",
+            "id": "6ee3d79583bb2f15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. World/3. World.md",
-                "mode": "preview",
+                "file": "1. Session Notes/Session 24.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. World/3. World.md",
+                "file": "1. Session Notes/Session 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. World/3. World.md",
+                "file": "1. Session Notes/Session 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. World/3. World.md"
+                "file": "1. Session Notes/Session 24.md"
               }
             }
           },
@@ -177,8 +177,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
         "id": "1f5cb59b46f7088f",
@@ -219,45 +218,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "751b2258e7eacb3c",
+  "active": "6ee3d79583bb2f15",
   "lastOpenFiles": [
-    "3. World/Places/Places.md",
-    "3. World/Guilds+Groups+Religions/Guilds+Groups+Religions.md",
-    "3. World/Deities/Deities.md",
-    "3. World/Places/_Maps/Encounter and Maps Test.md",
-    "3. World/Places/_Maps/Minastria Regional Map.md",
-    "9. Misc/To Do List.md",
-    "9. Misc/Test.md",
-    "9. Misc/Table of Contents Test.md",
-    "9. Misc/Other Relevant Links.md",
-    "9. Misc/Encounters and Statblocks.md",
-    "9. Misc/CLI Commands.md",
-    "3. World/Deities/Sarenrae.md",
-    "3. World/Deities/Cayden Cailean.md",
-    "1. Session Notes/Current To Do List.md",
-    "1. Session Notes/Session 22.md",
-    "1. Session Notes/Session 21.md",
-    "1. Session Notes/Session 18.md",
-    "1. Session Notes/Session 19.md",
-    "1. Session Notes/Session 20.md",
-    "2. Players/Zion Dawnbreak.md",
-    "2. Players/Sol Siofra.md",
-    "2. Players/Dramus Ardor.md",
-    "2. Players/Dane Ogden.md",
+    "3. World/NPCs/Bosso.md",
+    "3. World/NPCs/Breovo.md",
+    "1. Session Notes/Session 24.md",
+    "3. World/NPCs/Untitled.md",
+    "z_Assets/Bosso.png",
+    "Ranged Weapon Expert.md",
+    "3. World/NPCs/Warlord Kon.md",
+    "z_Assets/Pasted image 20240129202542.png",
+    "z_Assets/Warlord Kon.png",
+    "1. Session Notes/Session 23.md",
+    "z_Templates/Template - Session Notes.md",
+    "z_Templates/Template - Magic Item.md",
     "2. Players/Cedrick Ballard.md",
-    "3. World/Guilds+Groups+Religions/The Shepherds.md",
-    "3. World/Guilds+Groups+Religions/The Reclaimers.md",
+    "3. World/Places/Agrevar/Bellreach.md",
+    "3. World/Places/Agrevar/Regatia.md",
+    "3. World/NPCs/Captain Ked.md",
+    "z_Assets/Pasted image 20240115234111.png",
+    "3. World/Places/Agrevar/Frufast.md",
+    "9. Misc/New tab.md",
+    "3. World/Places/Agrevar/Droughtstricken Plateau.md",
+    "3. World/Guilds+Groups+Religions/The Dwarves of Eheserin.md",
+    "3. World/Guilds+Groups+Religions/The Empire.md",
+    "3. World/Guilds+Groups+Religions/Cult of the Choir.md",
+    "3. World/Guilds+Groups+Religions/The Free Mage Marauders.md",
+    "3. World/Guilds+Groups+Religions/Arcanist Accord.md",
+    "3. World/Deities/Nysara.md",
+    "3. World/NPCs/Kozoc Ulmogo.md",
+    "README.md",
+    "Crossbows Specialization.md",
+    "Daggers Specialization.md",
+    "z_Assets/Kozoc.png",
+    "z_Assets/Pasted image 20240115212639.png",
+    "z_Assets/Pasted image 20240115212621.png",
+    "z_Assets/Skyward-Saloon.png",
+    "z_Assets/Lars-Ogden.png",
     "z_Assets/Fin.png",
-    "z_Assets/Zelkor_s_Ferry.jpg",
-    "z_Assets/Zelkor's Ground Level.png",
-    "z_Assets/Zion.png",
-    "9. Misc/NPC_Template/NPC_Placeholder.png",
-    "folder/Cedrick_Test.jpg",
-    "folder/Dane_Test.png",
     "folder",
-    "z_Assets/Dane.png",
-    "z_Assets/Cedrick.jpg",
-    "z_Assets/Dramus.webp",
     "Card Test",
     "Untitled.canvas",
     "Untitled 1.canvas",

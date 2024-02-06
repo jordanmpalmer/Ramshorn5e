@@ -1,0 +1,1 @@
+When an attack roll with a Crossbow exceeds the target's AC by 5 or more (or lands a critical hit), the next attack roll made against the target gains a bonus equal to your proficiency bonus.

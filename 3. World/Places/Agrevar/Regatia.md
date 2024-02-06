@@ -39,3 +39,7 @@ icon: location
 > ---
 
 Magical province ruled by a conglomerate of three royal houses. 
+
+House of the sun
+House of the moon
+House of the stars

@@ -1,8 +1,8 @@
 ---
-aliases: Imperium
-name: The Empire
-type: Government?
-location: "[[Minastria]]"
+aliases: 
+name: The Tall Hat Gang
+type: 
+location: 
 favored-deity: 
 goals: 
 leader: 
@@ -41,6 +41,3 @@ tags:
 > | Enemies | `=this.enemies` |
 > --- 
 
-
-
-Stole ancient dragon from [[The Reclaimers]] and supposedly use it for profane rituals of sorts. Seem to be an overarching power on the new planet.

@@ -1,6 +1,6 @@
 ---
-name: Seraphina Steelheart
-aliases: Seraphina
+name: 
+aliases: 
 pronouns: 
 age: 
 race: 
@@ -40,4 +40,5 @@ icon: npc
 > | Player Connection| `=this.pc-bond` |
 > ---
 
-Representation of the leader of the [[The Tall Hat Gang]] 
+
+![[Pasted image 20240115234111.png]]

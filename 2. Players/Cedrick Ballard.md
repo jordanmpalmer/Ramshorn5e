@@ -51,7 +51,7 @@ icon: pc
 > | Alignment| `=this.alignment` |
 > ---
 
-%%HP: 50
+%% HP: 50
 AC:
 strength:
 dexterity:
@@ -86,11 +86,11 @@ To build deep inter-character relationships and continue to grow as a player, es
 
 ## Backstory
 
-Cedrick has only ever known the life of an [[Assassin]]. He never met his parents and his earliest memories are of study and training from his life in the assassins guild. The assassins guild was an ideal put forward in [[The Magebreaker Initiative]] during the a time of a great deal of uncertainty where some highly skilled magic wielders grew in power to threaten [[Ramshorn]] as we know it today. 
-Since that time [[The Magebreaker Initiative]] decided it was important to expand their **resources** and even dip into the magic arts themselves for the greater good to ensure all major threats can be neutralized in the future and to avoid threat to the degree that they experienced. 
-This is when the assassins guild was created. This guild was formed to create well trained killing machines from a young age that they could influence and train to their liking. Cedrick was one of the first of his kind. His early life was constant training and study. He learned the skills of tracking and staying invisible through hunting wild animals while studied social skills and sleight of hand to blend in and persuade people. 
-As they grew up they were eventually given more freedom as they started on their first missions under [[The Magebreaker Initiative]]. Cedrick first drew blood of another man at the age of (12 in human years, calculate elf years). 
-When he was out on a mission at the age of 16 he ran into a beautiful barmaid in a tavern in a small town where a target was supposedly hiding. He became infatuated with her, stoping by the town every time a mission led him to a similar area. After several years they had fallen in love and had an unexpected child which ended up being twins. One boy and one girl. 
+Cedrick has only ever known the life of an [[Assassin]]. He never met his parents and his earliest memories are of study and training from his life in the assassins guild in [[Bellreach]] . The assassins guild was an idea put forward in [[The Magebreaker Initiative]] during the a time of a great deal of uncertainty where some highly skilled magic wielders grew in power to threaten [[Regatia]] as we know it today. 
+Since that time, [[The Magebreaker Initiative]] decided it was important to expand their tools and resources and even dip into the magic arts themselves for the greater good to ensure all major threats could be neutralized in the future and to avoid any similar threat again. 
+This is when the assassins guild was created. This guild was formed to create well trained killing machines from a young age, that they could influence and train to their liking. Cedrick was one of the first of his kind. His early life was constant training and study. He learned the skills of tracking and staying invisible through hunting wild animals while studied social skills and sleight of hand to blend in and persuade people. 
+As they grew up they were eventually given more freedom as they started on their first missions under [[The Magebreaker Initiative]]. Cedrick first drew blood of another man at the age of 84. 
+When he was out on a mission at the age of 112 he ran into a beautiful barmaid in a tavern in a small town where a target was supposedly hiding. He became infatuated with her, stopping by the town every time a mission led him to a similar area. After several years they had fallen in love and had an unexpected child which ended up being twins. One boy and one girl. 
 Over time their relationship started to become strained. Cedrick was constantly traveling and [[Eleanor Ballard|Eleanor]] no longer wanted him to live the life constantly away and disproved of the type of work he was in. [[Eleanor Ballard|Eleanor]] left with the kids while Cedrick could not get himself to betray all that he had ever known. 
 Ever since that day Cedrick has been missing a part of himself burying himself further and further into his work to try to block out the hole that has been left in his heart. 
 

@@ -1,0 +1,1 @@
+When an attack roll with a Dagger exceeds the target's AC by 5 or more (or lands a critical hit), the target takes additional necrotic damage equal to your proficiency bonus. Constructs, elementals, most undead, and other targets that do not bleed may be immune to this damage at the discretion of your DM.
