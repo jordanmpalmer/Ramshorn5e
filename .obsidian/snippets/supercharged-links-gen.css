@@ -133,13 +133,13 @@ div[data-id="d2c2-80e8"] div.setting-item-description::after,
 }
 
 div[data-id="808d-a00c"] div.setting-item-description,
-[data-link-icon="location"  i] {
+[data-link-icon="settlement"  i] {
     color: var(--808d-a00c-color) !important;
     font-weight: var(--808d-a00c-weight);
 }
 
 .c-808d-a00c-use-background div[data-id="808d-a00c"] div.setting-item-description,
-.c-808d-a00c-use-background .data-link-text[data-link-icon="location"  i] {
+.c-808d-a00c-use-background .data-link-text[data-link-icon="settlement"  i] {
     background-color: var(--808d-a00c-background-color) !important;
     border-radius: 5px;
     padding-left: 2px;
@@ -148,12 +148,12 @@ div[data-id="808d-a00c"] div.setting-item-description,
 }
 
 div[data-id="808d-a00c"] div.setting-item-description::before,
-.data-link-icon[data-link-icon="location"  i]::before {
+.data-link-icon[data-link-icon="settlement"  i]::before {
     content: var(--808d-a00c-before);
 }
 
 div[data-id="808d-a00c"] div.setting-item-description::after,
-.data-link-icon-after[data-link-icon="location"  i]::after {
+.data-link-icon-after[data-link-icon="settlement"  i]::after {
     content: var(--808d-a00c-after);
 }
 
@@ -530,7 +530,7 @@ settings:
         default: '#ffffff'
     - 
         id: 808d-a00c
-        title: icon is location
+        title: icon is settlement
         description: Example note
         type: heading
         collapsed: true

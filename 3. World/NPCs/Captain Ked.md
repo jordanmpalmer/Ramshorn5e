@@ -1,6 +1,7 @@
 ---
-name: 
-aliases: 
+name: Captain Ked
+aliases:
+  - Ked
 pronouns: 
 age: 
 race: 
@@ -19,7 +20,7 @@ icon: npc
 ---
 > [!infobox]
 > # `=this.name` 
-> ![[image.png|cover 200]]
+> ![[Ked.png|cover 200]]
 > ###### Basic Information
 > | Type | Stat |
 > | ---- | ---- |
@@ -41,4 +42,3 @@ icon: npc
 > ---
 
 
-![[Pasted image 20240115234111.png]]

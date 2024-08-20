@@ -10,11 +10,11 @@ sub-race:
 class: "[[4-Resources/Compendium/bestiary/humanoid/druid|Druid]]"
 sub-class: "[[druid-circle-of-wildfire-tce|Circle of Wildfire]]"
 level: 6
-languages: 
-- Common
-- Druidic
-- Sylvan
-- Elvish
+languages:
+  - Common
+  - Druidic
+  - Sylvan
+  - Elvish
 location: "[[Ramshorn]]"
 connections:
   - "[[Amma]]"

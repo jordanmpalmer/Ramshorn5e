@@ -5,15 +5,15 @@ aliases:
 player: Kuya
 pronouns: He/Him
 age: 120
-race: "[[elf|Elf]]"
-sub-race: "[[elf-high|High Elf]]"
+race: "[[half-elf]]"
+sub-race: 
 class: "[[bard|Bard]]"
 sub-class: "[[bard-college-of-eloquence-tce|College of Eloquence]]"
 level: 6
-languages: 
-- Common
-- Elvish
-- Celestial
+languages:
+  - Common
+  - Elvish
+  - Celestial
 location: "[[Ramshorn]]"
 connections:
   - "[[Amma]]"

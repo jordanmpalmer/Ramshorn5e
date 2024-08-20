@@ -41,7 +41,7 @@
     {
       "type": "attribute",
       "name": "icon",
-      "value": "location",
+      "value": "settlement",
       "matchCaseSensitive": false,
       "match": "exact",
       "uid": "808d-a00c",

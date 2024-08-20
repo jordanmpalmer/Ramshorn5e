@@ -15,7 +15,7 @@ imports:
 exports: 
 tags:
   - location
-icon: location
+icon: settlement
 ---
 > [!infobox]
 > # `=this.name`

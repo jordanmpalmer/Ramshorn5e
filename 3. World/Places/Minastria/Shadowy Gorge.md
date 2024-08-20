@@ -1,21 +1,16 @@
 ---
-name: Frufast
+name: 
 aliases: 
-type: City
-region: 
+type: Region
 planet: 
 points-of-interest: 
 size: 
 population: 
 govt-type: 
-leader: 
 races: 
 religions: 
 groups: 
-imports: 
-exports: 
-major-industry: 
-icon: location
+icon: region
 tags:
   - location
 ---
@@ -26,7 +21,6 @@ tags:
 > | Type | Stat |
 > | ---- | ---- |
 > | Type | `=this.type` |
-> | Region | `=this.region` |
 > |  Planet | `=this.planet` |
 > |  Size    | `=this.size`   |
 > 
@@ -34,7 +28,6 @@ tags:
 > | Type | Stat |
 > | ---- | ---- |
 > | Govt. Type | `=this.govt-type` |
-> | Leader | `=this.leader` |
 > 
 > ##### Society
 > | Type | Stat |
@@ -43,13 +36,5 @@ tags:
 > | Population | `=this.population` |
 > | Religions | `=this.religions` |
 > | Groups/Guilds | `=this.groups`|
-> 
-> ##### Commerce
-> | Type | Stat |
-> | ---- | ---- |
-> | Imports | `=this.imports` |
-> | Exports | `=this.exports` |
-> | Major Industry | `=this.major-industry` |
 > ---
 
-Capital of the [[Frufast]]

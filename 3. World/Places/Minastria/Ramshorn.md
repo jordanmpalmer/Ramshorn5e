@@ -18,7 +18,7 @@ imports: Animal Products, Ale, Textiles
 exports: Agriculture, Magical Artifacts, Timber, Ore
 tags:
   - location
-icon: location
+icon: settlement
 ---
 # Ramshorn
 

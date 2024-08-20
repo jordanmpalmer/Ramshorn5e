@@ -1,6 +1,7 @@
 ---
-name: 
-aliases: 
+name: Warlord Kon
+aliases:
+  - Kon
 pronouns: 
 age: 
 race: 

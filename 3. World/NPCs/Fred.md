@@ -21,7 +21,7 @@ icon: npc
 ---
 > [!infobox]
 > # `=this.name` 
-> ![[Breovo.png|cover 200]]
+> ![[NPC_Placeholder.png|cover 200]]
 > ###### Basic Information
 > | Type | Stat |
 > | ---- | ---- |

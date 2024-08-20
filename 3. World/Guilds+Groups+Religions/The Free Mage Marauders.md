@@ -10,7 +10,7 @@ total-members:
 notable-members: 
 allegiences: 
 allies: 
-enemies: 
+enemies: "[[Arcanist Accord]]"
 icon: group
 tags:
   - group
@@ -41,3 +41,7 @@ tags:
 > | Enemies | `=this.enemies` |
 > --- 
 
+The only ones to navigate the seas are their fiercest rivals, [[The Free Mage Marauders]], they believe in mages being superior, but also the un-controlled use of magic.
+The admiral is the leader, gain reputation to get in their group. They don't get along with [[Arcanist Accord]]. Also enemies of the [[Cult of the Choir]] due to [[Graydon Abraham]]'s son being taken by them. 
+
+The Rustling Glade is where the estate was, 

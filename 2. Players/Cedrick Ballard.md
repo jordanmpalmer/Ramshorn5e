@@ -4,24 +4,24 @@ aliases:
   - Cedrick
 player: Jordan
 pronouns: He/Him
-age: 121
+age: 231
 race: "[[elf|Elf]]"
 sub-race: "[[elf-high|High Elf]]"
 class: "[[Rogue]]"
 sub-class: "[[Infiltrator]]"
 level: 6
 languages:
-- Common
-- Elven
-- Undercommon
-- Thieves' Cant
+  - Common
+  - Elven
+  - Undercommon
+  - Thieves' Cant
 location: "[[Ramshorn]]"
-connections: 
-- "[[Eleanor Ballard]]"
-- "[[Obsidian Kane]]"
-- "[[Parvius]]"
+connections:
+  - "[[Eleanor Ballard]]"
+  - "[[Obsidian Kane]]"
+  - "[[Parvius]]"
 group: "[[The Magebreaker Initiative]]"
-religion:
+religion: 
 alignment: True Neutral
 status: active
 tags:

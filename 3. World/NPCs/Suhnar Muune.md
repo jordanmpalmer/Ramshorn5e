@@ -1,6 +1,6 @@
 ---
 name: Suhnar Muune
-aliases: ""
+aliases: 
 pronouns: He/Him
 age: 
 race: 
@@ -8,7 +8,7 @@ class:
 languages: 
 location: "[[Minastria]]"
 connections: 
-group: 
+group: "[[The Reclaimers]]"
 religion: 
 alignment: 
 party-alignment: Neutral
@@ -39,4 +39,7 @@ icon: npc
 > | Party Alignment| `=this.party-alignment` |
 > | Player Connection| `=this.pc-bond` |
 > ---
+
+We met him in the [[Mirage Oasis]] and he took us up to [[The Reclaimers]] 
+
 

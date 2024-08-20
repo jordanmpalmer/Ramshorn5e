@@ -19,7 +19,7 @@ icon: npc
 ---
 > [!infobox]
 > # `=this.name` 
-> ![[NPC_Placeholder.png|cover 200]]
+> ![[c|cover 200]]
 > ###### Basic Information
 > | Type | Stat |
 > | ---- | ---- |
