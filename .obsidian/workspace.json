@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Session Notes/Session 49.md",
+                "file": "1. Session Notes/Session 51.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Session Notes/Session 49.md",
+                "file": "1. Session Notes/Session 51.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Session Notes/Session 49.md",
+                "file": "1. Session Notes/Session 51.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Session Notes/Session 49.md"
+                "file": "1. Session Notes/Session 51.md"
               }
             }
           },
@@ -177,21 +177,6 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "1f5cb59b46f7088f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8f1648a81053de2b",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {}
-            }
-          }
         ]
       }
     ],
@@ -220,41 +205,43 @@
   },
   "active": "12674699c3a4effc",
   "lastOpenFiles": [
+    "3. World/NPCs/MISC/Ariel Windrider.md",
+    "3. World/NPCs/MISC/The Elder.md",
     "1. Session Notes/Session 51.md",
+    "Mythical Menagerie.md",
+    "9. Misc/New tab.md",
+    "Untitled.md",
+    "z_Assets/ariel-windrider.png",
+    "z_Assets/Pasted image 20241014225007.png",
+    "3. World/NPCs/MISC/Assoki.md",
+    "3. World/NPCs/MISC",
+    "z_Assets/mythical-menagerie.png",
+    "z_Assets/session-51-8.png",
+    "1. Session Notes/Session 50.md",
+    "1. Session Notes/Session 49.md",
     "z_Assets/session-51-7.png",
     "z_Assets/session-51-6.png",
-    "3. World/NPCs/Mamduc.md",
+    "3. World/NPCs/MISC/Mamduc.md",
     "z_Assets/Pasted image 20241014222214.png",
     "3. World/NPCs/Zion/Victoria Dawnbreak.md",
     "z_Assets/Pasted image 20241014222147.png",
     "3. World/NPCs/Zion/Theo and Amelia Dawnbreak.md",
     "3. World/NPCs/Zion/Braun Desal.md",
-    "3. World/NPCs/Aywin Gretumal.md",
-    "3. World/NPCs/Ayre.md",
-    "3. World/NPCs/Assoki.md",
+    "3. World/NPCs/MISC/Aywin Gretumal.md",
+    "3. World/NPCs/MISC/Ayre.md",
     "z_Assets/session-51-5.png",
     "z_Assets/session-51-4.png",
-    "1. Session Notes/Session 50.md",
     "1. Session Notes/Session 47.md",
     "1. Session Notes/Session 48.md",
-    "1. Session Notes/Session 49.md",
     "3. World/NPCs/Dane/Astrid Thrane-Ogden.md",
     "3. World/NPCs/Dane/Jean-Georges Gérin-Lajoie.md",
-    "z_Assets/session-51-3.png",
     "3. World/NPCs/Cedrick/Ellie Ballard.md",
-    "z_Assets/session-51-2.png",
     "3. World/NPCs/Cedrick/Lucas Ballard.md",
     "2. Players/Sol Siofra.md",
-    "z_Assets/session-51-1.png",
     "3. World/NPCs/Cedrick/Eleanor Ballard.md",
-    "z_Assets/Pasted image 20240930225442.png",
-    "3. World/NPCs/Vlodus.md",
-    "3. World/NPCs/Warlord Kon.md",
-    "3. World/NPCs/Folmar.md",
-    "1. Session Notes/Session 26.md",
-    "1. Session Notes/Session 25.md",
-    "1. Session Notes/Session 27.md",
-    "1. Session Notes/Session 22.md",
+    "3. World/NPCs/MISC/Vlodus.md",
+    "3. World/NPCs/MISC/Warlord Kon.md",
+    "3. World/NPCs/MISC/Folmar.md",
     "3. World/Places/Minastria/Points of Interest",
     "3. World/NPCs/Garrin",
     "3. World/NPCs/Cindril",
@@ -266,7 +253,6 @@
     "3. World/Guilds Groups",
     "4-Resources/5. Tools/Meta-Bind",
     "1. Session Notes/Timeline",
-    "9. Misc/NPC_Template/2. Aeonia/Aster/Countries & Regions/Shadowkeep of Aster",
     "4. Mechanics/Classes/Rogue/Untitled.canvas"
   ]
 }
