@@ -7,3 +7,5 @@
 - Once per turn, sneak attack on advantage or ally in 5 feet
 - Advantage on initiative rolls, and on attack rolls against creatures that have not yet acted in combat. 
 - Any attack you land against a creature that is stunned, surprised, or has not yet taken a turn in combat is an automatic critical hit.
+- As a bonus action, you give yourself advantage on your next attack roll on the current turn.
+- Can attack with bonus action when using [[hand-crossbow]] 

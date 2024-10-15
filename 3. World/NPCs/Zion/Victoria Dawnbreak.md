@@ -42,3 +42,5 @@ icon: npc
 > ---
 
 Wife or ex-wife? Zion isn’t to sure at this point. She joined the rebellion and more or less left him behind. 
+
+![[Pasted image 20241014222147.png]]

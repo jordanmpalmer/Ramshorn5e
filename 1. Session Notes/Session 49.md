@@ -11,11 +11,39 @@ icon: session-note
 
 ## Recap of Last Session
 
-![[Session 46#Session Summary]]
+![[Session 48#Session Summary]]
 
 ## Session Summary
 
+We are fighting dinosaurs
 
+Sol harvests some of their stuff
+
+There is an explosive mushroom 
+
+Sol talks to a bunny 
+
+Cedrick has some sort of static connection to Weaver who says one of my family members needs to be sick. Cedrick does give and answer and he choses his wife. 
+
+Zion scrys on his wife and kids
+
+We find a chest, open it with loot
+
+[[Thorn Maxim]] fighting with a [[harpy]] against the [[tiefling]], [[Folmar]]. 
+
+They want to get information from him to figure out how to take down the barrier with no name. 
+
+[[Thorn Maxim]] and the [[harpy]] fly off, but are mad. Seems like we have made enemies.
+
+After much debate [[Folmar]] decides to come with us so we can protect him
+
+![[session-49-1.png|center|600]]
+
+We end up at [[Sable]]'s place, where we find people who look like the group where Cedrick met his older self
+
+Cedrick gets captured, Dane goes in an talks to Sable,
+
+They come out, she dies, and the hunters leave
 
 ## Current To Do
 

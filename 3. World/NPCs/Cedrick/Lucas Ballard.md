@@ -1,25 +1,26 @@
 ---
-name: Sable
-aliases: 
+name: Lucas Ballard
+aliases:
+  - Lucas
 pronouns: 
 age: 
 race: 
 class: 
 languages: 
-location: "[[Regatia]]"
+location: 
 connections: 
 group: 
 religion: 
 alignment: 
-party-alignment: Unknown
-pc-bond: None
+party-alignment: 
+pc-bond: "[[Cedrick Ballard|Cedrick Ballard]]"
 tags:
   - NPC
 icon: npc
 ---
 > [!infobox]
 > # `=this.name` 
-> ![[Sable.png|cover 200]]
+> ![[lucas-ballard.png|cover 200]]
 > ###### Basic Information
 > | Type | Stat |
 > | ---- | ---- |
@@ -40,3 +41,4 @@ icon: npc
 > | Player Connection| `=this.pc-bond` |
 > ---
 
+[[Cedrick Ballard]]'s son

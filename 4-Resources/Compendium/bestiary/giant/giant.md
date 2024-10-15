@@ -12,7 +12,7 @@ cssclasses: json5e-note
 - [Frost Giant](frost-giant.md)
 - [Half-Ogre (Ogrillon)](half-ogre-ogrillon.md)
 - [Hill Giant](hill-giant.md)
-- [Ogre](ogre.md)
+- [Ogre](4-Resources/Compendium/bestiary/giant/ogre.md)
 - [Oni](oni.md)
 - [Stone Giant](stone-giant.md)
 - [Storm Giant](storm-giant.md)

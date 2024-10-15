@@ -11,12 +11,11 @@ icon: session-note
 
 ## Recap of Last Session
 
-![[Session 25]]
+![[Session 44#Session Summary]]
 
 ## Session Summary
 
 ![[Current To Do List]]
-
 
 
 

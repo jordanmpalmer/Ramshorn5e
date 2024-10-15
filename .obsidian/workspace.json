@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0da99ee84e50346c",
+        "id": "21963fa4701cad13",
         "type": "tabs",
         "children": [
           {
-            "id": "1c3bbb7463f3609c",
+            "id": "12674699c3a4effc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Session Notes/Session 42.md",
+                "file": "1. Session Notes/Session 49.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b81657e6e4d382ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Session Notes/Session 43.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6bb99c6b3f06553a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Session Notes/Session 44.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10b7e1168588a632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-Resources/Compendium/classes/rogue.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 233.5
   },
   "right": {
     "id": "2078c8434f5906f9",
@@ -122,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Session Notes/Session 44.md",
+                "file": "1. Session Notes/Session 49.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Session Notes/Session 44.md",
+                "file": "1. Session Notes/Session 49.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Session Notes/Session 44.md"
+                "file": "1. Session Notes/Session 49.md"
               }
             }
           },
@@ -215,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "1f5cb59b46f7088f",
@@ -255,44 +218,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6bb99c6b3f06553a",
+  "active": "12674699c3a4effc",
   "lastOpenFiles": [
-    "1. Session Notes/Current To Do List.md",
-    "1. Session Notes/Session 44.md",
-    "1. Session Notes/Session 43.md",
-    "1. Session Notes/Session 35.md",
-    "1. Session Notes/Session 36.md",
-    "1. Session Notes/Session 38.md",
-    "1. Session Notes/Session 39.md",
-    "1. Session Notes/Session 40.md",
-    "1. Session Notes/Session 41.md",
-    "1. Session Notes/Session 42.md",
-    "4-Resources/Compendium/classes/rogue.md",
-    "3. World/NPCs/Garrin/Enthyra Branchfall.md",
-    "3. World/NPCs/Weaver.md",
-    "1. Session Notes/Session 27.md",
-    "9. Misc/New tab.md",
-    "3. World/Four-Armed Catherine.md",
-    "z_Assets/Enthyra-Branchfall.png",
-    "3. World/NPCs/Garrin/Mirelle Staffield.md",
-    "3. World/NPCs/Garrin/Daeric Branchfall.md",
-    "3. World/Places/Minastria/Ashgrove.md",
-    "z_Assets/Ashgrove.png",
+    "1. Session Notes/Session 51.md",
+    "z_Assets/session-51-7.png",
+    "z_Assets/session-51-6.png",
+    "3. World/NPCs/Mamduc.md",
+    "z_Assets/Pasted image 20241014222214.png",
+    "3. World/NPCs/Zion/Victoria Dawnbreak.md",
+    "z_Assets/Pasted image 20241014222147.png",
+    "3. World/NPCs/Zion/Theo and Amelia Dawnbreak.md",
+    "3. World/NPCs/Zion/Braun Desal.md",
+    "3. World/NPCs/Aywin Gretumal.md",
+    "3. World/NPCs/Ayre.md",
+    "3. World/NPCs/Assoki.md",
+    "z_Assets/session-51-5.png",
+    "z_Assets/session-51-4.png",
+    "1. Session Notes/Session 50.md",
+    "1. Session Notes/Session 47.md",
+    "1. Session Notes/Session 48.md",
+    "1. Session Notes/Session 49.md",
+    "3. World/NPCs/Dane/Astrid Thrane-Ogden.md",
+    "3. World/NPCs/Dane/Jean-Georges Gérin-Lajoie.md",
+    "z_Assets/session-51-3.png",
+    "3. World/NPCs/Cedrick/Ellie Ballard.md",
+    "z_Assets/session-51-2.png",
+    "3. World/NPCs/Cedrick/Lucas Ballard.md",
     "2. Players/Sol Siofra.md",
-    "3. World/Guilds+Groups+Religions/The Ethereals.md",
+    "z_Assets/session-51-1.png",
     "3. World/NPCs/Cedrick/Eleanor Ballard.md",
-    "z_Assets/Pasted image 20240708234832.png",
-    "z_Assets/Pasted image 20240708234811.png",
-    "z_Assets/Pasted image 20240708234756.png",
-    "z_Assets/Pasted image 20240708234729.png",
-    "3. World/NPCs/Tandy Granger.md",
-    "z_Assets/tandy-granger.png",
-    "z_Assets/Pasted image 20231203114223.png",
-    "z_Assets/272704618-c28662d9-a5b7-4b84-abed-85f06785ea78.gif",
-    "README.md",
-    "Session 27.md",
-    "2. Players/Cedrick Ballard.md",
-    "z_Assets/Gordos.png",
+    "z_Assets/Pasted image 20240930225442.png",
+    "3. World/NPCs/Vlodus.md",
+    "3. World/NPCs/Warlord Kon.md",
+    "3. World/NPCs/Folmar.md",
+    "1. Session Notes/Session 26.md",
+    "1. Session Notes/Session 25.md",
+    "1. Session Notes/Session 27.md",
+    "1. Session Notes/Session 22.md",
     "3. World/Places/Minastria/Points of Interest",
     "3. World/NPCs/Garrin",
     "3. World/NPCs/Cindril",

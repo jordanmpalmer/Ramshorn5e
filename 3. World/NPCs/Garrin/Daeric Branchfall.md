@@ -1,6 +1,7 @@
 ---
-name: 
-aliases: 
+name: Daeric Branchfall
+aliases:
+  - Daeric
 pronouns: 
 age: 
 race: 

@@ -11,20 +11,18 @@ icon: session-note
 
 ## Recap of Last Session
 
-![[Session 43#Session Summary]]
+![[Session 46#Session Summary]]
 
 ## Session Summary
 
 ![[Current To Do List]]
 
+Back at the wagon we find our horses missing and the bitches that we killed show up again. Sol goes firey again. 
 
-Some things in the sky spell out
-A-N-S-
+We track down our horses and there is a note with them saying they were being borrowed by someone called [[Law Sage Agridalf]]
 
+Then end up back with [[Garrin Branchfall]]'s mum while Sol tries to meditate to prevent explosion. 
 
-I can be cracked, made, told, and played
-
-![[Pasted image 20240819233125.png]]
 ## Current Abilities 
 
 Maneuvers

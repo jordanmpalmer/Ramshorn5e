@@ -1,17 +1,17 @@
 ---
-name: Sable
+name: Mamduc
 aliases: 
 pronouns: 
 age: 
 race: 
 class: 
 languages: 
-location: "[[Regatia]]"
+location: 
 connections: 
 group: 
 religion: 
 alignment: 
-party-alignment: Unknown
+party-alignment: 
 pc-bond: None
 tags:
   - NPC
@@ -19,7 +19,7 @@ icon: npc
 ---
 > [!infobox]
 > # `=this.name` 
-> ![[Sable.png|cover 200]]
+> ![[NPC_Placeholder.png|cover 200]]
 > ###### Basic Information
 > | Type | Stat |
 > | ---- | ---- |
@@ -39,4 +39,6 @@ icon: npc
 > | Party Alignment| `=this.party-alignment` |
 > | Player Connection| `=this.pc-bond` |
 > ---
+
+![[Pasted image 20241014222214.png]]
 

@@ -20,7 +20,7 @@ icon: npc
 ---
 > [!infobox]
 > # `=this.name` 
-> ![[NPC_Placeholder.png|cover 200]]
+> ![[Eleanor.png|cover 200]]
 > ###### Basic Information
 > | Type | Stat |
 > | ---- | ---- |
@@ -43,10 +43,8 @@ icon: npc
 
 Eleanor is Cedricks wife. They met when he was younger and unexpectedly had twins not long after. His work caused a rift in their family that eventually caused Eleanor to leave with the kids longing for a day where Cedrick would no longer be traveling and killing for a living. 
 
-![[Pasted image 20240708234756.png]]
-
-![[Pasted image 20240708234811.png]]
 
 
-![[Pasted image 20240708234832.png]]
+
+
 

@@ -11,7 +11,7 @@ icon: session-note
 
 ## Recap of Last Session
 
-![[Session 27]]
+![[Notes]]
 
 ## Session Summary
 

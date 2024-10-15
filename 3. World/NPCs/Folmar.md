@@ -1,17 +1,17 @@
 ---
-name: Sable
+name: Thormar
 aliases: 
 pronouns: 
 age: 
 race: 
 class: 
 languages: 
-location: "[[Regatia]]"
+location: 
 connections: 
 group: 
 religion: 
 alignment: 
-party-alignment: Unknown
+party-alignment: 
 pc-bond: None
 tags:
   - NPC
@@ -19,7 +19,7 @@ icon: npc
 ---
 > [!infobox]
 > # `=this.name` 
-> ![[Sable.png|cover 200]]
+> ![[Thormar.png|cover 200]]
 > ###### Basic Information
 > | Type | Stat |
 > | ---- | ---- |
@@ -40,3 +40,4 @@ icon: npc
 > | Player Connection| `=this.pc-bond` |
 > ---
 
+[[tiefling]] who put up the barrier in the town with no name

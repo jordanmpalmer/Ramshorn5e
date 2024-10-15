@@ -11,20 +11,28 @@ icon: session-note
 
 ## Recap of Last Session
 
-![[Session 43#Session Summary]]
+![[Session 47#Session Summary]]
 
 ## Session Summary
 
+End up going to the tavern to find some lodging. 
+
+Cedrick meets Rick, Syd, and Deck who are discussing what happened with the explosion. They mention a fight pit to go gamble at.
+
+Sol worked on learning ignan. 
+Cindril learned about souls and peered back but went too far back. 
+Zion became proficient in deception and learned some lore.
+Cedrick gambled and met [[Renshaw]], used him to start learning [[forgery-kit]].
+Dane community service. 
+
+
+Renshaw (The Element)
+
+
+## Current To Do
+
 ![[Current To Do List]]
 
-
-Some things in the sky spell out
-A-N-S-
-
-
-I can be cracked, made, told, and played
-
-![[Pasted image 20240819233125.png]]
 ## Current Abilities 
 
 Maneuvers

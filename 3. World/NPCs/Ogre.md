@@ -1,17 +1,17 @@
 ---
-name: Sable
+name: Ogre
 aliases: 
 pronouns: 
 age: 
 race: 
 class: 
 languages: 
-location: "[[Regatia]]"
+location: 
 connections: 
 group: 
 religion: 
 alignment: 
-party-alignment: Unknown
+party-alignment: 
 pc-bond: None
 tags:
   - NPC
@@ -19,7 +19,7 @@ icon: npc
 ---
 > [!infobox]
 > # `=this.name` 
-> ![[Sable.png|cover 200]]
+> ![[Orge.png|cover 200]]
 > ###### Basic Information
 > | Type | Stat |
 > | ---- | ---- |
@@ -40,3 +40,5 @@ icon: npc
 > | Player Connection| `=this.pc-bond` |
 > ---
 
+
+He is a Loxodon that is convinced that he is an ogre. Owner of the Blue Moon Tavern. 
